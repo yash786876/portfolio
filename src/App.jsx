@@ -9,7 +9,6 @@ import FinanceGeek from './pages/FinanceGeek.jsx'
 import DeepTech from './pages/DeepTech.jsx'
 import MovieRecommendations from './pages/MovieRecommendations.jsx'
 import BooksRecommendations from './pages/BooksRecommendations.jsx'
-import Sports from './pages/Sports.jsx'
 
 function App() {
   return (
@@ -24,7 +23,6 @@ function App() {
           <Route path="/deep-tech" element={<DeepTech />} />
           <Route path="/movies" element={<MovieRecommendations />} />
           <Route path="/books" element={<BooksRecommendations />} />
-          <Route path="/sports" element={<Sports />} />
         </Routes>
       </main>
       <Footer />

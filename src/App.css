@@ -1,6 +1,12 @@
+main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
 .hero {
   text-align: center;
-  padding: 56px 0 48px;
+  padding: 40px 0 32px;
 }
 
 .hero-avatar {
@@ -28,62 +34,91 @@
   font-size: 1.1rem;
   color: var(--accent);
   font-weight: 600;
-  margin: 0 0 16px;
+  margin: 0;
 }
 
-.hero-sub {
-  max-width: 480px;
-  margin: 0 auto;
-  color: var(--text-muted);
-}
-
-.cards {
+.tile-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 16px;
-  margin-bottom: 64px;
+  margin-bottom: 48px;
 }
 
-@media (max-width: 560px) {
-  .cards {
+@media (max-width: 680px) {
+  .tile-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 420px) {
+  .tile-grid {
     grid-template-columns: 1fr;
   }
 }
 
-.card {
+.tile {
   display: flex;
   flex-direction: column;
-  gap: 4px;
-  padding: 24px;
-  border-radius: 16px;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
+  gap: 6px;
+  padding: 22px;
+  border-radius: 18px;
   text-decoration: none;
   color: var(--text);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  border: 1px solid transparent;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
 
-.card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+.tile:nth-child(odd):hover {
+  transform: translateY(-4px) rotate(-1deg) scale(1.02);
 }
 
-.card-emoji {
-  font-size: 1.6rem;
+.tile:nth-child(even):hover {
+  transform: translateY(-4px) rotate(1deg) scale(1.02);
 }
 
-.card-title {
+.tile:hover {
+  box-shadow: 0 10px 24px rgba(20, 20, 40, 0.08);
+}
+
+.tile:active {
+  transform: scale(0.97);
+}
+
+.tile-icon {
+  font-size: 1.8rem;
+  display: inline-block;
+  transition: transform 0.25s ease;
+}
+
+.tile:hover .tile-icon {
+  animation: tile-wiggle 0.5s ease;
+}
+
+@keyframes tile-wiggle {
+  0%, 100% { transform: rotate(0deg) scale(1); }
+  30% { transform: rotate(-12deg) scale(1.15); }
+  60% { transform: rotate(10deg) scale(1.15); }
+}
+
+.tile-title {
   font-weight: 700;
-  font-size: 1.05rem;
+  font-size: 1rem;
 }
 
-.card-blurb {
+.tile-blurb {
   color: var(--text-muted);
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
+
+.tone-green { background: #e6f6ea; }
+.tone-blue { background: #e7effe; }
+.tone-amber { background: #fff3df; }
+.tone-purple { background: #f0e9fe; }
+.tone-red { background: #fde9ec; }
+.tone-teal { background: #e3f8f3; }
 
 .page {
-  padding: 40px 0 64px;
+  padding: 32px 0 64px;
 }
 
 .page h1 {
@@ -189,8 +224,10 @@
 }
 
 .footer {
+  max-width: 880px;
+  margin: 0 auto;
   text-align: center;
-  padding: 48px 0;
+  padding: 48px 24px;
   color: var(--text-muted);
   font-size: 0.85rem;
 }

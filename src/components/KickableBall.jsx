@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import './Sports.css'
+import './KickableBall.css'
 
 const BALL_SIZE = 56
 const FRICTION = 0.985
@@ -11,15 +11,15 @@ const CAPTIONS = [
   { max: 1.2, text: 'Dollar-cost averaging this one.' },
   { max: 2.5, text: 'Steady, dividend-paying kick.' },
   { max: 4.5, text: 'Beating the benchmark.' },
-  { max: 7, text: 'Now we\'re talking growth stock.' },
-  { max: Infinity, text: "IPO-day pop. Someone alert the LPs. 🚀" },
+  { max: 7, text: "Now we're talking growth stock." },
+  { max: Infinity, text: 'IPO-day pop. Someone alert the LPs. 🚀' },
 ]
 
 function captionFor(speed) {
   return CAPTIONS.find((c) => speed <= c.max).text
 }
 
-function Sports() {
+function KickableBall() {
   const fieldRef = useRef(null)
   const ballRef = useRef(null)
   const pos = useRef({ x: 0, y: 0 })
@@ -32,7 +32,6 @@ function Sports() {
   const [bestSpeed, setBestSpeed] = useState(0)
   const [caption, setCaption] = useState('Drag the ball and let go to kick it.')
 
-  // place ball in the center on mount / resize
   useEffect(() => {
     const place = () => {
       const field = fieldRef.current
@@ -56,7 +55,6 @@ function Sports() {
     }
   }
 
-  // animation loop
   useEffect(() => {
     let raf
     const tick = () => {
@@ -125,7 +123,7 @@ function Sports() {
     const dt = Math.max(lastPointer.current.t - dragStart.current.t, 16)
     const dx = lastPointer.current.x - dragStart.current.x
     const dy = lastPointer.current.y - dragStart.current.y
-    const scale = 14 / dt // tuned so a quick flick feels like a real kick
+    const scale = 14 / dt
 
     vel.current = { x: dx * scale, y: dy * scale }
     const speed = Math.hypot(vel.current.x, vel.current.y)
@@ -136,13 +134,7 @@ function Sports() {
   }
 
   return (
-    <section className="page">
-      <h1>Sports</h1>
-      <p className="prose">
-        Football over F1, and finance runs through everything else. Drag the
-        ball and let go — it's the only KPI here that doesn't need a model.
-      </p>
-
+    <div className="ball-widget">
       <div className="stat-row">
         <div className="stat">
           <span className="stat-value">{kicks}</span>
@@ -171,8 +163,8 @@ function Sports() {
       </div>
 
       <p className="caption">{caption}</p>
-    </section>
+    </div>
   )
 }
 
-export default Sports
+export default KickableBall
