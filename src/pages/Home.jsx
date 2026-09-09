@@ -4,6 +4,7 @@ import PenaltyShootout from '../components/PenaltyShootout.jsx'
 import ScribbleChart from '../components/ScribbleChart.jsx'
 import BullBearReflex from '../components/BullBearReflex.jsx'
 import WhackABuzzword from '../components/WhackABuzzword.jsx'
+import DogHouse from '../components/DogHouse.jsx'
 import DealTicker from '../components/DealTicker.jsx'
 
 const tiles = [
@@ -52,6 +53,7 @@ function Home() {
 
       <h2 className="section-label">Play around</h2>
       <div className="widget-grid">
+        <DogHouse />
         <PenaltyShootout />
         <BullBearReflex />
         <WhackABuzzword />

@@ -10,7 +10,6 @@ import DeepTech from './pages/DeepTech.jsx'
 import MovieRecommendations from './pages/MovieRecommendations.jsx'
 import BooksRecommendations from './pages/BooksRecommendations.jsx'
 import FundMyMBA from './pages/FundMyMBA.jsx'
-import Mascot from './components/Mascot.jsx'
 
 function App() {
   return (
@@ -29,7 +28,6 @@ function App() {
         </Routes>
       </main>
       <Footer />
-      <Mascot />
     </>
   )
 }
