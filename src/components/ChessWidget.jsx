@@ -1,7 +1,6 @@
 import { useMemo, useRef, useState } from 'react'
 import { Chess } from 'chess.js'
-import { findBotMove } from './chessAI.js'
-import { PUZZLES } from './chessPuzzles.js'
+import { MATE_IN_1, MATE_IN_2 } from './chessPuzzles.js'
 import './ChessWidget.css'
 
 const FILES = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
@@ -12,27 +11,45 @@ const PIECE_GLYPH = {
   b: { p: '♟', n: '♞', b: '♝', r: '♜', q: '♛', k: '♚' },
 }
 
-function statusFor(chess, { thinking } = {}) {
-  if (thinking) return 'Bot is thinking…'
-  if (chess.isCheckmate()) return `Checkmate — ${chess.turn() === 'w' ? 'Black' : 'White'} wins.`
-  if (chess.isStalemate()) return 'Stalemate.'
-  if (chess.isDraw()) return 'Draw.'
-  if (chess.isCheck()) return `${chess.turn() === 'w' ? 'White' : 'Black'} to move — check!`
-  return `${chess.turn() === 'w' ? 'White' : 'Black'} to move.`
+const SETS = {
+  mate1: { puzzles: MATE_IN_1, label: 'Mate in 1' },
+  mate2: { puzzles: MATE_IN_2, label: 'Mate in 2' },
+}
+
+function firstMateMove(chess) {
+  for (const m of chess.moves({ verbose: true })) {
+    chess.move({ from: m.from, to: m.to, promotion: m.promotion || 'q' })
+    const mate = chess.isCheckmate()
+    chess.undo()
+    if (mate) return m
+  }
+  return null
+}
+
+// After a move that puts it on `chess`'s side-to-move, checks whether every
+// legal reply still leaves the OTHER side with a mate-in-1 available.
+function everyReplyAllowsMate(chess) {
+  const replies = chess.moves({ verbose: true })
+  if (replies.length === 0) return false
+  for (const reply of replies) {
+    chess.move({ from: reply.from, to: reply.to, promotion: reply.promotion || 'q' })
+    const mate = firstMateMove(chess)
+    chess.undo()
+    if (!mate) return false
+  }
+  return true
 }
 
 function ChessWidget() {
-  const [mode, setMode] = useState('play') // play | puzzle
-  const gameRef = useRef(new Chess())
-  const [fen, setFen] = useState(() => new Chess().fen())
+  const [mode, setMode] = useState('mate1')
+  const gameRef = useRef(new Chess(MATE_IN_1[0].fen))
+  const [fen, setFen] = useState(() => MATE_IN_1[0].fen)
   const [selected, setSelected] = useState(null)
-  const [thinking, setThinking] = useState(false)
   const [puzzleIndex, setPuzzleIndex] = useState(0)
   const [solved, setSolved] = useState(0)
-  const [puzzleMsg, setPuzzleMsg] = useState('Find the checkmate in one move.')
+  const [stage, setStage] = useState('first') // first | second (mate-in-2 only)
+  const [msg, setMsg] = useState('Find the checkmate in one move.')
 
-  // Read-only view of the current position, derived purely from `fen` — the
-  // mutable game instance (gameRef) is only ever touched inside handlers.
   const view = useMemo(() => new Chess(fen), [fen])
 
   const legalTargets = useMemo(() => {
@@ -44,61 +61,41 @@ function ChessWidget() {
     setFen(gameRef.current.fen())
   }
 
-  function newGame() {
-    gameRef.current.reset()
-    setSelected(null)
-    setThinking(false)
-    refresh()
+  function currentPuzzles() {
+    return SETS[mode].puzzles
   }
 
-  function loadPuzzle(i) {
-    gameRef.current.load(PUZZLES[i].fen)
+  function loadPuzzle(i, nextMode = mode) {
+    gameRef.current.load(SETS[nextMode].puzzles[i].fen)
     setSelected(null)
-    setPuzzleMsg('Find the checkmate in one move.')
+    setStage('first')
+    setMsg(nextMode === 'mate2' ? 'Find the forcing first move.' : 'Find the checkmate in one move.')
     refresh()
   }
 
   function switchMode(next) {
+    if (next === mode) return
     setMode(next)
-    setSelected(null)
-    setThinking(false)
-    if (next === 'puzzle') {
-      loadPuzzle(puzzleIndex)
-    } else {
-      newGame()
-    }
+    setPuzzleIndex(0)
+    setSolved(0)
+    loadPuzzle(0, next)
   }
 
-  function playBotMove() {
-    setThinking(true)
-    setTimeout(() => {
-      const move = findBotMove(gameRef.current)
-      if (move) {
-        gameRef.current.move({ from: move.from, to: move.to, promotion: move.promotion || 'q' })
-      }
-      setThinking(false)
-      refresh()
-    }, 250)
+  function resetPuzzle() {
+    loadPuzzle(puzzleIndex)
+  }
+
+  function nextPuzzle() {
+    const total = currentPuzzles().length
+    const next = (puzzleIndex + 1) % total
+    setPuzzleIndex(next)
+    loadPuzzle(next)
   }
 
   function handleSquareClick(square) {
-    if (thinking) return
     const piece = view.get(square)
 
-    if (mode === 'puzzle') {
-      if (selected && legalTargets.includes(square)) {
-        gameRef.current.move({ from: selected, to: square, promotion: 'q' })
-        if (gameRef.current.isCheckmate()) {
-          setSolved((s) => s + 1)
-          setPuzzleMsg('Mate! Nicely spotted.')
-        } else {
-          setPuzzleMsg('Not mate — reloading the puzzle. Try again.')
-          gameRef.current.load(PUZZLES[puzzleIndex].fen)
-        }
-        setSelected(null)
-        refresh()
-        return
-      }
+    if (!(selected && legalTargets.includes(square))) {
       if (piece && piece.color === view.turn()) {
         setSelected(square)
       } else {
@@ -107,41 +104,55 @@ function ChessWidget() {
       return
     }
 
-    // play mode
-    if (selected && legalTargets.includes(square)) {
+    // a legal move to `square` from `selected` is being played
+    if (mode === 'mate1' || stage === 'second') {
       gameRef.current.move({ from: selected, to: square, promotion: 'q' })
-      setSelected(null)
-      refresh()
-      if (!gameRef.current.isGameOver()) {
-        playBotMove()
+      if (gameRef.current.isCheckmate()) {
+        setSolved((s) => s + 1)
+        setMsg('Mate! Nicely spotted.')
+      } else {
+        setMsg('Not mate — reloading the puzzle. Try again.')
+        resetPuzzle()
+        return
       }
-      return
-    }
-    if (piece && piece.color === view.turn() && piece.color === 'w') {
-      setSelected(square)
     } else {
-      setSelected(null)
+      // mate-in-2, first move
+      gameRef.current.move({ from: selected, to: square, promotion: 'q' })
+      if (everyReplyAllowsMate(gameRef.current)) {
+        const replies = gameRef.current.moves({ verbose: true })
+        const reply = replies[Math.floor(Math.random() * replies.length)]
+        gameRef.current.move({ from: reply.from, to: reply.to, promotion: reply.promotion || 'q' })
+        setStage('second')
+        setMsg('Good — that forces it. Now find the mate.')
+      } else {
+        setMsg('Not forcing — black has an escape. Try again.')
+        resetPuzzle()
+        return
+      }
     }
+    setSelected(null)
+    refresh()
   }
 
   const board = view.board()
+  const total = currentPuzzles().length
 
   return (
     <div className="widget-card chess-widget">
       <div className="chess-tabs">
         <button
           type="button"
-          className={mode === 'play' ? 'chess-tab active' : 'chess-tab'}
-          onClick={() => switchMode('play')}
+          className={mode === 'mate1' ? 'chess-tab active' : 'chess-tab'}
+          onClick={() => switchMode('mate1')}
         >
-          Play vs Bot
+          Mate in 1
         </button>
         <button
           type="button"
-          className={mode === 'puzzle' ? 'chess-tab active' : 'chess-tab'}
-          onClick={() => switchMode('puzzle')}
+          className={mode === 'mate2' ? 'chess-tab active' : 'chess-tab'}
+          onClick={() => switchMode('mate2')}
         >
-          Mate Puzzles
+          Mate in 2
         </button>
       </div>
 
@@ -172,34 +183,17 @@ function ChessWidget() {
         )}
       </div>
 
-      {mode === 'play' ? (
-        <div className="chess-footer">
-          <p className="caption">{statusFor(view, { thinking })}</p>
-          <button type="button" className="chess-btn" onClick={newGame}>
-            New game
+      <div className="chess-footer">
+        <p className="caption">{msg}</p>
+        <div className="chess-puzzle-row">
+          <span className="chess-puzzle-count">
+            {SETS[mode].label} · Puzzle {puzzleIndex + 1}/{total} · Solved {solved}
+          </span>
+          <button type="button" className="widget-btn" onClick={nextPuzzle}>
+            Next puzzle
           </button>
         </div>
-      ) : (
-        <div className="chess-footer">
-          <p className="caption">{puzzleMsg}</p>
-          <div className="chess-puzzle-row">
-            <span className="chess-puzzle-count">
-              Puzzle {puzzleIndex + 1}/{PUZZLES.length} · Solved {solved}
-            </span>
-            <button
-              type="button"
-              className="chess-btn"
-              onClick={() => {
-                const next = (puzzleIndex + 1) % PUZZLES.length
-                setPuzzleIndex(next)
-                loadPuzzle(next)
-              }}
-            >
-              Next puzzle
-            </button>
-          </div>
-        </div>
-      )}
+      </div>
     </div>
   )
 }

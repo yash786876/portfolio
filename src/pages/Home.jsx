@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom'
 import PenaltyShootout from '../components/PenaltyShootout.jsx'
 import ChessWidget from '../components/ChessWidget.jsx'
+import WordleGame from '../components/WordleGame.jsx'
+import SimonGame from '../components/SimonGame.jsx'
 import DealTicker from '../components/DealTicker.jsx'
 
 const tiles = [
@@ -26,6 +28,8 @@ function Home() {
       <div className="widget-grid">
         <ChessWidget />
         <PenaltyShootout />
+        <WordleGame />
+        <SimonGame />
       </div>
 
       <h2 className="section-label">Explore</h2>

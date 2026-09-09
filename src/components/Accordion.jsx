@@ -1,11 +1,11 @@
 import { useState } from 'react'
 import './Accordion.css'
 
-function Accordion({ title, defaultOpen = false, children }) {
+function Accordion({ id, title, defaultOpen = false, children }) {
   const [open, setOpen] = useState(defaultOpen)
 
   return (
-    <div className={`accordion${open ? ' accordion-open' : ''}`}>
+    <div id={id} className={`accordion${open ? ' accordion-open' : ''}`}>
       <button
         type="button"
         className="accordion-trigger"

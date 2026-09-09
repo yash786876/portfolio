@@ -1,3 +1,5 @@
+import { useEffect } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import Accordion from '../components/Accordion.jsx'
 
 const reads = [
@@ -6,6 +8,15 @@ const reads = [
 ]
 
 function FinanceGeek() {
+  const [params] = useSearchParams()
+  const openSection = params.get('open') // 'dcf-model' | 'industry-analysis' | null
+
+  useEffect(() => {
+    if (!openSection) return
+    const el = document.getElementById(openSection)
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+  }, [openSection])
+
   return (
     <section className="page">
       <h1>Finance Geek</h1>
@@ -15,7 +26,12 @@ function FinanceGeek() {
         deal — replace with your real reading list and notes.
       </p>
 
-      <Accordion title="1. DCF Model" defaultOpen>
+      <Accordion
+        key={`dcf-${openSection}`}
+        id="dcf-model"
+        title="1. DCF Model"
+        defaultOpen={openSection ? openSection === 'dcf-model' : true}
+      >
         <p className="prose">
           Drop in your own DCF walkthrough here — assumptions, WACC, terminal
           value approach, and a link to the actual model. A rough skeleton:
@@ -28,7 +44,12 @@ function FinanceGeek() {
         </ul>
       </Accordion>
 
-      <Accordion title="2. Industry Analysis">
+      <Accordion
+        key={`industry-${openSection}`}
+        id="industry-analysis"
+        title="2. Industry Analysis"
+        defaultOpen={openSection === 'industry-analysis'}
+      >
         <p className="prose">
           A framework for breaking down any industry you're studying — swap
           in the real sector and findings.
