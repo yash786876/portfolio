@@ -1,0 +1,160 @@
+.mascot-wrap {
+  position: fixed;
+  right: clamp(14px, 3vw, 32px);
+  bottom: clamp(14px, 3vw, 32px);
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+  max-width: min(280px, 78vw);
+}
+
+.mascot-bubble {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px 16px 4px 16px;
+  padding: 12px 16px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  box-shadow: 0 10px 24px rgba(30, 25, 10, 0.14);
+  animation: bubble-pop 0.25s ease;
+}
+
+.mascot-bubble p {
+  margin: 0;
+}
+
+.mascot-bubble p + p {
+  margin-top: 6px;
+}
+
+@keyframes bubble-pop {
+  0% { transform: scale(0.85) translateY(6px); opacity: 0; }
+  100% { transform: scale(1) translateY(0); opacity: 1; }
+}
+
+.mascot-question {
+  font-family: 'Baloo 2', sans-serif;
+  font-size: 1.1rem !important;
+  color: var(--accent);
+}
+
+.mascot-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.mascot-answer-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.mascot-answer-row input {
+  width: 90px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  font-size: 0.9rem;
+  font-family: inherit;
+}
+
+.mascot-answer-row button {
+  padding: 8px 14px;
+  border-radius: 10px;
+  border: none;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.mascot-answer-row button:hover {
+  filter: brightness(1.08);
+}
+
+.mascot-avatar {
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  border: 3px solid var(--bg-card);
+  background: #f3d9a4;
+  font-size: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 10px 22px rgba(30, 25, 10, 0.18);
+  animation: mascot-idle-bob 2.6s ease-in-out infinite;
+}
+
+.mascot-avatar:hover {
+  filter: brightness(1.05);
+}
+
+@keyframes mascot-idle-bob {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-6px) rotate(-4deg); }
+}
+
+.mascot-teased .mascot-avatar {
+  animation: mascot-shake 0.4s ease;
+}
+
+@keyframes mascot-shake {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  20% { transform: translate(-4px, 0) rotate(-8deg); }
+  40% { transform: translate(4px, 0) rotate(8deg); }
+  60% { transform: translate(-3px, 0) rotate(-6deg); }
+  80% { transform: translate(3px, 0) rotate(6deg); }
+}
+
+.mascot-challenge .mascot-avatar {
+  animation: mascot-pulse 0.9s ease-in-out infinite;
+  background: #ffd88a;
+}
+
+@keyframes mascot-pulse {
+  0%, 100% { box-shadow: 0 10px 22px rgba(30, 25, 10, 0.18); }
+  50% { box-shadow: 0 10px 30px rgba(255, 107, 87, 0.45); }
+}
+
+.mascot-wrong .mascot-avatar {
+  animation: mascot-laugh 0.5s ease;
+}
+
+@keyframes mascot-laugh {
+  0%, 100% { transform: rotate(0deg) scale(1); }
+  25% { transform: rotate(-10deg) scale(1.1); }
+  50% { transform: rotate(8deg) scale(1.1); }
+  75% { transform: rotate(-6deg) scale(1.05); }
+}
+
+.mascot-correct .mascot-avatar {
+  animation: mascot-grudge 0.5s ease;
+}
+
+@keyframes mascot-grudge {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(0.9); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mascot-avatar,
+  .mascot-teased .mascot-avatar,
+  .mascot-challenge .mascot-avatar,
+  .mascot-wrong .mascot-avatar,
+  .mascot-correct .mascot-avatar {
+    animation: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .mascot-avatar {
+    width: 56px;
+    height: 56px;
+    font-size: 1.8rem;
+  }
+}

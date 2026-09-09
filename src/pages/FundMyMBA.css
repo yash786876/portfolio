@@ -13,7 +13,7 @@
 }
 
 .mba-hero h1 {
-  font-family: 'Fraunces', serif;
+  font-family: 'Baloo 2', sans-serif;
   font-weight: 500;
   font-size: clamp(2rem, 6vw, 3rem);
   margin: 0 0 12px;
@@ -36,7 +36,7 @@
 }
 
 .mba-page h2 {
-  font-family: 'Fraunces', serif;
+  font-family: 'Baloo 2', sans-serif;
   font-weight: 500;
   font-size: 1.4rem;
   margin: 0 0 16px;
@@ -65,7 +65,7 @@
 }
 
 .tier-price {
-  font-family: 'Fraunces', serif;
+  font-family: 'Baloo 2', sans-serif;
   font-size: 1.6rem;
   color: var(--accent);
   margin: 0 0 8px;

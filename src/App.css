@@ -1,7 +1,7 @@
 main {
-  max-width: 880px;
+  max-width: 1240px;
   margin: 0 auto;
-  padding: 0 24px;
+  padding: 0 clamp(20px, 4vw, 48px);
 }
 
 .hero {
@@ -20,7 +20,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Fraunces', serif;
+  font-family: 'Baloo 2', sans-serif;
   font-size: 28px;
   cursor: pointer;
   animation: avatar-pop 0.4s ease;
@@ -41,7 +41,7 @@ main {
 }
 
 .hero h1 {
-  font-family: 'Fraunces', serif;
+  font-family: 'Baloo 2', sans-serif;
   font-weight: 500;
   font-size: clamp(2rem, 5vw, 3.2rem);
   margin: 0 0 12px;
@@ -72,13 +72,13 @@ main {
   left: 50%;
   width: 56px;
   height: 20px;
-  background: rgba(107, 91, 255, 0.18);
-  border: 1px solid rgba(107, 91, 255, 0.25);
+  background: rgba(91, 61, 245, 0.18);
+  border: 1px solid rgba(91, 61, 245, 0.28);
   border-radius: 3px;
 }
 
 .section-label {
-  font-family: 'Fraunces', serif;
+  font-family: 'Baloo 2', sans-serif;
   font-weight: 500;
   font-size: 1.3rem;
   margin: 0 0 16px;
@@ -134,21 +134,9 @@ main {
 
 .tile-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
   gap: 16px;
   margin-bottom: 48px;
-}
-
-@media (max-width: 680px) {
-  .tile-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 420px) {
-  .tile-grid {
-    grid-template-columns: 1fr;
-  }
 }
 
 .tile {
@@ -217,7 +205,7 @@ main {
 }
 
 .page h1 {
-  font-family: 'Fraunces', serif;
+  font-family: 'Baloo 2', sans-serif;
   font-weight: 500;
   font-size: clamp(1.8rem, 4vw, 2.4rem);
   margin: 0 0 20px;
@@ -319,7 +307,7 @@ main {
 }
 
 .footer {
-  max-width: 880px;
+  max-width: 1240px;
   margin: 0 auto;
   text-align: center;
   padding: 48px 24px;
