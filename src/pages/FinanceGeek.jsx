@@ -1,22 +1,16 @@
-import { useEffect } from 'react'
-import { useSearchParams } from 'react-router-dom'
-import Accordion from '../components/Accordion.jsx'
+import { Link } from 'react-router-dom'
 
 const reads = [
   { title: 'Placeholder: a deal / memo / paper worth reading', note: 'Why it stuck with you.' },
   { title: 'Placeholder: a company you\'ve been digging into', note: 'One line on the thesis.' },
 ]
 
+const subPages = [
+  { to: '/finance-geek/dcf-model', title: 'DCF Model', desc: 'Assumptions, WACC, terminal value, valuation range.' },
+  { to: '/finance-geek/industry-analysis', title: 'Industry Analysis', desc: "Porter's Five Forces, TAM/SAM/SOM, positioning." },
+]
+
 function FinanceGeek() {
-  const [params] = useSearchParams()
-  const openSection = params.get('open') // 'dcf-model' | 'industry-analysis' | null
-
-  useEffect(() => {
-    if (!openSection) return
-    const el = document.getElementById(openSection)
-    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
-  }, [openSection])
-
   return (
     <section className="page">
       <h1>Finance Geek</h1>
@@ -26,41 +20,14 @@ function FinanceGeek() {
         deal — replace with your real reading list and notes.
       </p>
 
-      <Accordion
-        key={`dcf-${openSection}`}
-        id="dcf-model"
-        title="1. DCF Model"
-        defaultOpen={openSection ? openSection === 'dcf-model' : true}
-      >
-        <p className="prose">
-          Drop in your own DCF walkthrough here — assumptions, WACC, terminal
-          value approach, and a link to the actual model. A rough skeleton:
-        </p>
-        <ul className="posts">
-          <li><span className="post-title">Revenue growth assumptions</span><span className="post-date">Placeholder</span></li>
-          <li><span className="post-title">WACC / discount rate</span><span className="post-date">Placeholder</span></li>
-          <li><span className="post-title">Terminal value method</span><span className="post-date">Gordon growth / exit multiple</span></li>
-          <li><span className="post-title">Implied valuation range</span><span className="post-date">Placeholder</span></li>
-        </ul>
-      </Accordion>
-
-      <Accordion
-        key={`industry-${openSection}`}
-        id="industry-analysis"
-        title="2. Industry Analysis"
-        defaultOpen={openSection === 'industry-analysis'}
-      >
-        <p className="prose">
-          A framework for breaking down any industry you're studying — swap
-          in the real sector and findings.
-        </p>
-        <ul className="posts">
-          <li><span className="post-title">Porter's Five Forces read</span><span className="post-date">Placeholder</span></li>
-          <li><span className="post-title">TAM / SAM / SOM</span><span className="post-date">Placeholder</span></li>
-          <li><span className="post-title">Key players & positioning</span><span className="post-date">Placeholder</span></li>
-          <li><span className="post-title">Tailwinds / headwinds</span><span className="post-date">Placeholder</span></li>
-        </ul>
-      </Accordion>
+      <div className="grid">
+        {subPages.map((s) => (
+          <Link className="project" to={s.to} key={s.to}>
+            <h3>{s.title}</h3>
+            <p>{s.desc}</p>
+          </Link>
+        ))}
+      </div>
 
       <h2 style={{ marginTop: '32px' }}>Reading list</h2>
       <ul className="posts">

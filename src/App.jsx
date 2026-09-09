@@ -10,6 +10,8 @@ import DeepTech from './pages/DeepTech.jsx'
 import MovieRecommendations from './pages/MovieRecommendations.jsx'
 import BooksRecommendations from './pages/BooksRecommendations.jsx'
 import FundMyMBA from './pages/FundMyMBA.jsx'
+import TopicPage from './pages/TopicPage.jsx'
+import { TOPIC_PAGES } from './pages/topicPagesData.js'
 
 function App() {
   return (
@@ -25,6 +27,9 @@ function App() {
           <Route path="/movies" element={<MovieRecommendations />} />
           <Route path="/books" element={<BooksRecommendations />} />
           <Route path="/fund-my-mba" element={<FundMyMBA />} />
+          {TOPIC_PAGES.map((t) => (
+            <Route key={t.path} path={t.path} element={<TopicPage {...t} />} />
+          ))}
         </Routes>
       </main>
       <Footer />
