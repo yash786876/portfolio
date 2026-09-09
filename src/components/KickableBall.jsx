@@ -134,7 +134,7 @@ function KickableBall() {
   }
 
   return (
-    <div className="ball-widget">
+    <div className="widget-card">
       <div className="stat-row">
         <div className="stat">
           <span className="stat-value">{kicks}</span>

@@ -1,0 +1,49 @@
+.chart-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.chart-intro {
+  margin: 0;
+  max-width: none;
+}
+
+.chart-clear {
+  flex-shrink: 0;
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.chart-clear:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.chart-wrap {
+  position: relative;
+  width: 100%;
+  height: min(280px, 45vh);
+  border-radius: 16px;
+  background-image:
+    repeating-linear-gradient(90deg, var(--border) 0, var(--border) 1px, transparent 1px, transparent 12.5%),
+    repeating-linear-gradient(0deg, var(--border) 0, var(--border) 1px, transparent 1px, transparent 20%);
+  border: 1px solid var(--border);
+  overflow: hidden;
+  touch-action: none;
+}
+
+.chart-canvas {
+  display: block;
+  cursor: crosshair;
+  touch-action: none;
+}

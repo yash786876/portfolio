@@ -1,5 +1,8 @@
+import { useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import KickableBall from '../components/KickableBall.jsx'
+import ScribbleChart from '../components/ScribbleChart.jsx'
+import DealTicker from '../components/DealTicker.jsx'
 
 const tiles = [
   { to: '/about', emoji: '🌱', title: 'About Me', blurb: 'My story & background.', tone: 'green' },
@@ -10,16 +13,43 @@ const tiles = [
   { to: '/books', emoji: '📚', title: 'Books', blurb: 'What changed my mind.', tone: 'teal' },
 ]
 
+const CLICK_WINDOW = 1500
+const CLICKS_NEEDED = 5
+
 function Home() {
+  const [costume, setCostume] = useState('suit')
+  const clickTimes = useRef([])
+
+  function onAvatarClick() {
+    const now = Date.now()
+    clickTimes.current = [...clickTimes.current, now].filter((t) => now - t < CLICK_WINDOW)
+    if (clickTimes.current.length >= CLICKS_NEEDED) {
+      clickTimes.current = []
+      setCostume((c) => (c === 'suit' ? 'kit' : 'suit'))
+    }
+  }
+
   return (
     <>
       <header className="hero">
-        <div className="hero-avatar" aria-hidden="true">Y</div>
+        <button
+          type="button"
+          className="hero-avatar"
+          key={costume}
+          onClick={onAvatarClick}
+          aria-label="Click me 5 times fast"
+          title="click me 5x fast"
+        >
+          {costume === 'suit' ? 'Y' : '⚽'}
+        </button>
         <h1>👋 Hey, I'm Yash</h1>
         <p className="tagline">jack of all trades · finance geek · footballer at heart</p>
       </header>
 
+      <DealTicker />
+
       <KickableBall />
+      <ScribbleChart />
 
       <div className="tile-grid">
         {tiles.map((t) => (

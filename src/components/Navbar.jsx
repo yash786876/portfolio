@@ -2,6 +2,7 @@ import { NavLink } from 'react-router-dom'
 import './Navbar.css'
 
 const links = [
+  { to: '/fund-my-mba', label: 'Fund My MBA' },
   { to: '/about', label: 'About Me' },
   { to: '/apps', label: 'Apps I Built' },
   { to: '/finance-geek', label: 'Finance Geek' },

@@ -16,11 +16,28 @@ main {
   border-radius: 50%;
   background: var(--accent);
   color: #fff;
+  border: none;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: 'Fraunces', serif;
   font-size: 28px;
+  cursor: pointer;
+  animation: avatar-pop 0.4s ease;
+}
+
+.hero-avatar:hover {
+  filter: brightness(1.08);
+}
+
+.hero-avatar:active {
+  transform: scale(0.95);
+}
+
+@keyframes avatar-pop {
+  0% { transform: scale(0.7) rotate(-15deg); }
+  60% { transform: scale(1.15) rotate(8deg); }
+  100% { transform: scale(1) rotate(0deg); }
 }
 
 .hero h1 {
@@ -35,6 +52,14 @@ main {
   color: var(--accent);
   font-weight: 600;
   margin: 0;
+}
+
+.widget-card {
+  padding: 24px;
+  border-radius: 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  margin-bottom: 32px;
 }
 
 .tile-grid {
