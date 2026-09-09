@@ -96,9 +96,3 @@
   50% { transform: translate(-50%, -50%) scale(0.7) rotate(20deg); }
 }
 
-.caption {
-  margin-top: 16px;
-  font-weight: 600;
-  color: var(--accent);
-  min-height: 1.4em;
-}

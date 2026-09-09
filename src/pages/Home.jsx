@@ -1,10 +1,6 @@
-import { useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import PenaltyShootout from '../components/PenaltyShootout.jsx'
-import ScribbleChart from '../components/ScribbleChart.jsx'
-import BullBearReflex from '../components/BullBearReflex.jsx'
-import WhackABuzzword from '../components/WhackABuzzword.jsx'
-import DogHouse from '../components/DogHouse.jsx'
+import ChessWidget from '../components/ChessWidget.jsx'
 import DealTicker from '../components/DealTicker.jsx'
 
 const tiles = [
@@ -16,35 +12,10 @@ const tiles = [
   { to: '/books', emoji: '📚', title: 'Books', blurb: 'What changed my mind.', tone: 'teal' },
 ]
 
-const CLICK_WINDOW = 1500
-const CLICKS_NEEDED = 5
-
 function Home() {
-  const [costume, setCostume] = useState('suit')
-  const clickTimes = useRef([])
-
-  function onAvatarClick() {
-    const now = Date.now()
-    clickTimes.current = [...clickTimes.current, now].filter((t) => now - t < CLICK_WINDOW)
-    if (clickTimes.current.length >= CLICKS_NEEDED) {
-      clickTimes.current = []
-      setCostume((c) => (c === 'suit' ? 'kit' : 'suit'))
-    }
-  }
-
   return (
     <>
       <header className="hero">
-        <button
-          type="button"
-          className="hero-avatar"
-          key={costume}
-          onClick={onAvatarClick}
-          aria-label="Click me 5 times fast"
-          title="click me 5x fast"
-        >
-          {costume === 'suit' ? 'Y' : '⚽'}
-        </button>
         <h1>👋 Hey, I'm Yash</h1>
         <p className="tagline">jack of all trades · finance geek · footballer at heart</p>
       </header>
@@ -53,11 +24,8 @@ function Home() {
 
       <h2 className="section-label">Play around</h2>
       <div className="widget-grid">
-        <DogHouse />
+        <ChessWidget />
         <PenaltyShootout />
-        <BullBearReflex />
-        <WhackABuzzword />
-        <ScribbleChart />
       </div>
 
       <h2 className="section-label">Explore</h2>

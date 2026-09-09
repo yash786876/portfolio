@@ -9,37 +9,6 @@ main {
   padding: 40px 0 32px;
 }
 
-.hero-avatar {
-  width: 64px;
-  height: 64px;
-  margin: 0 auto 24px;
-  border-radius: 50%;
-  background: var(--accent);
-  color: #fff;
-  border: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Baloo 2', sans-serif;
-  font-size: 28px;
-  cursor: pointer;
-  animation: avatar-pop 0.4s ease;
-}
-
-.hero-avatar:hover {
-  filter: brightness(1.08);
-}
-
-.hero-avatar:active {
-  transform: scale(0.95);
-}
-
-@keyframes avatar-pop {
-  0% { transform: scale(0.7) rotate(-15deg); }
-  60% { transform: scale(1.15) rotate(8deg); }
-  100% { transform: scale(1) rotate(0deg); }
-}
-
 .hero h1 {
   font-family: 'Baloo 2', sans-serif;
   font-weight: 500;
@@ -77,6 +46,13 @@ main {
   color: var(--text-muted);
 }
 
+.caption {
+  margin-top: 16px;
+  font-weight: 600;
+  color: var(--accent);
+  min-height: 1.4em;
+}
+
 .widget-card {
   position: relative;
   padding: 28px 24px 24px;
@@ -95,8 +71,8 @@ main {
   left: 50%;
   width: 56px;
   height: 20px;
-  background: rgba(91, 61, 245, 0.18);
-  border: 1px solid rgba(91, 61, 245, 0.28);
+  background: rgba(217, 98, 44, 0.18);
+  border: 1px solid rgba(217, 98, 44, 0.28);
   border-radius: 3px;
 }
 
