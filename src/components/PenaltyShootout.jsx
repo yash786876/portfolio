@@ -9,7 +9,7 @@ const ZONES = [
   { x: 85, label: 'Far right' },
 ]
 
-const SAVE_RADIUS = 13
+const SAVE_CHANCE = 0.8 // keeper is good — expect roughly 4 saves out of 5
 const REST_POS = { x: 50, y: 88 }
 
 const GOAL_LINES = [
@@ -38,12 +38,19 @@ function PenaltyShootout() {
   const [phase, setPhase] = useState('idle') // idle | flying | result
   const [score, setScore] = useState(0)
   const [attempts, setAttempts] = useState(0)
-  const [caption, setCaption] = useState('Pick a corner. The keeper is watching.')
+  const [caption, setCaption] = useState('Pick a corner. The keeper is good — score is earned, not given.')
   const timers = useRef([])
+  const phaseRef = useRef(phase)
+
+  useEffect(() => {
+    phaseRef.current = phase
+  }, [phase])
 
   useEffect(() => {
     const moveKeeper = () => {
-      setKeeperX(15 + Math.random() * 70)
+      if (phaseRef.current === 'idle') {
+        setKeeperX(15 + Math.random() * 70)
+      }
     }
     const id = setInterval(moveKeeper, 1100)
     return () => clearInterval(id)
@@ -58,18 +65,23 @@ function PenaltyShootout() {
 
   function shoot(zone) {
     if (phase !== 'idle') return
-    const kx = keeperX
     setPhase('flying')
     setAttempts((a) => a + 1)
     setBallPos({ x: zone.x, y: 10 })
     setCaption('…')
 
     const t1 = setTimeout(() => {
-      const saved = Math.abs(zone.x - kx) <= SAVE_RADIUS
+      const saved = Math.random() < SAVE_CHANCE
       if (saved) {
+        setKeeperX(zone.x) // keeper dives the right way
         setCaption(pick(SAVE_LINES))
         setPhase('result-save')
       } else {
+        let wrongX
+        do {
+          wrongX = 15 + Math.random() * 70
+        } while (Math.abs(wrongX - zone.x) < 20) // keeper wrong-footed
+        setKeeperX(wrongX)
         setScore((s) => s + 1)
         setCaption(pick(GOAL_LINES))
         setPhase('result-goal')

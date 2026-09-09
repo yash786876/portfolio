@@ -1,10 +1,10 @@
 :root {
-  --bg: #f6f7fb;
-  --bg-card: #ffffff;
+  --bg: #f8f4ec;
+  --bg-card: #fffdf9;
   --text: #191b23;
-  --text-muted: #666b7a;
+  --text-muted: #6a6459;
   --accent: #6b5bff;
-  --border: #e7e8f1;
+  --border: #ece5d8;
   color-scheme: light;
 }
 
@@ -20,6 +20,8 @@ body {
 
 body {
   background: var(--bg);
+  background-image: radial-gradient(rgba(25, 27, 35, 0.06) 1px, transparent 1px);
+  background-size: 22px 22px;
   color: var(--text);
   font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
   line-height: 1.5;
