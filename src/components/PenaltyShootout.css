@@ -1,0 +1,126 @@
+.stat-row {
+  display: flex;
+  gap: 32px;
+  margin: 0 0 20px;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-value {
+  font-family: 'Fraunces', serif;
+  font-size: 2rem;
+  font-weight: 500;
+  color: var(--accent);
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.field {
+  position: relative;
+  width: 100%;
+  height: min(300px, 48vh);
+  border-radius: 20px;
+  background: linear-gradient(180deg, #2f8f4e, #257a41);
+  border: 1px solid var(--border);
+  overflow: hidden;
+  touch-action: none;
+}
+
+.field-lines {
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.06) 0,
+    rgba(255, 255, 255, 0.06) 10%,
+    transparent 10%,
+    transparent 20%
+  );
+}
+
+.goal-line {
+  position: absolute;
+  top: 4%;
+  left: 10%;
+  right: 10%;
+  height: 12%;
+  border: 3px solid rgba(255, 255, 255, 0.85);
+  border-bottom: none;
+  border-radius: 8px 8px 0 0;
+  background-image: repeating-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.12) 0 6px,
+    transparent 6px 12px
+  );
+}
+
+.keeper {
+  position: absolute;
+  top: 9%;
+  transform: translate(-50%, -50%);
+  font-size: 1.7rem;
+  transition: left 0.5s ease;
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.35));
+}
+
+.zone-dot {
+  position: absolute;
+  top: 16%;
+  transform: translate(-50%, -50%);
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.15);
+  cursor: pointer;
+  padding: 0;
+}
+
+.zone-dot:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.zone-dot:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+
+.ball {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  font-size: 2.2rem;
+  transition: left 0.45s ease, top 0.45s ease;
+  filter: drop-shadow(0 6px 8px rgba(0, 0, 0, 0.35));
+  pointer-events: none;
+}
+
+.pulse-goal {
+  animation: pulse-good 0.5s ease;
+}
+
+.pulse-save {
+  animation: pulse-bad 0.5s ease;
+}
+
+@keyframes pulse-good {
+  0%, 100% { transform: translate(-50%, -50%) scale(1); }
+  50% { transform: translate(-50%, -50%) scale(1.5); }
+}
+
+@keyframes pulse-bad {
+  0%, 100% { transform: translate(-50%, -50%) scale(1); }
+  50% { transform: translate(-50%, -50%) scale(0.7) rotate(20deg); }
+}
+
+.caption {
+  margin-top: 16px;
+  font-weight: 600;
+  color: var(--accent);
+  min-height: 1.4em;
+}

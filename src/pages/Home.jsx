@@ -1,7 +1,9 @@
 import { useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
-import KickableBall from '../components/KickableBall.jsx'
+import PenaltyShootout from '../components/PenaltyShootout.jsx'
 import ScribbleChart from '../components/ScribbleChart.jsx'
+import BullBearReflex from '../components/BullBearReflex.jsx'
+import WhackABuzzword from '../components/WhackABuzzword.jsx'
 import DealTicker from '../components/DealTicker.jsx'
 
 const tiles = [
@@ -48,9 +50,15 @@ function Home() {
 
       <DealTicker />
 
-      <KickableBall />
-      <ScribbleChart />
+      <h2 className="section-label">Play around</h2>
+      <div className="widget-grid">
+        <PenaltyShootout />
+        <BullBearReflex />
+        <WhackABuzzword />
+        <ScribbleChart />
+      </div>
 
+      <h2 className="section-label">Explore</h2>
       <div className="tile-grid">
         {tiles.map((t) => (
           <Link className={`tile tone-${t.tone}`} to={t.to} key={t.to}>
