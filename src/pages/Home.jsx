@@ -18,7 +18,8 @@ function Home() {
   return (
     <>
       <header className="hero">
-        <h1>👋 Hey, I'm Yash</h1>
+        <p className="hero-eyebrow">Building where finance meets the final whistle</p>
+        <h1>Yash Santwani</h1>
         <p className="tagline">Jack of All Trades · Finance Geek · Footballer at Heart</p>
         <div className="socials hero-socials">
           {socials.map(({ label, href, Icon }) => (

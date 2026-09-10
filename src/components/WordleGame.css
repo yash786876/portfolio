@@ -24,7 +24,7 @@
   justify-content: center;
   border: 2px solid var(--border);
   border-radius: 8px;
-  font-family: 'Bricolage Grotesque', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 700;
   font-size: clamp(1rem, 3.4vw, 1.4rem);
   background: var(--bg);
