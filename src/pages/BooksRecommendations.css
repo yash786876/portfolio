@@ -1,0 +1,43 @@
+.books-challenge {
+  margin-bottom: 32px;
+}
+
+.books-challenge h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 500;
+  font-size: 1.4rem;
+  margin: 0 0 16px;
+}
+
+.books-progress-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.books-count {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.books-of {
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.books-bar {
+  height: 12px;
+  border-radius: 999px;
+  background: var(--border);
+  overflow: hidden;
+}
+
+.books-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: var(--accent);
+  transition: width 0.3s ease;
+}
