@@ -76,3 +76,153 @@
   font-size: 0.9rem;
   margin: 0;
 }
+
+.tier-btn {
+  width: 100%;
+  text-align: left;
+  font-family: inherit;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.tier-btn:hover {
+  transform: translateY(-2px);
+}
+
+.tier-active {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent);
+}
+
+.mba-photos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.mba-photo-slot {
+  aspect-ratio: 4 / 3;
+  border: 2px dashed var(--border);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: var(--text-muted);
+  background: var(--bg-card);
+}
+
+.mba-photo-slot span {
+  font-size: 1.8rem;
+}
+
+.mba-photo-slot p {
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.mba-slider {
+  margin-bottom: 32px;
+}
+
+.mba-slider-amount {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-size: clamp(2rem, 6vw, 2.8rem);
+  color: var(--accent);
+  text-align: center;
+  margin: 8px 0;
+}
+
+.mba-range {
+  width: 100%;
+  accent-color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.mba-unlock {
+  margin: 4px 0 20px;
+  font-weight: 600;
+}
+
+.mba-pay-box {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.mba-qr {
+  flex-shrink: 0;
+}
+
+.mba-qr img {
+  width: 140px;
+  height: 140px;
+  border-radius: 12px;
+  display: block;
+}
+
+.mba-qr-placeholder {
+  width: 140px;
+  height: 140px;
+  border: 2px dashed var(--border);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.mba-qr-placeholder span {
+  font-size: 1.6rem;
+}
+
+.mba-qr-placeholder p {
+  margin: 0;
+  font-size: 0.7rem;
+  padding: 0 8px;
+}
+
+.mba-upi {
+  flex: 1;
+  min-width: 220px;
+}
+
+.mba-upi-label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.mba-upi-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.mba-upi-row code {
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  font-size: 0.95rem;
+}
+
+.mba-upi-note {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  margin: 0;
+}

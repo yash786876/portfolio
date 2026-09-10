@@ -1,6 +1,7 @@
 const socials = [
   { label: 'GitHub', href: 'https://github.com/yash786876' },
   { label: 'LinkedIn', href: '#' },
+  { label: 'Instagram', href: '#' },
   { label: 'Twitter', href: '#' },
   { label: 'Email', href: 'mailto:you@example.com' },
 ]
