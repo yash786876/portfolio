@@ -1,12 +1,39 @@
-.books-challenge {
+.books-challenge,
+.books-recommend {
   margin-bottom: 32px;
 }
 
-.books-challenge h2 {
+.books-challenge h2,
+.books-recommend h2 {
   font-family: 'Playfair Display', serif;
   font-weight: 500;
   font-size: 1.4rem;
   margin: 0 0 16px;
+}
+
+.books-pick {
+  margin-top: 20px;
+  padding: 16px 20px;
+  border-radius: 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+}
+
+.books-pick-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.books-pick-author {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin: 2px 0 8px;
+}
+
+.books-recommend .caption {
+  margin-top: 0;
 }
 
 .books-progress-row {
