@@ -1,18 +1,20 @@
+import { GitHubIcon, LinkedInIcon, InstagramIcon, TwitterIcon, MailIcon } from './SocialIcons.jsx'
+
 const socials = [
-  { label: 'GitHub', href: 'https://github.com/yash786876' },
-  { label: 'LinkedIn', href: '#' },
-  { label: 'Instagram', href: '#' },
-  { label: 'Twitter', href: '#' },
-  { label: 'Email', href: 'mailto:you@example.com' },
+  { label: 'GitHub', href: 'https://github.com/yash786876', Icon: GitHubIcon },
+  { label: 'LinkedIn', href: '#', Icon: LinkedInIcon },
+  { label: 'Instagram', href: '#', Icon: InstagramIcon },
+  { label: 'Twitter', href: '#', Icon: TwitterIcon },
+  { label: 'Email', href: 'mailto:you@example.com', Icon: MailIcon },
 ]
 
 function Footer() {
   return (
     <footer className="footer">
       <div className="socials">
-        {socials.map((s) => (
-          <a href={s.href} key={s.label} target="_blank" rel="noreferrer">
-            {s.label}
+        {socials.map(({ label, href, Icon }) => (
+          <a href={href} key={label} target="_blank" rel="noreferrer" className="social-icon" aria-label={label} title={label}>
+            <Icon />
           </a>
         ))}
       </div>

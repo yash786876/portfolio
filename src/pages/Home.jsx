@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom'
 import PenaltyShootout from '../components/PenaltyShootout.jsx'
 import ChessWidget from '../components/ChessWidget.jsx'
 import WordleGame from '../components/WordleGame.jsx'
-import SimonGame from '../components/SimonGame.jsx'
 import DealTicker from '../components/DealTicker.jsx'
 
 const tiles = [
@@ -19,18 +18,10 @@ function Home() {
     <>
       <header className="hero">
         <h1>👋 Hey, I'm Yash</h1>
-        <p className="tagline">jack of all trades · finance geek · footballer at heart</p>
+        <p className="tagline">Jack of All Trades · Finance Geek · Footballer at Heart</p>
       </header>
 
       <DealTicker />
-
-      <h2 className="section-label">Play around</h2>
-      <div className="widget-grid">
-        <ChessWidget />
-        <PenaltyShootout />
-        <WordleGame />
-        <SimonGame />
-      </div>
 
       <h2 className="section-label">Explore</h2>
       <div className="tile-grid">
@@ -41,6 +32,13 @@ function Home() {
             <span className="tile-blurb">{t.blurb}</span>
           </Link>
         ))}
+      </div>
+
+      <h2 className="section-label">Play around</h2>
+      <div className="widget-grid">
+        <ChessWidget />
+        <PenaltyShootout />
+        <WordleGame />
       </div>
     </>
   )

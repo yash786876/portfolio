@@ -1,6 +1,6 @@
 .ticker {
   overflow: hidden;
-  background: var(--text);
+  background: #10192e;
   border-radius: 999px;
   padding: 10px 0;
   margin-bottom: 32px;
