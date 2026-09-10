@@ -3,6 +3,7 @@ import PenaltyShootout from '../components/PenaltyShootout.jsx'
 import ChessWidget from '../components/ChessWidget.jsx'
 import WordleGame from '../components/WordleGame.jsx'
 import DealTicker from '../components/DealTicker.jsx'
+import { socials } from '../socialsData.js'
 
 const tiles = [
   { to: '/about', emoji: '🌱', title: 'About Me', blurb: 'My story & background.', tone: 'green' },
@@ -19,6 +20,13 @@ function Home() {
       <header className="hero">
         <h1>👋 Hey, I'm Yash</h1>
         <p className="tagline">Jack of All Trades · Finance Geek · Footballer at Heart</p>
+        <div className="socials hero-socials">
+          {socials.map(({ label, href, Icon }) => (
+            <a href={href} key={label} target="_blank" rel="noreferrer" className="social-icon" aria-label={label} title={label}>
+              <Icon />
+            </a>
+          ))}
+        </div>
       </header>
 
       <DealTicker />

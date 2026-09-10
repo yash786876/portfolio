@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import './WordleGame.css'
 
 const WORDS = [
@@ -9,7 +9,7 @@ const WORDS = [
 ]
 
 const MAX_ATTEMPTS = 6
-const ROWS = ['QWERTYUIOP', 'ASDFGHJKL', 'ZXCVBNM']
+const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 function pickWord(exclude) {
   let w = WORDS[Math.floor(Math.random() * WORDS.length)]
@@ -40,6 +40,12 @@ function scoreGuess(guess, target) {
     }
   }
   return result
+}
+
+function isTypingTarget(el) {
+  if (!el) return false
+  const tag = el.tagName
+  return tag === 'INPUT' || tag === 'TEXTAREA' || el.isContentEditable
 }
 
 function WordleGame() {
@@ -83,6 +89,24 @@ function WordleGame() {
     if (current.length < 5) setCurrent((c) => c + key)
   }
 
+  useEffect(() => {
+    function onKeyDown(e) {
+      if (isTypingTarget(document.activeElement)) return
+      if (e.key === 'Enter') {
+        e.preventDefault()
+        pressKey('ENTER')
+      } else if (e.key === 'Backspace') {
+        e.preventDefault()
+        pressKey('BACK')
+      } else if (/^[a-zA-Z]$/.test(e.key)) {
+        pressKey(e.key.toUpperCase())
+      }
+    }
+    window.addEventListener('keydown', onKeyDown)
+    return () => window.removeEventListener('keydown', onKeyDown)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [current, status, target, guesses])
+
   const rows = []
   for (let r = 0; r < MAX_ATTEMPTS; r++) {
     if (r < guesses.length) {
@@ -117,7 +141,7 @@ function WordleGame() {
       <p className="caption">
         {status === 'won' && 'Solved it. 📈'}
         {status === 'lost' && `Out of guesses — it was ${target}.`}
-        {status === 'playing' && `Attempt ${guesses.length + 1} of ${MAX_ATTEMPTS}`}
+        {status === 'playing' && `Attempt ${guesses.length + 1} of ${MAX_ATTEMPTS} — type on your keyboard`}
       </p>
 
       {status !== 'playing' ? (
@@ -125,30 +149,11 @@ function WordleGame() {
           New word
         </button>
       ) : (
-        <div className="wordle-keyboard">
-          {ROWS.map((row, i) => (
-            <div className="wordle-key-row" key={i}>
-              {i === 2 && (
-                <button type="button" className="wordle-key wordle-key-wide" onClick={() => pressKey('ENTER')}>
-                  Enter
-                </button>
-              )}
-              {row.split('').map((k) => (
-                <button
-                  type="button"
-                  key={k}
-                  className={`wordle-key${keyStatus[k] ? ` wordle-${keyStatus[k]}` : ''}`}
-                  onClick={() => pressKey(k)}
-                >
-                  {k}
-                </button>
-              ))}
-              {i === 2 && (
-                <button type="button" className="wordle-key wordle-key-wide" onClick={() => pressKey('BACK')}>
-                  ⌫
-                </button>
-              )}
-            </div>
+        <div className="wordle-tried">
+          {ALPHABET.split('').map((k) => (
+            <span key={k} className={`wordle-chip${keyStatus[k] ? ` wordle-${keyStatus[k]}` : ''}`}>
+              {k}
+            </span>
           ))}
         </div>
       )}

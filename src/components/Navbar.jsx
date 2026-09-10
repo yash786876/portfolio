@@ -52,7 +52,7 @@ function Navbar() {
   return (
     <div className="navbar" ref={ref}>
       <NavLink to="/" className="brand" end>
-        Y
+        Dashboard
       </NavLink>
       <ul className="nav-links">
         {navItems.map((item) => {

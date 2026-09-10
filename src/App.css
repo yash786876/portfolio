@@ -23,6 +23,11 @@ main {
   margin: 0;
 }
 
+.hero-socials {
+  justify-content: center;
+  margin-top: 18px;
+}
+
 .stat-row {
   display: flex;
   gap: 32px;
@@ -101,6 +106,7 @@ main {
 .widget-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  align-items: start;
   gap: 28px 24px;
   margin-bottom: 24px;
 }
