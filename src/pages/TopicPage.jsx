@@ -1,3 +1,4 @@
+import ExpandableTopic from '../components/ExpandableTopic.jsx'
 import DeepTechFeed from '../components/DeepTechFeed.jsx'
 
 function TopicPage({ title, intro, bullets, domainKey }) {
@@ -5,14 +6,12 @@ function TopicPage({ title, intro, bullets, domainKey }) {
     <section className="page">
       <h1>{title}</h1>
       <p className="prose">{intro}</p>
-      <ul className="posts">
-        {bullets.map((b, i) => (
-          <li key={i}>
-            <span className="post-title">{b.label}</span>
-            <span className="post-date">{b.note}</span>
-          </li>
-        ))}
-      </ul>
+
+      <h2 style={{ marginTop: '24px' }}>The Fundamentals</h2>
+      <p className="prose">Tap a topic for the full explanation and a diagram.</p>
+      {bullets.map((b, i) => (
+        <ExpandableTopic key={i} {...b} />
+      ))}
 
       {domainKey && (
         <>

@@ -1,0 +1,39 @@
+.stack-diagram-wrap {
+  max-width: 340px;
+  margin: 8px auto 4px;
+}
+
+.stack-diagram {
+  width: 100%;
+  height: auto;
+}
+
+.stack-box {
+  fill: var(--bg);
+  stroke: var(--accent);
+  stroke-width: 1.5;
+}
+
+.stack-box-text {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 10px;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.25;
+  box-sizing: border-box;
+}
+
+.stack-arrow line {
+  stroke: var(--accent);
+  stroke-width: 1.5;
+}
+
+.stack-arrow polygon {
+  fill: var(--accent);
+}
