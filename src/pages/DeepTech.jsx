@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import BuzzChart from '../components/BuzzChart.jsx'
 
 const subPages = [
   { to: '/deep-tech/healthcare', emoji: '🩺', title: 'Healthcare', desc: 'Digital health, biotech, health-tech infrastructure.' },
@@ -24,6 +25,8 @@ function DeepTech() {
           </Link>
         ))}
       </div>
+
+      <BuzzChart />
     </section>
   )
 }

@@ -1,6 +1,7 @@
 export const TOPIC_PAGES = [
   {
     path: '/deep-tech/healthcare',
+    domainKey: 'healthcare',
     title: 'Healthcare',
     intro: 'Where deep tech meets medicine — swap in the real reading and takes.',
     bullets: [
@@ -12,6 +13,7 @@ export const TOPIC_PAGES = [
   },
   {
     path: '/deep-tech/computing',
+    domainKey: 'computing',
     title: 'Computing',
     intro: 'The hardware and infrastructure layer under everything else.',
     bullets: [
@@ -23,6 +25,7 @@ export const TOPIC_PAGES = [
   },
   {
     path: '/deep-tech/manufacturing',
+    domainKey: 'manufacturing',
     title: 'Manufacturing',
     intro: 'How things actually get built, at scale.',
     bullets: [
@@ -34,6 +37,7 @@ export const TOPIC_PAGES = [
   },
   {
     path: '/deep-tech/new-innovation',
+    domainKey: 'new-innovation',
     title: 'New Innovation',
     intro: 'Whatever is early enough that nobody has a strong opinion yet.',
     bullets: [
@@ -45,6 +49,7 @@ export const TOPIC_PAGES = [
   },
   {
     path: '/deep-tech/out-of-this-world',
+    domainKey: 'out-of-this-world',
     title: 'Out of This World',
     intro: 'Space tech, and anything else that sounds like science fiction until it ships.',
     bullets: [

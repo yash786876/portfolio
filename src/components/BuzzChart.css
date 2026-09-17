@@ -1,0 +1,38 @@
+.buzz-chart h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 500;
+  font-size: 1.4rem;
+  margin: 0 0 8px;
+}
+
+.buzz-svg {
+  width: 100%;
+  height: auto;
+  margin-top: 12px;
+}
+
+.buzz-label {
+  font-size: 11px;
+  fill: var(--text-muted);
+  font-weight: 600;
+}
+
+.buzz-bar {
+  fill: var(--accent);
+  transition: opacity 0.15s ease;
+}
+
+.buzz-bar:hover {
+  opacity: 0.8;
+}
+
+.buzz-value {
+  font-size: 11px;
+  fill: var(--text);
+  font-weight: 700;
+}
+
+.buzz-updated {
+  margin-top: 12px;
+  font-size: 0.78rem;
+}

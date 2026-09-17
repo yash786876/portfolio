@@ -1,0 +1,26 @@
+name: Update Deep Tech Feed
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/fetch-deep-tech-news.mjs
+      - name: Commit updated feed if changed
+        run: |
+          git config user.name "deep-tech-feed-bot"
+          git config user.email "actions@github.com"
+          git add src/data/deepTechFeed.json
+          git diff --cached --quiet && echo "No changes" || git commit -m "chore: daily deep tech feed update"
+          git push

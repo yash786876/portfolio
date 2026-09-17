@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-09-17T13:55:51.945Z",
+  "domains": {
+    "healthcare": [
+      {
+        "title": "Show HN: Texio, reliable Markdown operations for shell scripts and AI agents",
+        "url": "https://github.com/Allra-Fintech/texio",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T04:39:42Z"
+      },
+      {
+        "title": "Tell HN: An inside view of Montana's new biotech law",
+        "url": "https://news.ycombinator.com/item?id=49731216",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-16T18:43:57Z"
+      },
+      {
+        "title": "The Download: biotech's future and cheaper, cleaner steel",
+        "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-11T17:01:39Z"
+      },
+      {
+        "title": "The under-35s shaping the future of biotech",
+        "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-11T11:01:20Z"
+      },
+      {
+        "title": "Insilico's Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too",
+        "url": "https://www.wsj.com/tech/biotech/insilicos-co-ceo-has-big-hopes-that-fibrosis-drug-can-reverse-aging-too-1c5bf5a6",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-08T23:30:45Z"
+      }
+    ],
+    "computing": [
+      {
+        "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
+        "url": "https://www.yahoo.com/news/articles/microsoft-ai-chief-calls-anthropics-140542640.html",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T12:40:35Z"
+      },
+      {
+        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+        "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T09:45:33Z"
+      },
+      {
+        "title": "The paradox of AI automation at the workplace",
+        "url": "https://news.ycombinator.com/item?id=49738100",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T08:52:52Z"
+      },
+      {
+        "title": "Show HN: Compute:Arena – Community submitted local AI benchmarks",
+        "url": "https://computearena.ai",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T06:54:31Z"
+      },
+      {
+        "title": "My Chinese Internet Is Talking About AI Doom",
+        "url": "https://yinwei.substack.com/p/my-chinese-internet-is-talking-about",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T06:30:13Z"
+      }
+    ],
+    "manufacturing": [
+      {
+        "title": "The paradox of AI automation at the workplace",
+        "url": "https://news.ycombinator.com/item?id=49738100",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T08:52:52Z"
+      },
+      {
+        "title": "Show HN: I built a Mac app to make technical PDF textbooks easier to study",
+        "url": "https://marginstudy.app/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T05:46:37Z"
+      },
+      {
+        "title": "Supply Chain Compromise of Korean-Language Windows 11 Installation Media",
+        "url": "https://www.logpresso.com/en/blog/2026-09-08-windows11-report-eng",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T01:15:31Z"
+      },
+      {
+        "title": "Can I get insurance for company renting humanoids for parties?",
+        "url": "https://news.ycombinator.com/item?id=49733718",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-16T22:09:05Z"
+      },
+      {
+        "title": "Show HN: Vending Machine Lab – Build business, leave for 2 wks, see what breaks",
+        "url": "https://vending-machine-lab.pages.dev/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-16T21:05:48Z"
+      }
+    ],
+    "new-innovation": [
+      {
+        "title": "Show HN: I built a simple couples app that explores a new way of connecting them",
+        "url": "https://www.luneapp.in/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T13:37:01Z"
+      },
+      {
+        "title": "Show HN: Plexus – Telemetry for hardware teams who could build it but shouldn't",
+        "url": "https://plexus.company",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-16T20:26:05Z"
+      },
+      {
+        "title": "Ask HN: What is the best local model that runs on your Mac at decent speed?",
+        "url": "https://news.ycombinator.com/item?id=49730972",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-16T18:24:59Z"
+      },
+      {
+        "title": "Lawsuit accuses AI security company of publishing hallucinated findings",
+        "url": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-16T17:46:45Z"
+      },
+      {
+        "title": "Show HN: Ivx/AI Chat, AI client that doesn't track you (with a better GUI imo)",
+        "url": "https://ai.ivx.run/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-16T16:56:07Z"
+      }
+    ],
+    "out-of-this-world": [
+      {
+        "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
+        "url": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/",
+        "source": "SpaceNews",
+        "publishedAt": "2026-09-17T13:00:00Z"
+      },
+      {
+        "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+        "url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
+        "source": "SpaceNews",
+        "publishedAt": "2026-09-17T13:00:00Z"
+      },
+      {
+        "title": "MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch",
+        "source": "ESA",
+        "publishedAt": "2026-09-17T10:00:00Z"
+      },
+      {
+        "title": "EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September",
+        "url": "https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-09-17T08:32:10Z"
+      },
+      {
+        "title": "Three space companies win ESA awards for excellence and innovation",
+        "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation",
+        "source": "ESA",
+        "publishedAt": "2026-09-17T07:10:00Z"
+      }
+    ]
+  }
+}
