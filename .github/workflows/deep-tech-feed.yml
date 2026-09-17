@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # needed to dispatch the deploy workflow below
 
 jobs:
   fetch:
@@ -18,9 +19,25 @@ jobs:
           node-version: 20
       - run: node scripts/fetch-deep-tech-news.mjs
       - name: Commit updated feed if changed
+        id: commit
         run: |
           git config user.name "deep-tech-feed-bot"
           git config user.email "actions@github.com"
           git add src/data/deepTechFeed.json
-          git diff --cached --quiet && echo "No changes" || git commit -m "chore: daily deep tech feed update"
-          git push
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes"
+          else
+            git commit -m "chore: daily deep tech feed update"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Trigger a redeploy
+        # A push made with the default GITHUB_TOKEN does not fire other
+        # workflows' `on: push` triggers (GitHub's anti-recursion rule), so
+        # the commit above would otherwise silently never reach the live
+        # site. Explicitly dispatching the deploy workflow works around it.
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml
