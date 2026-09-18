@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-09-17T14:51:07.251Z",
+  "generatedAt": "2026-09-18T10:29:43.889Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Show HN: Texio, reliable Markdown operations for shell scripts and AI agents",
-        "url": "https://github.com/Allra-Fintech/texio",
+        "title": "Could AI and synthetic biology = bioweapons?",
+        "url": "https://www.celinegounder.com/p/anthropic-claude-ai-bioweapons-biosecurity",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T04:39:42Z"
+        "publishedAt": "2026-09-18T09:02:31Z"
+      },
+      {
+        "title": "Virtual biotech company puts thousands of AI scientist agents to work",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-17T21:22:02Z"
       },
       {
         "title": "Tell HN: An inside view of Montana's new biotech law",
         "url": "https://news.ycombinator.com/item?id=49731216",
         "source": "Hacker News",
         "publishedAt": "2026-09-16T18:43:57Z"
-      },
-      {
-        "title": "The Download: biotech's future and cheaper, cleaner steel",
-        "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-11T17:01:39Z"
       }
     ],
     "computing": [
       {
-        "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
-        "url": "https://www.yahoo.com/news/articles/microsoft-ai-chief-calls-anthropics-140542640.html",
+        "title": "Top Chinese AI models make 10% of OpenAI",
+        "url": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T12:40:35Z"
+        "publishedAt": "2026-09-18T10:28:14Z"
       },
       {
-        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-        "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+        "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
+        "url": "https://www.reuters.com/world/china/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-see-frontier-risks-2026-09-17/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T09:45:33Z"
+        "publishedAt": "2026-09-18T06:51:34Z"
       },
       {
-        "title": "The paradox of AI automation at the workplace",
-        "url": "https://news.ycombinator.com/item?id=49738100",
+        "title": "China Is Scared of A.I. Just Not the Way We Are",
+        "url": "https://www.nytimes.com/2026/09/17/opinion/ai-china-america-risk.html",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T08:52:52Z"
+        "publishedAt": "2026-09-18T04:32:07Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "The paradox of AI automation at the workplace",
-        "url": "https://news.ycombinator.com/item?id=49738100",
+        "title": "Robotic lab sets up and runs optics experiments on demand",
+        "url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T08:52:52Z"
+        "publishedAt": "2026-09-18T09:14:55Z"
       },
       {
-        "title": "Show HN: I built a Mac app to make technical PDF textbooks easier to study",
-        "url": "https://marginstudy.app/",
+        "title": "Smart devices can testify against you: How data from robots is used in court",
+        "url": "https://www.the-independent.com/tech/robot-vacuum-fitbit-smart-device-data-trial-b3052060.html",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T05:46:37Z"
+        "publishedAt": "2026-09-18T07:01:09Z"
       },
       {
-        "title": "Supply Chain Compromise of Korean-Language Windows 11 Installation Media",
-        "url": "https://www.logpresso.com/en/blog/2026-09-08-windows11-report-eng",
+        "title": "Robots Building Robots",
+        "url": "https://www.globaltimes.cn/page/202609/1370528.shtml",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T01:15:31Z"
+        "publishedAt": "2026-09-18T05:00:56Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "The AI graveyard: a running list of projects and startups that didn't make it",
-        "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+        "url": "https://news.ycombinator.com/item?id=49743049",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T14:47:39Z"
+        "publishedAt": "2026-09-17T16:22:15Z"
       },
       {
-        "title": "Show HN: I built a simple couples app that explores a new way of connecting them",
-        "url": "https://www.luneapp.in/",
+        "title": "Lawsuit accuses AI security company of publishing hallucinated findings",
+        "url": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T13:37:01Z"
+        "publishedAt": "2026-09-16T17:46:45Z"
       },
       {
-        "title": "Show HN: Plexus – Telemetry for hardware teams who could build it but shouldn't",
-        "url": "https://plexus.company",
+        "title": "Show HN: Freeform – One click shareable AI generated apps",
+        "url": "https://sharefreeform.com",
         "source": "Hacker News",
-        "publishedAt": "2026-09-16T20:26:05Z"
+        "publishedAt": "2026-09-16T11:43:17Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
-        "url": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/",
-        "source": "SpaceNews",
-        "publishedAt": "2026-09-17T14:40:51Z"
+        "title": "A galaxy spinning out of sync",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+        "source": "ESA",
+        "publishedAt": "2026-09-18T08:00:00Z"
       },
       {
-        "title": "NASA to order more Starliner missions and help certify a new rocket to keep it flying",
-        "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
-        "source": "Arstechnica",
-        "publishedAt": "2026-09-17T14:37:37Z"
+        "title": "Earth from Space: Laguna Colorada",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
+        "source": "ESA",
+        "publishedAt": "2026-09-18T08:00:00Z"
       },
       {
-        "title": "Inside Europe’s push for space autonomy with Josef Aschbacher",
-        "url": "https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/",
-        "source": "SpaceNews",
-        "publishedAt": "2026-09-17T14:37:26Z"
+        "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
+        "url": "https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-09-18T07:41:46Z"
       }
     ]
   }
