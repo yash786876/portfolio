@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-09-18T10:29:43.889Z",
+  "generatedAt": "2026-09-19T10:14:56.860Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+        "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-18T11:02:39Z"
+      },
       {
         "title": "Could AI and synthetic biology = bioweapons?",
         "url": "https://www.celinegounder.com/p/anthropic-claude-ai-bioweapons-biosecurity",
@@ -13,92 +19,86 @@
         "url": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
         "source": "Hacker News",
         "publishedAt": "2026-09-17T21:22:02Z"
-      },
-      {
-        "title": "Tell HN: An inside view of Montana's new biotech law",
-        "url": "https://news.ycombinator.com/item?id=49731216",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-16T18:43:57Z"
       }
     ],
     "computing": [
       {
-        "title": "Top Chinese AI models make 10% of OpenAI",
-        "url": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+        "title": "Chinese AI Radicalizes",
+        "url": "https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath",
         "source": "Hacker News",
-        "publishedAt": "2026-09-18T10:28:14Z"
+        "publishedAt": "2026-09-19T07:53:15Z"
       },
       {
-        "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
-        "url": "https://www.reuters.com/world/china/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-see-frontier-risks-2026-09-17/",
+        "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
+        "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-18T06:51:34Z"
+        "publishedAt": "2026-09-19T06:39:15Z"
       },
       {
-        "title": "China Is Scared of A.I. Just Not the Way We Are",
-        "url": "https://www.nytimes.com/2026/09/17/opinion/ai-china-america-risk.html",
+        "title": "AI Regulation and the China Question",
+        "url": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
         "source": "Hacker News",
-        "publishedAt": "2026-09-18T04:32:07Z"
+        "publishedAt": "2026-09-19T03:15:41Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Robotic lab sets up and runs optics experiments on demand",
-        "url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
+        "title": "Cannabis Supply Chain Database",
+        "url": "https://cannabis-supply-chain.pages.dev/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-18T09:14:55Z"
+        "publishedAt": "2026-09-19T00:02:34Z"
       },
       {
-        "title": "Smart devices can testify against you: How data from robots is used in court",
-        "url": "https://www.the-independent.com/tech/robot-vacuum-fitbit-smart-device-data-trial-b3052060.html",
+        "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+        "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-18T07:01:09Z"
+        "publishedAt": "2026-09-18T18:30:20Z"
       },
       {
-        "title": "Robots Building Robots",
-        "url": "https://www.globaltimes.cn/page/202609/1370528.shtml",
+        "title": "Bringing Emoji into the Next Era of Expression",
+        "url": "https://design.google/library/noto-3d-emoji-design",
         "source": "Hacker News",
-        "publishedAt": "2026-09-18T05:00:56Z"
+        "publishedAt": "2026-09-18T11:52:00Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-        "url": "https://news.ycombinator.com/item?id=49743049",
+        "title": "Show HN: ReacherX – Open-source platform to find and reach the right people",
+        "url": "https://github.com/VecterAI/reacher-x",
         "source": "Hacker News",
-        "publishedAt": "2026-09-17T16:22:15Z"
+        "publishedAt": "2026-09-18T20:55:14Z"
       },
       {
-        "title": "Lawsuit accuses AI security company of publishing hallucinated findings",
-        "url": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
+        "title": "Ask HN: So is AI taking our jobs?",
+        "url": "https://news.ycombinator.com/item?id=49758136",
         "source": "Hacker News",
-        "publishedAt": "2026-09-16T17:46:45Z"
+        "publishedAt": "2026-09-18T18:17:26Z"
       },
       {
-        "title": "Show HN: Freeform – One click shareable AI generated apps",
-        "url": "https://sharefreeform.com",
+        "title": "Sales calculation tool for Excel price lists",
+        "url": "https://news.ycombinator.com/item?id=49753697",
         "source": "Hacker News",
-        "publishedAt": "2026-09-16T11:43:17Z"
+        "publishedAt": "2026-09-18T12:51:35Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "A galaxy spinning out of sync",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+        "title": "Pikachu in the Cupola",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola",
         "source": "ESA",
-        "publishedAt": "2026-09-18T08:00:00Z"
+        "publishedAt": "2026-09-21T14:00:00Z"
       },
       {
-        "title": "Earth from Space: Laguna Colorada",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
+        "title": "ESA x TPCI - Pikachu in the Cupola",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
         "source": "ESA",
-        "publishedAt": "2026-09-18T08:00:00Z"
+        "publishedAt": "2026-09-21T14:00:00Z"
       },
       {
-        "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
-        "url": "https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/",
+        "title": "DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October",
+        "url": "https://europeanspaceflight.com/dlrs-suborbital-mapheus-17-mission-to-launch-as-early-as-1-october/",
         "source": "European Spaceflight",
-        "publishedAt": "2026-09-18T07:41:46Z"
+        "publishedAt": "2026-09-19T05:00:26Z"
       }
     ]
   }
