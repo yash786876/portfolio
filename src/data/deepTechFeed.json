@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-19T10:14:56.860Z",
+  "generatedAt": "2026-09-20T10:33:22.267Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Global Challenges in AI Safety for Biosecurity",
+        "url": "https://www.lesswrong.com/posts/KH2JjfSrw6tJdmKzw/global-challenges-in-ai-safety-for-biosecurity",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-20T07:02:28Z"
+      },
       {
         "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
         "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
         "source": "Hacker News",
         "publishedAt": "2026-09-18T11:02:39Z"
-      },
-      {
-        "title": "Could AI and synthetic biology = bioweapons?",
-        "url": "https://www.celinegounder.com/p/anthropic-claude-ai-bioweapons-biosecurity",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-18T09:02:31Z"
       },
       {
         "title": "Virtual biotech company puts thousands of AI scientist agents to work",
@@ -23,45 +23,51 @@
     ],
     "computing": [
       {
-        "title": "Chinese AI Radicalizes",
-        "url": "https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath",
+        "title": "Why China is pushing back on US warnings over rapid AI development",
+        "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
         "source": "Hacker News",
-        "publishedAt": "2026-09-19T07:53:15Z"
+        "publishedAt": "2026-09-20T09:08:07Z"
       },
       {
-        "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
-        "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "title": "Show HN: I cleaned AI watermarks from my clipboard",
+        "url": "https://www.pastezero.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-19T06:39:15Z"
+        "publishedAt": "2026-09-20T08:40:19Z"
       },
       {
-        "title": "AI Regulation and the China Question",
-        "url": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
+        "title": "Integrating Volt Active Data with AI Agents and Chatbots",
+        "url": "https://docs.voltdb.com/UsingVoltDB/ChapAI.php",
         "source": "Hacker News",
-        "publishedAt": "2026-09-19T03:15:41Z"
+        "publishedAt": "2026-09-20T04:07:46Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Cannabis Supply Chain Database",
-        "url": "https://cannabis-supply-chain.pages.dev/",
+        "title": "Egocentric training's gig workers are helping robots learn how to do your dishes",
+        "url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
         "source": "Hacker News",
-        "publishedAt": "2026-09-19T00:02:34Z"
+        "publishedAt": "2026-09-20T04:27:13Z"
       },
       {
-        "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-        "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "title": "TanStack supply-chain attack exposed ~170 private CrowdSec repos",
+        "url": "https://www.crowdsec.net/blog/tanstack-supply-chain-attack-analysis",
         "source": "Hacker News",
-        "publishedAt": "2026-09-18T18:30:20Z"
+        "publishedAt": "2026-09-20T02:08:32Z"
       },
       {
-        "title": "Bringing Emoji into the Next Era of Expression",
-        "url": "https://design.google/library/noto-3d-emoji-design",
+        "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
+        "url": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning",
         "source": "Hacker News",
-        "publishedAt": "2026-09-18T11:52:00Z"
+        "publishedAt": "2026-09-19T23:44:07Z"
       }
     ],
     "new-innovation": [
+      {
+        "title": "Show HN: Text-me: a personal agent that learns your pace",
+        "url": "https://aiworthusing.com/agent-index/text-me",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-19T23:58:50Z"
+      },
       {
         "title": "Show HN: ReacherX – Open-source platform to find and reach the right people",
         "url": "https://github.com/VecterAI/reacher-x",
@@ -73,21 +79,9 @@
         "url": "https://news.ycombinator.com/item?id=49758136",
         "source": "Hacker News",
         "publishedAt": "2026-09-18T18:17:26Z"
-      },
-      {
-        "title": "Sales calculation tool for Excel price lists",
-        "url": "https://news.ycombinator.com/item?id=49753697",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-18T12:51:35Z"
       }
     ],
     "out-of-this-world": [
-      {
-        "title": "Pikachu in the Cupola",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola",
-        "source": "ESA",
-        "publishedAt": "2026-09-21T14:00:00Z"
-      },
       {
         "title": "ESA x TPCI - Pikachu in the Cupola",
         "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
@@ -95,10 +89,16 @@
         "publishedAt": "2026-09-21T14:00:00Z"
       },
       {
-        "title": "DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October",
-        "url": "https://europeanspaceflight.com/dlrs-suborbital-mapheus-17-mission-to-launch-as-early-as-1-october/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-09-19T05:00:26Z"
+        "title": "Pikachu in the Cupola",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola",
+        "source": "ESA",
+        "publishedAt": "2026-09-21T14:00:00Z"
+      },
+      {
+        "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
+        "source": "NASA",
+        "publishedAt": "2026-09-20T04:05:00Z"
       }
     ]
   }
