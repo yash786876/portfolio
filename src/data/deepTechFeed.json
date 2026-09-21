@@ -1,47 +1,53 @@
 {
-  "generatedAt": "2026-09-20T10:33:22.267Z",
+  "generatedAt": "2026-09-21T11:53:59.252Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Show HN: Vsqrd – AWS for Biology Experiments",
+        "url": "https://vsqrd.com/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-21T00:21:02Z"
+      },
+      {
+        "title": "New startup to test psychedelic-like drug against Parkinson's symptom",
+        "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-20T23:42:47Z"
+      },
       {
         "title": "Global Challenges in AI Safety for Biosecurity",
         "url": "https://www.lesswrong.com/posts/KH2JjfSrw6tJdmKzw/global-challenges-in-ai-safety-for-biosecurity",
         "source": "Hacker News",
         "publishedAt": "2026-09-20T07:02:28Z"
-      },
-      {
-        "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-        "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-18T11:02:39Z"
-      },
-      {
-        "title": "Virtual biotech company puts thousands of AI scientist agents to work",
-        "url": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-17T21:22:02Z"
       }
     ],
     "computing": [
       {
-        "title": "Why China is pushing back on US warnings over rapid AI development",
-        "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+        "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+        "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-20T09:08:07Z"
+        "publishedAt": "2026-09-21T11:01:16Z"
       },
       {
-        "title": "Show HN: I cleaned AI watermarks from my clipboard",
-        "url": "https://www.pastezero.com/",
+        "title": "Show HN: Open Source AI Employees",
+        "url": "https://github.com/markfulton/ai-employees",
         "source": "Hacker News",
-        "publishedAt": "2026-09-20T08:40:19Z"
+        "publishedAt": "2026-09-21T10:28:45Z"
       },
       {
-        "title": "Integrating Volt Active Data with AI Agents and Chatbots",
-        "url": "https://docs.voltdb.com/UsingVoltDB/ChapAI.php",
+        "title": "Kaohsiung adds new hub to semiconductor corridor",
+        "url": "https://www.taiwannews.com.tw/news/6443294",
         "source": "Hacker News",
-        "publishedAt": "2026-09-20T04:07:46Z"
+        "publishedAt": "2026-09-21T09:20:26Z"
       }
     ],
     "manufacturing": [
+      {
+        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+        "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-20T17:01:25Z"
+      },
       {
         "title": "Egocentric training's gig workers are helping robots learn how to do your dishes",
         "url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
@@ -53,32 +59,26 @@
         "url": "https://www.crowdsec.net/blog/tanstack-supply-chain-attack-analysis",
         "source": "Hacker News",
         "publishedAt": "2026-09-20T02:08:32Z"
-      },
-      {
-        "title": "Copper-Rs: Live Telemetry Deterministic Twins for Robots",
-        "url": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-19T23:44:07Z"
       }
     ],
     "new-innovation": [
+      {
+        "title": "Show HN: Accordia – Structured 1-on-1s for engineering managers",
+        "url": "https://www.getaccordia.com",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-21T11:39:14Z"
+      },
+      {
+        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "url": "https://github.com/volotat/mini-AGI/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-21T04:42:37Z"
+      },
       {
         "title": "Show HN: Text-me: a personal agent that learns your pace",
         "url": "https://aiworthusing.com/agent-index/text-me",
         "source": "Hacker News",
         "publishedAt": "2026-09-19T23:58:50Z"
-      },
-      {
-        "title": "Show HN: ReacherX – Open-source platform to find and reach the right people",
-        "url": "https://github.com/VecterAI/reacher-x",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-18T20:55:14Z"
-      },
-      {
-        "title": "Ask HN: So is AI taking our jobs?",
-        "url": "https://news.ycombinator.com/item?id=49758136",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-18T18:17:26Z"
       }
     ],
     "out-of-this-world": [
