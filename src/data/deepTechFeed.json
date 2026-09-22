@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:53:59.252Z",
+  "generatedAt": "2026-09-22T10:54:14.715Z",
   "domains": {
     "healthcare": [
       {
@@ -15,70 +15,70 @@
         "publishedAt": "2026-09-20T23:42:47Z"
       },
       {
-        "title": "Global Challenges in AI Safety for Biosecurity",
-        "url": "https://www.lesswrong.com/posts/KH2JjfSrw6tJdmKzw/global-challenges-in-ai-safety-for-biosecurity",
+        "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+        "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-20T07:02:28Z"
+        "publishedAt": "2026-09-18T11:02:39Z"
       }
     ],
     "computing": [
       {
-        "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-        "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+        "title": "America is getting its AI race with China wrong",
+        "url": "https://restofworld.org/2026/america-china-ai-race-trust/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T11:01:16Z"
+        "publishedAt": "2026-09-22T10:49:40Z"
       },
       {
-        "title": "Show HN: Open Source AI Employees",
-        "url": "https://github.com/markfulton/ai-employees",
+        "title": "China's AI Realism Is Not Conspiracy",
+        "url": "https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T10:28:45Z"
+        "publishedAt": "2026-09-22T03:01:06Z"
       },
       {
-        "title": "Kaohsiung adds new hub to semiconductor corridor",
-        "url": "https://www.taiwannews.com.tw/news/6443294",
+        "title": "IBM: First Modular Cryogenic Systems in Milestone Toward Fault-Tolerant",
+        "url": "https://newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T09:20:26Z"
+        "publishedAt": "2026-09-21T21:49:39Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-        "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "title": "Motor Characterization for Small Running Robots (2016)",
+        "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-20T17:01:25Z"
+        "publishedAt": "2026-09-21T23:27:31Z"
       },
       {
-        "title": "Egocentric training's gig workers are helping robots learn how to do your dishes",
-        "url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
+        "title": "Show HN: Mathy – Build Math Automaticity",
+        "url": "https://mathy.game/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-20T04:27:13Z"
+        "publishedAt": "2026-09-21T15:08:19Z"
       },
       {
-        "title": "TanStack supply-chain attack exposed ~170 private CrowdSec repos",
-        "url": "https://www.crowdsec.net/blog/tanstack-supply-chain-attack-analysis",
+        "title": "Robotics Is Harder",
+        "url": "https://whattotelltherobot.com/p/robotics-really-is-harder",
         "source": "Hacker News",
-        "publishedAt": "2026-09-20T02:08:32Z"
+        "publishedAt": "2026-09-21T14:40:58Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Accordia – Structured 1-on-1s for engineering managers",
-        "url": "https://www.getaccordia.com",
+        "title": "Show HN: A tool to find the dish you are craving",
+        "url": "https://icrave.food/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T11:39:14Z"
+        "publishedAt": "2026-09-22T04:46:33Z"
       },
       {
-        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-        "url": "https://github.com/volotat/mini-AGI/",
+        "title": "Almost started a war: Report reveals dark reality as AI permeates civilisation",
+        "url": "https://www.news.com.au/technology/innovation/military/almost-started-a-war-report-reveals-dark-reality-emerging-as-ai-permeates-civilisation/news-story/a185fe05f6973c5c3de25499c69d5d49",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T04:42:37Z"
+        "publishedAt": "2026-09-21T22:27:02Z"
       },
       {
-        "title": "Show HN: Text-me: a personal agent that learns your pace",
-        "url": "https://aiworthusing.com/agent-index/text-me",
+        "title": "Show HN: WebGCM – a global climate model running in the browser on WebGPU",
+        "url": "https://gcm.echorelay.net/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-19T23:58:50Z"
+        "publishedAt": "2026-09-21T21:15:04Z"
       }
     ],
     "out-of-this-world": [
