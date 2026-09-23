@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:54:14.715Z",
+  "generatedAt": "2026-09-23T10:42:28.269Z",
   "domains": {
     "healthcare": [
       {
@@ -15,90 +15,90 @@
         "publishedAt": "2026-09-20T23:42:47Z"
       },
       {
-        "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-        "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+        "title": "Global Challenges in AI Safety for Biosecurity",
+        "url": "https://www.lesswrong.com/posts/KH2JjfSrw6tJdmKzw/global-challenges-in-ai-safety-for-biosecurity",
         "source": "Hacker News",
-        "publishedAt": "2026-09-18T11:02:39Z"
+        "publishedAt": "2026-09-20T07:02:28Z"
       }
     ],
     "computing": [
       {
-        "title": "America is getting its AI race with China wrong",
+        "title": "Ask HN: How do you cope with AI being used to target and bomb children?",
+        "url": "https://news.ycombinator.com/item?id=49812905",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-23T07:48:08Z"
+      },
+      {
+        "title": "Show HN: Napkin – a scratchpad that holds texts and images for copy",
+        "url": "https://github.com/sudomonas/napkin",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-23T04:34:13Z"
+      },
+      {
+        "title": "America is in the wrong AI race with China",
         "url": "https://restofworld.org/2026/america-china-ai-race-trust/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-22T10:49:40Z"
-      },
-      {
-        "title": "China's AI Realism Is Not Conspiracy",
-        "url": "https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-22T03:01:06Z"
-      },
-      {
-        "title": "IBM: First Modular Cryogenic Systems in Milestone Toward Fault-Tolerant",
-        "url": "https://newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-21T21:49:39Z"
+        "publishedAt": "2026-09-23T04:27:06Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Motor Characterization for Small Running Robots (2016)",
-        "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+        "title": "Fifty Years of Open Source Software Supply Chain Security",
+        "url": "https://queue.acm.org/doi/10.1145/3722542",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T23:27:31Z"
+        "publishedAt": "2026-09-23T05:46:06Z"
       },
       {
-        "title": "Show HN: Mathy – Build Math Automaticity",
-        "url": "https://mathy.game/",
+        "title": "Are Meta's smart glasses training AI for robots?",
+        "url": "https://proton.me/blog/meta-smart-glasses-ai-robots",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T15:08:19Z"
+        "publishedAt": "2026-09-22T20:01:20Z"
       },
       {
-        "title": "Robotics Is Harder",
-        "url": "https://whattotelltherobot.com/p/robotics-really-is-harder",
+        "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
+        "url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T14:40:58Z"
+        "publishedAt": "2026-09-22T16:51:17Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: A tool to find the dish you are craving",
-        "url": "https://icrave.food/",
+        "title": "Show HN: Riftri – copy-on-write Git worktrees for running agents in parallel",
+        "url": "https://twitter.com/KinfishT/status/2102093551601684897",
         "source": "Hacker News",
-        "publishedAt": "2026-09-22T04:46:33Z"
+        "publishedAt": "2026-09-22T19:58:59Z"
       },
       {
-        "title": "Almost started a war: Report reveals dark reality as AI permeates civilisation",
-        "url": "https://www.news.com.au/technology/innovation/military/almost-started-a-war-report-reveals-dark-reality-emerging-as-ai-permeates-civilisation/news-story/a185fe05f6973c5c3de25499c69d5d49",
+        "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+        "url": "https://www.coveragecat.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T22:27:02Z"
+        "publishedAt": "2026-09-22T17:26:36Z"
       },
       {
-        "title": "Show HN: WebGCM – a global climate model running in the browser on WebGPU",
-        "url": "https://gcm.echorelay.net/",
+        "title": "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models",
+        "url": "https://github.com/General-Instinct/InstinctFlash",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T21:15:04Z"
+        "publishedAt": "2026-09-22T15:20:06Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "ESA x TPCI - Pikachu in the Cupola",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
+        "title": "A hitchhiker’s guide to Hera’s target asteroids",
+        "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids",
         "source": "ESA",
-        "publishedAt": "2026-09-21T14:00:00Z"
+        "publishedAt": "2026-09-23T08:10:00Z"
       },
       {
-        "title": "Pikachu in the Cupola",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola",
+        "title": "Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch",
+        "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch",
         "source": "ESA",
-        "publishedAt": "2026-09-21T14:00:00Z"
+        "publishedAt": "2026-09-23T08:00:00Z"
       },
       {
-        "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
-        "source": "NASA",
-        "publishedAt": "2026-09-20T04:05:00Z"
+        "title": "Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon",
+        "url": "https://europeanspaceflight.com/italy-to-spend-over-5-billion-to-send-two-astronauts-to-the-moon/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-09-23T07:27:14Z"
       }
     ]
   }
