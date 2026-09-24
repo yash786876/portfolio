@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-09-23T10:42:28.269Z",
+  "generatedAt": "2026-09-24T11:03:12.316Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+        "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-23T13:50:08Z"
+      },
       {
         "title": "Show HN: Vsqrd – AWS for Biology Experiments",
         "url": "https://vsqrd.com/",
@@ -13,92 +19,86 @@
         "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
         "source": "Hacker News",
         "publishedAt": "2026-09-20T23:42:47Z"
-      },
-      {
-        "title": "Global Challenges in AI Safety for Biosecurity",
-        "url": "https://www.lesswrong.com/posts/KH2JjfSrw6tJdmKzw/global-challenges-in-ai-safety-for-biosecurity",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-20T07:02:28Z"
       }
     ],
     "computing": [
       {
-        "title": "Ask HN: How do you cope with AI being used to target and bomb children?",
-        "url": "https://news.ycombinator.com/item?id=49812905",
+        "title": "China's Approach to AI",
+        "url": "https://madeinchinajournal.com/2026/09/23/chinas-approach-to-ai-infrastructural-statecraft-managed-pluralism/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T07:48:08Z"
+        "publishedAt": "2026-09-24T04:01:17Z"
       },
       {
-        "title": "Show HN: Napkin – a scratchpad that holds texts and images for copy",
-        "url": "https://github.com/sudomonas/napkin",
+        "title": "Ask HN: Do you offload your coding to AI, or keep your skills sharp?",
+        "url": "https://news.ycombinator.com/item?id=49820486",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T04:34:13Z"
+        "publishedAt": "2026-09-23T18:35:34Z"
       },
       {
-        "title": "America is in the wrong AI race with China",
-        "url": "https://restofworld.org/2026/america-china-ai-race-trust/",
+        "title": "A week in Beijing and Shanghai with the people building AI in China",
+        "url": "https://earnedintuition.substack.com/p/involution-without-export-is-wasted",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T04:27:06Z"
+        "publishedAt": "2026-09-23T15:22:15Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Fifty Years of Open Source Software Supply Chain Security",
-        "url": "https://queue.acm.org/doi/10.1145/3722542",
+        "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+        "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T05:46:06Z"
+        "publishedAt": "2026-09-24T04:05:39Z"
       },
       {
-        "title": "Are Meta's smart glasses training AI for robots?",
-        "url": "https://proton.me/blog/meta-smart-glasses-ai-robots",
+        "title": "Cognex to Acquire RealSense, Expanding Machine Vision Robotic Perception Market",
+        "url": "https://www.cognex.com/en/company/press-releases/cognex-to-acquire-realsense",
         "source": "Hacker News",
-        "publishedAt": "2026-09-22T20:01:20Z"
+        "publishedAt": "2026-09-23T16:37:35Z"
       },
       {
-        "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
-        "url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
+        "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+        "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-22T16:51:17Z"
+        "publishedAt": "2026-09-23T12:20:15Z"
       }
     ],
     "new-innovation": [
+      {
+        "title": "Show HN: Local Software Factory – running multiple coding agents in parallel",
+        "url": "https://github.com/stratonext/software-factory",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-23T16:22:09Z"
+      },
+      {
+        "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
+        "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-23T11:01:50Z"
+      },
       {
         "title": "Show HN: Riftri – copy-on-write Git worktrees for running agents in parallel",
         "url": "https://twitter.com/KinfishT/status/2102093551601684897",
         "source": "Hacker News",
         "publishedAt": "2026-09-22T19:58:59Z"
-      },
-      {
-        "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-        "url": "https://www.coveragecat.com/",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-22T17:26:36Z"
-      },
-      {
-        "title": "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models",
-        "url": "https://github.com/General-Instinct/InstinctFlash",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-22T15:20:06Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "A hitchhiker’s guide to Hera’s target asteroids",
-        "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids",
+        "title": "Record participation in ESA’s Industry Space Days 2026",
+        "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026",
         "source": "ESA",
-        "publishedAt": "2026-09-23T08:10:00Z"
+        "publishedAt": "2026-09-24T07:05:00Z"
       },
       {
-        "title": "Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch",
-        "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch",
-        "source": "ESA",
-        "publishedAt": "2026-09-23T08:00:00Z"
-      },
-      {
-        "title": "Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon",
-        "url": "https://europeanspaceflight.com/italy-to-spend-over-5-billion-to-send-two-astronauts-to-the-moon/",
+        "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
+        "url": "https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/",
         "source": "European Spaceflight",
-        "publishedAt": "2026-09-23T07:27:14Z"
+        "publishedAt": "2026-09-24T06:00:15Z"
+      },
+      {
+        "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+        "source": "NASA",
+        "publishedAt": "2026-09-24T04:05:00Z"
       }
     ]
   }
