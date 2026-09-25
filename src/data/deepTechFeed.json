@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:03:12.316Z",
+  "generatedAt": "2026-09-25T11:03:01.422Z",
   "domains": {
     "healthcare": [
       {
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "China's Approach to AI",
-        "url": "https://madeinchinajournal.com/2026/09/23/chinas-approach-to-ai-infrastructural-statecraft-managed-pluralism/",
+        "title": "Google plans first test ofAl chips in space under Project Suncatcher",
+        "url": "https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-24T04:01:17Z"
+        "publishedAt": "2026-09-25T06:21:29Z"
       },
       {
-        "title": "Ask HN: Do you offload your coding to AI, or keep your skills sharp?",
-        "url": "https://news.ycombinator.com/item?id=49820486",
+        "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
+        "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T18:35:34Z"
+        "publishedAt": "2026-09-25T06:03:56Z"
       },
       {
-        "title": "A week in Beijing and Shanghai with the people building AI in China",
-        "url": "https://earnedintuition.substack.com/p/involution-without-export-is-wasted",
+        "title": "Tell HN: No company scaled revenue as fast as AI companies",
+        "url": "https://news.ycombinator.com/item?id=49840597",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T15:22:15Z"
+        "publishedAt": "2026-09-25T05:50:23Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-        "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "title": "\"It Was Tragic\": Exploring the Impact of a Robot's Shutdown",
+        "url": "https://arxiv.org/abs/2509.06934",
         "source": "Hacker News",
-        "publishedAt": "2026-09-24T04:05:39Z"
+        "publishedAt": "2026-09-24T18:52:07Z"
       },
       {
-        "title": "Cognex to Acquire RealSense, Expanding Machine Vision Robotic Perception Market",
-        "url": "https://www.cognex.com/en/company/press-releases/cognex-to-acquire-realsense",
+        "title": "Robots grow and package lettuce year-round in Norway's automated farm",
+        "url": "https://phys.org/news/2026-09-robots-package-lettuce-year-norway.html",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T16:37:35Z"
+        "publishedAt": "2026-09-24T13:20:03Z"
       },
       {
-        "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-        "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+        "title": "How the US handed China control of the rare earth supply chain",
+        "url": "https://theconversation.com/how-the-us-gave-up-its-edge-to-china-in-processing-vital-rare-earth-minerals-and-what-thats-costing-292631",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T12:20:15Z"
+        "publishedAt": "2026-09-24T12:36:45Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Local Software Factory – running multiple coding agents in parallel",
-        "url": "https://github.com/stratonext/software-factory",
+        "title": "Show HN: Public Browser MCP – +48% speed -33% token/session vs. AgentBrowser",
+        "url": "https://github.com/Silbercue/public-browser/releases/tag/v3.0.0",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T16:22:09Z"
+        "publishedAt": "2026-09-24T21:20:07Z"
       },
       {
-        "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
-        "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+        "title": "Show HN: Canary (YC) – Independent verification for AI code",
+        "url": "https://www.runcanary.ai/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T11:01:50Z"
+        "publishedAt": "2026-09-24T20:57:52Z"
       },
       {
-        "title": "Show HN: Riftri – copy-on-write Git worktrees for running agents in parallel",
-        "url": "https://twitter.com/KinfishT/status/2102093551601684897",
+        "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
         "source": "Hacker News",
-        "publishedAt": "2026-09-22T19:58:59Z"
+        "publishedAt": "2026-09-24T19:14:27Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Record participation in ESA’s Industry Space Days 2026",
-        "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026",
+        "title": "ESA and the EU partner with Museo Galileo on new exhibition",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
         "source": "ESA",
-        "publishedAt": "2026-09-24T07:05:00Z"
+        "publishedAt": "2026-09-25T09:00:00Z"
       },
       {
-        "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
-        "url": "https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-09-24T06:00:15Z"
+        "title": "Earth from Space: Venetian Lagoon",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon",
+        "source": "ESA",
+        "publishedAt": "2026-09-25T08:00:00Z"
       },
       {
-        "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
-        "source": "NASA",
-        "publishedAt": "2026-09-24T04:05:00Z"
+        "title": "MIRROR robot reflects future of in-orbit assembly",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly",
+        "source": "ESA",
+        "publishedAt": "2026-09-25T07:45:00Z"
       }
     ]
   }
