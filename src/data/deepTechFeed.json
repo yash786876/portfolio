@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:44:55.045Z",
+  "generatedAt": "2026-09-27T11:19:34.065Z",
   "domains": {
     "healthcare": [
       {
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "Show HN: OOMU is a free macOS native desktop AI harness (local and cloud)",
-        "url": "https://oomu.ai/download.html",
+        "title": "'Things will never be chill again': The doomers who shaped AI safety freakout",
+        "url": "https://www.msn.com/en-us/money/general/things-will-never-be-chill-again-the-doomers-who-shaped-the-ai-safety-freakout/ar-AA2d2d6t",
         "source": "Hacker News",
-        "publishedAt": "2026-09-25T22:16:22Z"
+        "publishedAt": "2026-09-27T11:08:43Z"
       },
       {
-        "title": "Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%",
-        "url": "https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342",
+        "title": "Chinese AI models surge in global popularity",
+        "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
         "source": "Hacker News",
-        "publishedAt": "2026-09-25T21:22:49Z"
+        "publishedAt": "2026-09-27T08:48:28Z"
       },
       {
-        "title": "No country controls every layer: The hidden AI systems reshaping global power",
-        "url": "https://www.abc.net.au/news/2026-09-24/ai-race-chips-data-energy-cake-stack-us-china-asia-pacific/107071946",
+        "title": "'Things Will Never Be Chill Again':The Doomers Who Shaped the AI Safety Freakout",
+        "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05",
         "source": "Hacker News",
-        "publishedAt": "2026-09-25T18:57:58Z"
+        "publishedAt": "2026-09-27T08:05:30Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Ask HN: Is multi-model redundancy now a compliance requirement for small teams?",
-        "url": "https://news.ycombinator.com/item?id=49852847",
+        "title": "From game physics to care robots (2023) [The Royal Society] [video]",
+        "url": "https://www.youtube.com/watch?v=R1D9Ma4m9Q0",
         "source": "Hacker News",
-        "publishedAt": "2026-09-26T03:12:00Z"
+        "publishedAt": "2026-09-27T09:42:10Z"
       },
       {
-        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-        "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+        "title": "Show HN: Gigantua – A Black Hole in your Browser",
+        "url": "https://claude.ai/artifact/XmWGFtQPgn8aJvU193Ksf8",
         "source": "Hacker News",
-        "publishedAt": "2026-09-26T00:26:37Z"
+        "publishedAt": "2026-09-27T09:22:47Z"
       },
       {
-        "title": "Anthropic's Claims over Its \"Supply Chain Risk\" Exclusion by Dow Rejected",
-        "url": "https://reason.com/volokh/2026/09/25/anthropics-first-amendment-claim-against-department-of-war-rejected/",
+        "title": "Show HN: The City – a native Mac app that shows Claude Code as a city of robots",
+        "url": "https://github.com/Slaymish/theCity",
         "source": "Hacker News",
-        "publishedAt": "2026-09-25T20:32:34Z"
+        "publishedAt": "2026-09-27T04:04:47Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Wave – Layered gradient wave backgrounds using Three.js and shaders",
-        "url": "https://wave.subworkflow.ai/",
+        "title": "Show HN: Maniac Mansion Reconstructed in 3D from Its Original Screens",
+        "url": "https://github.com/s-macke/maniac-mansion-3d",
         "source": "Hacker News",
-        "publishedAt": "2026-09-25T12:34:56Z"
+        "publishedAt": "2026-09-27T08:58:58Z"
       },
       {
-        "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+        "title": "Ask HN: Are you unfollowing friends on GitHub because of AI slop?",
+        "url": "https://news.ycombinator.com/item?id=49862641",
         "source": "Hacker News",
-        "publishedAt": "2026-09-24T19:14:27Z"
+        "publishedAt": "2026-09-27T02:08:58Z"
       },
       {
-        "title": "Show HN: Local Software Factory – running multiple coding agents in parallel",
-        "url": "https://github.com/stratonext/software-factory",
+        "title": "Show HN: Blender Copilot",
+        "url": "https://github.com/XEonAX/blender-copilot",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T16:22:09Z"
+        "publishedAt": "2026-09-26T18:06:59Z"
       }
     ],
     "out-of-this-world": [
+      {
+        "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+        "source": "NASA",
+        "publishedAt": "2026-09-27T04:05:00Z"
+      },
+      {
+        "title": "Next crew bound for the space station arrive in Florida",
+        "url": "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
+        "source": "Spaceflight Now",
+        "publishedAt": "2026-09-26T19:36:47Z"
+      },
       {
         "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
         "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
         "source": "NASA",
         "publishedAt": "2026-09-26T04:05:00Z"
-      },
-      {
-        "title": "Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps",
-        "url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/",
-        "source": "NASASpaceflight",
-        "publishedAt": "2026-09-26T04:01:59Z"
-      },
-      {
-        "title": "NASA, Boeing to Provide Update on Starliner Development",
-        "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
-        "source": "NASA",
-        "publishedAt": "2026-09-25T22:06:50Z"
       }
     ]
   }
