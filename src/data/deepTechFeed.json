@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-09-27T11:19:34.065Z",
+  "generatedAt": "2026-09-28T12:48:34.021Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Debian 11 bullseye-security repos have gone missing after botched EOL process",
+        "url": "https://lists.debian.org/debian-mirrors/2026/09/msg00001.html",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-28T02:50:05Z"
+      },
       {
         "title": "Show HN: Vsqrd – AWS for Biology Experiments",
         "url": "https://vsqrd.com/",
@@ -13,55 +19,55 @@
         "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
         "source": "Hacker News",
         "publishedAt": "2026-09-20T23:42:47Z"
-      },
-      {
-        "title": "Global Challenges in AI Safety for Biosecurity",
-        "url": "https://www.lesswrong.com/posts/KH2JjfSrw6tJdmKzw/global-challenges-in-ai-safety-for-biosecurity",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-20T07:02:28Z"
       }
     ],
     "computing": [
       {
-        "title": "'Things will never be chill again': The doomers who shaped AI safety freakout",
-        "url": "https://www.msn.com/en-us/money/general/things-will-never-be-chill-again-the-doomers-who-shaped-the-ai-safety-freakout/ar-AA2d2d6t",
+        "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
         "source": "Hacker News",
-        "publishedAt": "2026-09-27T11:08:43Z"
+        "publishedAt": "2026-09-28T12:07:08Z"
       },
       {
-        "title": "Chinese AI models surge in global popularity",
-        "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+        "title": "Show HN: Onesie – An expressive CLI for System One models like Jev",
+        "url": "https://github.com/frodi-karlsson/onesie",
         "source": "Hacker News",
-        "publishedAt": "2026-09-27T08:48:28Z"
+        "publishedAt": "2026-09-28T11:37:25Z"
       },
       {
-        "title": "'Things Will Never Be Chill Again':The Doomers Who Shaped the AI Safety Freakout",
-        "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05",
+        "title": "Show HN: Yaystack.ch, check whether AI answer engines can see your website",
+        "url": "https://yaystack.ch/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-27T08:05:30Z"
+        "publishedAt": "2026-09-28T10:50:15Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "From game physics to care robots (2023) [The Royal Society] [video]",
-        "url": "https://www.youtube.com/watch?v=R1D9Ma4m9Q0",
+        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+        "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-27T09:42:10Z"
+        "publishedAt": "2026-09-28T11:07:29Z"
       },
       {
-        "title": "Show HN: Gigantua – A Black Hole in your Browser",
-        "url": "https://claude.ai/artifact/XmWGFtQPgn8aJvU193Ksf8",
+        "title": "Robots Have No Voice",
+        "url": "https://randsinrepose.com/archives/robots-have-no-voice/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-27T09:22:47Z"
+        "publishedAt": "2026-09-28T10:54:07Z"
       },
       {
-        "title": "Show HN: The City – a native Mac app that shows Claude Code as a city of robots",
-        "url": "https://github.com/Slaymish/theCity",
+        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
+        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
         "source": "Hacker News",
-        "publishedAt": "2026-09-27T04:04:47Z"
+        "publishedAt": "2026-09-27T23:45:17Z"
       }
     ],
     "new-innovation": [
+      {
+        "title": "Show HN: Onesie – An expressive CLI for System One models like Jev",
+        "url": "https://github.com/frodi-karlsson/onesie",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-28T11:37:25Z"
+      },
       {
         "title": "Show HN: Maniac Mansion Reconstructed in 3D from Its Original Screens",
         "url": "https://github.com/s-macke/maniac-mansion-3d",
@@ -69,36 +75,30 @@
         "publishedAt": "2026-09-27T08:58:58Z"
       },
       {
-        "title": "Ask HN: Are you unfollowing friends on GitHub because of AI slop?",
-        "url": "https://news.ycombinator.com/item?id=49862641",
+        "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
         "source": "Hacker News",
-        "publishedAt": "2026-09-27T02:08:58Z"
-      },
-      {
-        "title": "Show HN: Blender Copilot",
-        "url": "https://github.com/XEonAX/blender-copilot",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-26T18:06:59Z"
+        "publishedAt": "2026-09-24T19:14:27Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
-        "source": "NASA",
-        "publishedAt": "2026-09-27T04:05:00Z"
+        "title": "One geology step closer to the Moon",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon",
+        "source": "ESA",
+        "publishedAt": "2026-09-28T12:03:00Z"
       },
       {
-        "title": "Next crew bound for the space station arrive in Florida",
-        "url": "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
-        "source": "Spaceflight Now",
-        "publishedAt": "2026-09-26T19:36:47Z"
+        "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
+        "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
+        "source": "SpaceNews",
+        "publishedAt": "2026-09-28T12:00:00Z"
       },
       {
-        "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+        "title": "APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/",
         "source": "NASA",
-        "publishedAt": "2026-09-26T04:05:00Z"
+        "publishedAt": "2026-09-28T11:14:27Z"
       }
     ]
   }
