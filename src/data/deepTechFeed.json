@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-09-28T12:48:34.021Z",
+  "generatedAt": "2026-09-29T12:03:36.943Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Debian 11 bullseye-security repos have gone missing after botched EOL process",
-        "url": "https://lists.debian.org/debian-mirrors/2026/09/msg00001.html",
+        "title": "HouseOS – self-hosted homesystem platform, designed to be operated by agents",
+        "url": "https://github.com/boitech-dev/HouseOS",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T02:50:05Z"
+        "publishedAt": "2026-09-28T21:50:37Z"
       },
       {
-        "title": "Show HN: Vsqrd – AWS for Biology Experiments",
-        "url": "https://vsqrd.com/",
+        "title": "Authors Guild calls on publishers to share Anthropic wealth",
+        "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
         "source": "Hacker News",
-        "publishedAt": "2026-09-21T00:21:02Z"
+        "publishedAt": "2026-09-28T21:14:24Z"
       },
       {
-        "title": "New startup to test psychedelic-like drug against Parkinson's symptom",
-        "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
+        "title": "Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents",
+        "url": "https://omnesis.dev/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-20T23:42:47Z"
+        "publishedAt": "2026-09-28T13:35:57Z"
       }
     ],
     "computing": [
       {
+        "title": "Meta Has Hired MongoDB CEO Chirantan Desai for AI Push",
+        "url": "https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-29T11:37:54Z"
+      },
+      {
         "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
         "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T12:07:08Z"
+        "publishedAt": "2026-09-29T11:03:47Z"
       },
       {
-        "title": "Show HN: Onesie – An expressive CLI for System One models like Jev",
-        "url": "https://github.com/frodi-karlsson/onesie",
+        "title": "China broadens travel curbs to encompass family of top AI talent",
+        "url": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T11:37:25Z"
-      },
-      {
-        "title": "Show HN: Yaystack.ch, check whether AI answer engines can see your website",
-        "url": "https://yaystack.ch/",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-28T10:50:15Z"
+        "publishedAt": "2026-09-29T08:20:37Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-        "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+        "title": "Towards Universal Post-Training for Robotics",
+        "url": "https://pd-perry.github.io/posts/post-training.html",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T11:07:29Z"
+        "publishedAt": "2026-09-28T18:23:17Z"
       },
       {
-        "title": "Robots Have No Voice",
-        "url": "https://randsinrepose.com/archives/robots-have-no-voice/",
+        "title": "NASA, for the time being, is unable to move the ISS's large robotic arm",
+        "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T10:54:07Z"
+        "publishedAt": "2026-09-28T17:27:36Z"
       },
       {
-        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
-        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action",
+        "title": "We Can't Let Enormous Weirdos Regulate AI",
+        "url": "https://little-flying-robots.ghost.io/why-we-cant-let-enormous-weirdos-regulate-ai/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-27T23:45:17Z"
+        "publishedAt": "2026-09-28T16:55:50Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Onesie – An expressive CLI for System One models like Jev",
-        "url": "https://github.com/frodi-karlsson/onesie",
+        "title": "Show HN: Overmux - Build custom agent dev environments with tmux and web UIs",
+        "url": "https://github.com/richardgill/overmux",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T11:37:25Z"
+        "publishedAt": "2026-09-29T09:34:39Z"
       },
       {
-        "title": "Show HN: Maniac Mansion Reconstructed in 3D from Its Original Screens",
-        "url": "https://github.com/s-macke/maniac-mansion-3d",
+        "title": "Show HN: Corral kill every command your agent starts",
+        "url": "https://github.com/Cardinal44/corral",
         "source": "Hacker News",
-        "publishedAt": "2026-09-27T08:58:58Z"
+        "publishedAt": "2026-09-29T00:35:05Z"
       },
       {
-        "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+        "title": "How Apply for Position?",
+        "url": "https://news.ycombinator.com/item?id=49884074",
         "source": "Hacker News",
-        "publishedAt": "2026-09-24T19:14:27Z"
+        "publishedAt": "2026-09-28T20:43:09Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "One geology step closer to the Moon",
-        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon",
-        "source": "ESA",
-        "publishedAt": "2026-09-28T12:03:00Z"
-      },
-      {
-        "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-        "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
+        "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
+        "url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
         "source": "SpaceNews",
-        "publishedAt": "2026-09-28T12:00:00Z"
+        "publishedAt": "2026-09-29T11:00:00Z"
       },
       {
-        "title": "APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/",
+        "title": "Galaxies in a cosmic house of mirrors",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+        "source": "ESA",
+        "publishedAt": "2026-09-29T08:00:00Z"
+      },
+      {
+        "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
         "source": "NASA",
-        "publishedAt": "2026-09-28T11:14:27Z"
+        "publishedAt": "2026-09-29T04:05:00Z"
       }
     ]
   }
