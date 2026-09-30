@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-29T12:03:36.943Z",
+  "generatedAt": "2026-09-30T11:51:44.663Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Show HN: Web server that lets you build iOS & Android offline apps like BitChat",
+        "url": "https://github.com/Qbix/webserver/tree/main",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-29T20:53:28Z"
+      },
       {
         "title": "HouseOS – self-hosted homesystem platform, designed to be operated by agents",
         "url": "https://github.com/boitech-dev/HouseOS",
         "source": "Hacker News",
         "publishedAt": "2026-09-28T21:50:37Z"
-      },
-      {
-        "title": "Authors Guild calls on publishers to share Anthropic wealth",
-        "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-28T21:14:24Z"
       },
       {
         "title": "Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents",
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "Meta Has Hired MongoDB CEO Chirantan Desai for AI Push",
-        "url": "https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html",
+        "title": "The open-source AI platforms vying to become China's Hugging Face",
+        "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-29T11:37:54Z"
-      },
-      {
-        "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-29T11:03:47Z"
+        "publishedAt": "2026-09-30T04:24:16Z"
       },
       {
         "title": "China broadens travel curbs to encompass family of top AI talent",
         "url": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
         "source": "Hacker News",
-        "publishedAt": "2026-09-29T08:20:37Z"
+        "publishedAt": "2026-09-30T00:52:00Z"
+      },
+      {
+        "title": "Chinese AI tool told researchers how to make bioweapons",
+        "url": "https://www.bbc.com/news/articles/cmrergq3j7lgo",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-30T00:28:27Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Towards Universal Post-Training for Robotics",
-        "url": "https://pd-perry.github.io/posts/post-training.html",
+        "title": "Travis Kalanick is back: How Uber's ousted founder went from pariah to hero",
+        "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T18:23:17Z"
+        "publishedAt": "2026-09-30T02:58:42Z"
       },
       {
-        "title": "NASA, for the time being, is unable to move the ISS's large robotic arm",
-        "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
+        "title": "Show HN: A working 3D model of an Enigma machine",
+        "url": "https://enigma.design",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T17:27:36Z"
+        "publishedAt": "2026-09-29T17:15:56Z"
       },
       {
-        "title": "We Can't Let Enormous Weirdos Regulate AI",
-        "url": "https://little-flying-robots.ghost.io/why-we-cant-let-enormous-weirdos-regulate-ai/",
+        "title": "LeRebot So-101 Crash Course",
+        "url": "https://medium.com/@rob.bercik/getting-out-of-the-way-my-robotics-crash-course-fa2a101b037b",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T16:55:50Z"
+        "publishedAt": "2026-09-29T15:00:07Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Overmux - Build custom agent dev environments with tmux and web UIs",
-        "url": "https://github.com/richardgill/overmux",
-        "source": "Hacker News",
-        "publishedAt": "2026-09-29T09:34:39Z"
-      },
-      {
-        "title": "Show HN: Corral kill every command your agent starts",
+        "title": "Show HN: Corral – Kill every command your agent starts",
         "url": "https://github.com/Cardinal44/corral",
         "source": "Hacker News",
         "publishedAt": "2026-09-29T00:35:05Z"
       },
       {
-        "title": "How Apply for Position?",
-        "url": "https://news.ycombinator.com/item?id=49884074",
+        "title": "AI agent startup Instinct raises $1B Series C at $10B valuation",
+        "url": "https://reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T20:43:09Z"
+        "publishedAt": "2026-09-28T15:02:19Z"
+      },
+      {
+        "title": "Show HN: Local Software Factory – running multiple coding agents in parallel",
+        "url": "https://github.com/stratonext/software-factory",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-23T16:22:09Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
-        "url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
-        "source": "SpaceNews",
-        "publishedAt": "2026-09-29T11:00:00Z"
+        "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
+        "url": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-09-30T10:10:12Z"
       },
       {
-        "title": "Galaxies in a cosmic house of mirrors",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+        "title": "Science begins for Smile",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
         "source": "ESA",
-        "publishedAt": "2026-09-29T08:00:00Z"
+        "publishedAt": "2026-09-30T07:05:00Z"
       },
       {
-        "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
+        "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
         "source": "NASA",
-        "publishedAt": "2026-09-29T04:05:00Z"
+        "publishedAt": "2026-09-30T04:05:00Z"
       }
     ]
   }
