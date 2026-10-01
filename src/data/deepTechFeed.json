@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-30T11:51:44.663Z",
+  "generatedAt": "2026-10-01T12:21:41.488Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Show HN: Web server that lets you build iOS & Android offline apps like BitChat",
-        "url": "https://github.com/Qbix/webserver/tree/main",
+        "title": "Show HN: See how fintech features perform before you build yours",
+        "url": "https://library.evidenso.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-29T20:53:28Z"
+        "publishedAt": "2026-09-30T12:00:28Z"
       },
       {
         "title": "HouseOS – self-hosted homesystem platform, designed to be operated by agents",
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "The open-source AI platforms vying to become China's Hugging Face",
-        "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
+        "title": "Show HN: Modeling CHSH Degradation (S = 2.404) on Rigetti Cepheus-1-108Q",
+        "url": "https://quantumcomputing.stackexchange.com/questions/46448/modeling-chsh-degradation-s-2-404-on-rigetti-cepheus-1-108q-environmental-t",
         "source": "Hacker News",
-        "publishedAt": "2026-09-30T04:24:16Z"
+        "publishedAt": "2026-10-01T09:57:50Z"
       },
       {
-        "title": "China broadens travel curbs to encompass family of top AI talent",
-        "url": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
+        "title": "A Primer on Rydberg Atom Antennas",
+        "url": "https://rfessentials.com/industry-news/quantum-computing/rydberg-atom-antennas-primer/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-30T00:52:00Z"
+        "publishedAt": "2026-10-01T08:01:25Z"
       },
       {
-        "title": "Chinese AI tool told researchers how to make bioweapons",
-        "url": "https://www.bbc.com/news/articles/cmrergq3j7lgo",
+        "title": "Clipx – An open-source AI-native creative suite for macOS",
+        "url": "https://github.com/imlukeshen/clipx",
         "source": "Hacker News",
-        "publishedAt": "2026-09-30T00:28:27Z"
+        "publishedAt": "2026-10-01T01:08:15Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Travis Kalanick is back: How Uber's ousted founder went from pariah to hero",
-        "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/",
+        "title": "XTechHumanoid winners advance military exploration of humanoid capabilities",
+        "url": "https://www.war.gov/News/News-Stories/Article/Article/4613847/robotics-competition-winners-advance-military-exploration-of-humanoid-capabilit/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-30T02:58:42Z"
+        "publishedAt": "2026-10-01T02:30:40Z"
       },
       {
-        "title": "Show HN: A working 3D model of an Enigma machine",
-        "url": "https://enigma.design",
+        "title": "Rho – A Foundation for Efficiently Adaptable VLA Models",
+        "url": "https://microsoft.github.io/rhobotics/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-29T17:15:56Z"
+        "publishedAt": "2026-10-01T01:02:29Z"
       },
       {
-        "title": "LeRebot So-101 Crash Course",
-        "url": "https://medium.com/@rob.bercik/getting-out-of-the-way-my-robotics-crash-course-fa2a101b037b",
+        "title": "If Robots Keep Getting Better, Will Humans Still Have an Edge?",
+        "url": "https://pindexis.github.io",
         "source": "Hacker News",
-        "publishedAt": "2026-09-29T15:00:07Z"
+        "publishedAt": "2026-10-01T01:00:34Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Corral – Kill every command your agent starts",
-        "url": "https://github.com/Cardinal44/corral",
+        "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+        "url": "https://github.com/TantrixAuto/yantra",
         "source": "Hacker News",
-        "publishedAt": "2026-09-29T00:35:05Z"
+        "publishedAt": "2026-10-01T02:30:48Z"
       },
       {
-        "title": "AI agent startup Instinct raises $1B Series C at $10B valuation",
-        "url": "https://reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28",
+        "title": "Ask HN: My agent went haywire, does this output mean anything?",
+        "url": "https://news.ycombinator.com/item?id=49916751",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T15:02:19Z"
+        "publishedAt": "2026-10-01T01:55:42Z"
       },
       {
-        "title": "Show HN: Local Software Factory – running multiple coding agents in parallel",
-        "url": "https://github.com/stratonext/software-factory",
+        "title": "Ask HN: AI revived my durable delay queue project. Is it worth building on?",
+        "url": "https://news.ycombinator.com/item?id=49912969",
         "source": "Hacker News",
-        "publishedAt": "2026-09-23T16:22:09Z"
+        "publishedAt": "2026-09-30T19:05:34Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
-        "url": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-09-30T10:10:12Z"
-      },
-      {
-        "title": "Science begins for Smile",
-        "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
+        "title": "EarthCARE’s view of volcanic plume boosts air safety",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety",
         "source": "ESA",
-        "publishedAt": "2026-09-30T07:05:00Z"
+        "publishedAt": "2026-10-01T07:30:00Z"
       },
       {
-        "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
+        "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
         "source": "NASA",
-        "publishedAt": "2026-09-30T04:05:00Z"
+        "publishedAt": "2026-10-01T04:05:00Z"
+      },
+      {
+        "title": "An Agricultural “Island” in the Saskatchewan River Delta",
+        "url": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/",
+        "source": "NASA",
+        "publishedAt": "2026-10-01T04:00:00Z"
       }
     ]
   }
