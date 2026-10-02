@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T12:21:41.488Z",
+  "generatedAt": "2026-10-02T11:49:11.101Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Show HN: See how fintech features perform before you build yours",
-        "url": "https://library.evidenso.com/",
+        "title": "China's rise as a health tech superpower is important",
+        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-30T12:00:28Z"
+        "publishedAt": "2026-10-02T06:45:16Z"
       },
       {
         "title": "HouseOS – self-hosted homesystem platform, designed to be operated by agents",
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "Show HN: Modeling CHSH Degradation (S = 2.404) on Rigetti Cepheus-1-108Q",
-        "url": "https://quantumcomputing.stackexchange.com/questions/46448/modeling-chsh-degradation-s-2-404-on-rigetti-cepheus-1-108q-environmental-t",
+        "title": "China's rise as a health tech superpower is important",
+        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T09:57:50Z"
+        "publishedAt": "2026-10-02T06:45:16Z"
       },
       {
-        "title": "A Primer on Rydberg Atom Antennas",
-        "url": "https://rfessentials.com/industry-news/quantum-computing/rydberg-atom-antennas-primer/",
+        "title": "Leading Chinese Tech Firms Target Nvidia's A.I. Dominance",
+        "url": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T08:01:25Z"
+        "publishedAt": "2026-10-01T16:22:04Z"
       },
       {
-        "title": "Clipx – An open-source AI-native creative suite for macOS",
-        "url": "https://github.com/imlukeshen/clipx",
+        "title": "Show HN: Read the Odyssey in Greek while learning Greek",
+        "url": "https://readwithgloss.com/texts/odyssey/1",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T01:08:15Z"
+        "publishedAt": "2026-10-01T15:15:56Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "XTechHumanoid winners advance military exploration of humanoid capabilities",
-        "url": "https://www.war.gov/News/News-Stories/Article/Article/4613847/robotics-competition-winners-advance-military-exploration-of-humanoid-capabilit/",
+        "title": "Astra as a Robotics World Model",
+        "url": "https://abstract.inc/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T02:30:40Z"
+        "publishedAt": "2026-10-02T02:46:33Z"
       },
       {
-        "title": "Rho – A Foundation for Efficiently Adaptable VLA Models",
-        "url": "https://microsoft.github.io/rhobotics/",
+        "title": "Gap – Graph-as-Policy",
+        "url": "https://graph-robots.github.io/gap/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T01:02:29Z"
+        "publishedAt": "2026-10-01T22:02:15Z"
       },
       {
-        "title": "If Robots Keep Getting Better, Will Humans Still Have an Edge?",
-        "url": "https://pindexis.github.io",
+        "title": "Griffin: The First Human Interaction Model",
+        "url": "https://www.tavus.io/griffin#intro",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T01:00:34Z"
+        "publishedAt": "2026-10-01T20:31:22Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-        "url": "https://github.com/TantrixAuto/yantra",
+        "title": "Show HN: Web search engine built from the CommonCrawl corpus",
+        "url": "https://search.xorsoft.dev/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T02:30:48Z"
+        "publishedAt": "2026-10-02T10:41:13Z"
       },
       {
-        "title": "Ask HN: My agent went haywire, does this output mean anything?",
-        "url": "https://news.ycombinator.com/item?id=49916751",
+        "title": "GitHub can f..k you and you are forced to love it. or live with it...",
+        "url": "https://news.ycombinator.com/item?id=49929822",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T01:55:42Z"
+        "publishedAt": "2026-10-02T04:22:57Z"
       },
       {
-        "title": "Ask HN: AI revived my durable delay queue project. Is it worth building on?",
-        "url": "https://news.ycombinator.com/item?id=49912969",
+        "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+        "url": "https://innerloop.works/breadcrumb",
         "source": "Hacker News",
-        "publishedAt": "2026-09-30T19:05:34Z"
+        "publishedAt": "2026-10-01T17:58:37Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "EarthCARE’s view of volcanic plume boosts air safety",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety",
+        "title": "A guide to blood draws in orbit",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/A_guide_to_blood_draws_in_orbit",
         "source": "ESA",
-        "publishedAt": "2026-10-01T07:30:00Z"
+        "publishedAt": "2026-10-02T10:30:00Z"
       },
       {
-        "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
-        "source": "NASA",
-        "publishedAt": "2026-10-01T04:05:00Z"
+        "title": "Beyond the airlock - Sophie Adenot's three spacewalks",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks",
+        "source": "ESA",
+        "publishedAt": "2026-10-02T10:00:00Z"
       },
       {
-        "title": "An Agricultural “Island” in the Saskatchewan River Delta",
-        "url": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/",
-        "source": "NASA",
-        "publishedAt": "2026-10-01T04:00:00Z"
+        "title": "Earth from Space: Typhoon Surigae",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae",
+        "source": "ESA",
+        "publishedAt": "2026-10-02T09:00:00Z"
       }
     ]
   }
