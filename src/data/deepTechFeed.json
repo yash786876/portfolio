@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:49:11.101Z",
+  "generatedAt": "2026-10-03T11:02:51.074Z",
   "domains": {
     "healthcare": [
       {
@@ -23,62 +23,62 @@
     ],
     "computing": [
       {
-        "title": "China's rise as a health tech superpower is important",
-        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
+        "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
+        "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T06:45:16Z"
+        "publishedAt": "2026-10-03T09:08:17Z"
       },
       {
-        "title": "Leading Chinese Tech Firms Target Nvidia's A.I. Dominance",
-        "url": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html",
+        "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
+        "url": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T16:22:04Z"
+        "publishedAt": "2026-10-02T23:18:02Z"
       },
       {
-        "title": "Show HN: Read the Odyssey in Greek while learning Greek",
-        "url": "https://readwithgloss.com/texts/odyssey/1",
+        "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
+        "url": "https://teacherplanner.ai",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T15:15:56Z"
+        "publishedAt": "2026-10-02T23:08:21Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Astra as a Robotics World Model",
-        "url": "https://abstract.inc/",
+        "title": "Katalyst Concludes Link Mission, Advances Future Robotic Space Operations",
+        "url": "https://www.katalystspace.com/news/katalyst-concludes-link-mission-advances-future-robotic-space-operations",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T02:46:33Z"
+        "publishedAt": "2026-10-03T05:00:50Z"
       },
       {
-        "title": "Gap – Graph-as-Policy",
-        "url": "https://graph-robots.github.io/gap/",
+        "title": "Humanoid robots won't surprise us when they arrive",
+        "url": "https://philipotoole.com/humanoid-robots-wont-surprise-us-when-they-appear/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T22:02:15Z"
+        "publishedAt": "2026-10-03T02:33:08Z"
       },
       {
-        "title": "Griffin: The First Human Interaction Model",
-        "url": "https://www.tavus.io/griffin#intro",
+        "title": "Agentic Robotics Solves an Industrial Production Problem",
+        "url": "https://www.ambirobotics.com/blog/agentic-robotics/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T20:31:22Z"
+        "publishedAt": "2026-10-03T02:11:56Z"
       }
     ],
     "new-innovation": [
+      {
+        "title": "Show HN: UseJunction – Find what your team's AI tools usage",
+        "url": "https://github.com/use-junction/usejunction",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-02T18:26:16Z"
+      },
+      {
+        "title": "Show HN: Status lines in the Claude desktop app",
+        "url": "https://github.com/NathanAB/statusline-anywhere",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-02T15:28:22Z"
+      },
       {
         "title": "Show HN: Web search engine built from the CommonCrawl corpus",
         "url": "https://search.xorsoft.dev/",
         "source": "Hacker News",
         "publishedAt": "2026-10-02T10:41:13Z"
-      },
-      {
-        "title": "GitHub can f..k you and you are forced to love it. or live with it...",
-        "url": "https://news.ycombinator.com/item?id=49929822",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-02T04:22:57Z"
-      },
-      {
-        "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
-        "url": "https://innerloop.works/breadcrumb",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-01T17:58:37Z"
       }
     ],
     "out-of-this-world": [
