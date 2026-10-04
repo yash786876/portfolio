@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-03T11:02:51.074Z",
+  "generatedAt": "2026-10-04T11:44:01.456Z",
   "domains": {
     "healthcare": [
       {
-        "title": "China's rise as a health tech superpower is important",
-        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
+        "title": "Apple removes Bitchat from India app store;Twitter co-founder Jack Dorsey reacts",
+        "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T06:45:16Z"
+        "publishedAt": "2026-10-03T17:11:03Z"
       },
       {
-        "title": "HouseOS – self-hosted homesystem platform, designed to be operated by agents",
-        "url": "https://github.com/boitech-dev/HouseOS",
+        "title": "Apple Removes BitChat from India App Store at Government's Request",
+        "url": "https://reclaimthenet.org/apple-removes-bitchat-india-government-request",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T21:50:37Z"
+        "publishedAt": "2026-10-03T16:51:36Z"
       },
       {
-        "title": "Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents",
-        "url": "https://omnesis.dev/",
+        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
+        "url": "https://jabhook.ai/",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T13:35:57Z"
+        "publishedAt": "2026-10-03T15:10:54Z"
       }
     ],
     "computing": [
       {
-        "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
-        "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
+        "title": "China's Push into A.I. Has Led to a Problem: Too Much Usage",
+        "url": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-03T09:08:17Z"
+        "publishedAt": "2026-10-04T08:12:20Z"
       },
       {
-        "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
-        "url": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
+        "title": "IBM Debuts Brain-Inspired Chip for Speedy, Efficient AI (2023)",
+        "url": "https://spectrum.ieee.org/neuromorphic-computing-ibm-northpole",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T23:18:02Z"
+        "publishedAt": "2026-10-04T08:07:54Z"
       },
       {
-        "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
-        "url": "https://teacherplanner.ai",
+        "title": "Show HN: ViralWiz – AI captions, clips and thumbnails for short-form video",
+        "url": "https://viralwiz.co",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T23:08:21Z"
+        "publishedAt": "2026-10-04T00:13:07Z"
       }
     ],
     "manufacturing": [
@@ -49,56 +49,56 @@
         "publishedAt": "2026-10-03T05:00:50Z"
       },
       {
-        "title": "Humanoid robots won't surprise us when they arrive",
-        "url": "https://philipotoole.com/humanoid-robots-wont-surprise-us-when-they-appear/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-03T02:33:08Z"
-      },
-      {
         "title": "Agentic Robotics Solves an Industrial Production Problem",
         "url": "https://www.ambirobotics.com/blog/agentic-robotics/",
         "source": "Hacker News",
         "publishedAt": "2026-10-03T02:11:56Z"
+      },
+      {
+        "title": "Maintaining wait-on at agent speed: AI, NPM supply-chain risk, and a Rust engine",
+        "url": "https://www.kevinold.com/blog/a-week-maintaining-wait-on",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-02T19:16:32Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: UseJunction – Find what your team's AI tools usage",
-        "url": "https://github.com/use-junction/usejunction",
+        "title": "Show HN: Modrent Minecraft Hosting",
+        "url": "https://modrent.app",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T18:26:16Z"
+        "publishedAt": "2026-10-04T11:05:39Z"
       },
       {
-        "title": "Show HN: Status lines in the Claude desktop app",
-        "url": "https://github.com/NathanAB/statusline-anywhere",
+        "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+        "url": "https://thoreaubasic.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T15:28:22Z"
+        "publishedAt": "2026-10-03T07:28:54Z"
       },
       {
-        "title": "Show HN: Web search engine built from the CommonCrawl corpus",
-        "url": "https://search.xorsoft.dev/",
+        "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+        "url": "https://innerloop.works/breadcrumb",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T10:41:13Z"
+        "publishedAt": "2026-10-01T17:58:37Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "A guide to blood draws in orbit",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/A_guide_to_blood_draws_in_orbit",
-        "source": "ESA",
-        "publishedAt": "2026-10-02T10:30:00Z"
+        "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+        "source": "NASA",
+        "publishedAt": "2026-10-04T04:05:00Z"
       },
       {
-        "title": "Beyond the airlock - Sophie Adenot's three spacewalks",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks",
-        "source": "ESA",
-        "publishedAt": "2026-10-02T10:00:00Z"
+        "title": "ESA to pursue crew transport and space stations as European launchers come online",
+        "url": "https://www.nasaspaceflight.com/2026/10/europe-update/",
+        "source": "NASASpaceflight",
+        "publishedAt": "2026-10-03T22:11:23Z"
       },
       {
-        "title": "Earth from Space: Typhoon Surigae",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae",
-        "source": "ESA",
-        "publishedAt": "2026-10-02T09:00:00Z"
+        "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+        "source": "NASA",
+        "publishedAt": "2026-10-03T04:05:00Z"
       }
     ]
   }
