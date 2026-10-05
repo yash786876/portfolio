@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-10-04T11:44:01.456Z",
+  "generatedAt": "2026-10-05T13:29:53.540Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Government of India officially removes bitchat from the App Store",
+        "url": "https://twitter.com/jack/status/2106359514391871540",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-04T12:02:29Z"
+      },
       {
         "title": "Apple removes Bitchat from India app store;Twitter co-founder Jack Dorsey reacts",
         "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
@@ -13,92 +19,86 @@
         "url": "https://reclaimthenet.org/apple-removes-bitchat-india-government-request",
         "source": "Hacker News",
         "publishedAt": "2026-10-03T16:51:36Z"
-      },
-      {
-        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
-        "url": "https://jabhook.ai/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-03T15:10:54Z"
       }
     ],
     "computing": [
       {
-        "title": "China's Push into A.I. Has Led to a Problem: Too Much Usage",
-        "url": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
+        "title": "Internet Watch Foundation reports rise in AI child sexual abuse material",
+        "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T08:12:20Z"
+        "publishedAt": "2026-10-05T10:10:45Z"
       },
       {
-        "title": "IBM Debuts Brain-Inspired Chip for Speedy, Efficient AI (2023)",
-        "url": "https://spectrum.ieee.org/neuromorphic-computing-ibm-northpole",
+        "title": "Let's compete with China on AI social impact",
+        "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T08:07:54Z"
+        "publishedAt": "2026-10-04T20:45:18Z"
       },
       {
-        "title": "Show HN: ViralWiz – AI captions, clips and thumbnails for short-form video",
-        "url": "https://viralwiz.co",
+        "title": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech",
+        "url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T00:13:07Z"
+        "publishedAt": "2026-10-04T19:01:34Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Katalyst Concludes Link Mission, Advances Future Robotic Space Operations",
-        "url": "https://www.katalystspace.com/news/katalyst-concludes-link-mission-advances-future-robotic-space-operations",
+        "title": "UK's Extend Robotics Secures US$3.3M to Sell Factory Work Instead of Machines",
+        "url": "https://www.saasrise.com/deals/uks-extend-robotics-secures-us33m-26m-to-sell-factory-work-instead-of-machines-ece16ecf-ddd3-45b4-be83-97cf30b01f4e",
         "source": "Hacker News",
-        "publishedAt": "2026-10-03T05:00:50Z"
+        "publishedAt": "2026-10-05T12:16:29Z"
       },
       {
-        "title": "Agentic Robotics Solves an Industrial Production Problem",
-        "url": "https://www.ambirobotics.com/blog/agentic-robotics/",
+        "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-03T02:11:56Z"
+        "publishedAt": "2026-10-05T11:13:51Z"
       },
       {
-        "title": "Maintaining wait-on at agent speed: AI, NPM supply-chain risk, and a Rust engine",
-        "url": "https://www.kevinold.com/blog/a-week-maintaining-wait-on",
+        "title": "Understanding the AI That Drives Robots",
+        "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T19:16:32Z"
+        "publishedAt": "2026-10-04T16:50:55Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Modrent Minecraft Hosting",
-        "url": "https://modrent.app",
+        "title": "Topscan.me – a new security platform with a new approach to scanning",
+        "url": "https://news.ycombinator.com/item?id=49960159",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T11:05:39Z"
+        "publishedAt": "2026-10-05T02:44:19Z"
       },
       {
-        "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-        "url": "https://thoreaubasic.com/",
+        "title": "Show HN: MapLibre Compose, Interactive Vector Maps for Compose Multiplatform",
+        "url": "https://github.com/maplibre/maplibre-compose",
         "source": "Hacker News",
-        "publishedAt": "2026-10-03T07:28:54Z"
+        "publishedAt": "2026-10-04T20:55:40Z"
       },
       {
-        "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
-        "url": "https://innerloop.works/breadcrumb",
+        "title": "Up to US$5.5M funding to move your startup to Qatar",
+        "url": "https://startupqatar.qa/en/investment-program",
         "source": "Hacker News",
-        "publishedAt": "2026-10-01T17:58:37Z"
+        "publishedAt": "2026-10-04T13:46:34Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
-        "source": "NASA",
-        "publishedAt": "2026-10-04T04:05:00Z"
+        "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
+        "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/",
+        "source": "SpaceNews",
+        "publishedAt": "2026-10-05T12:00:00Z"
       },
       {
-        "title": "ESA to pursue crew transport and space stations as European launchers come online",
-        "url": "https://www.nasaspaceflight.com/2026/10/europe-update/",
-        "source": "NASASpaceflight",
-        "publishedAt": "2026-10-03T22:11:23Z"
+        "title": "Presentations at Industry Space Days",
+        "url": "https://isd.esa.int/home/programme/",
+        "source": "ESA",
+        "publishedAt": "2026-10-05T11:47:00Z"
       },
       {
-        "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+        "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
         "source": "NASA",
-        "publishedAt": "2026-10-03T04:05:00Z"
+        "publishedAt": "2026-10-05T04:05:00Z"
       }
     ]
   }
