@@ -93,6 +93,7 @@
 
 .mba-photo-slot {
   aspect-ratio: 4 / 3;
+  min-width: 0;
   border: 2px dashed var(--border);
   border-radius: 16px;
   display: flex;

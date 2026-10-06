@@ -127,7 +127,7 @@ main {
 
 .widget-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr));
   align-items: start;
   gap: 28px 24px;
   margin-bottom: 24px;
@@ -176,7 +176,7 @@ main {
 
 .tile-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(210px, 100%), 1fr));
   gap: 16px;
   margin-bottom: 48px;
 }
@@ -260,7 +260,7 @@ main {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 1fr));
   gap: 16px;
 }
 
@@ -360,4 +360,18 @@ main {
   padding: 48px 24px;
   color: var(--text-muted);
   font-size: 0.85rem;
+}
+
+/* On very narrow screens, the playful card tilt makes a box's rotated
+   bounding rect wider than its unrotated box — fine at normal widths,
+   but it pushes past the viewport edge on small phones. Flatten it there. */
+@media (max-width: 480px) {
+  .widget-grid > .widget-card,
+  .tile {
+    transform: none !important;
+  }
+
+  .widget-card::before {
+    transform: translateX(-50%) !important;
+  }
 }
