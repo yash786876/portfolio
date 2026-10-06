@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:29:53.540Z",
+  "generatedAt": "2026-10-06T12:41:28.893Z",
   "domains": {
     "healthcare": [
       {
@@ -9,70 +9,70 @@
         "publishedAt": "2026-10-04T12:02:29Z"
       },
       {
+        "title": "Government of India officially removes bitchat from the App Store",
+        "url": "https://twitter.com/jack/status/2106359514391871540",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-03T18:29:04Z"
+      },
+      {
         "title": "Apple removes Bitchat from India app store;Twitter co-founder Jack Dorsey reacts",
         "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
         "source": "Hacker News",
         "publishedAt": "2026-10-03T17:11:03Z"
-      },
-      {
-        "title": "Apple Removes BitChat from India App Store at Government's Request",
-        "url": "https://reclaimthenet.org/apple-removes-bitchat-india-government-request",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-03T16:51:36Z"
       }
     ],
     "computing": [
       {
-        "title": "Internet Watch Foundation reports rise in AI child sexual abuse material",
-        "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
+        "title": "Show HN: Tofu – let your agent deploy full-stack apps",
+        "url": "https://trytofu.ai",
         "source": "Hacker News",
-        "publishedAt": "2026-10-05T10:10:45Z"
+        "publishedAt": "2026-10-06T11:12:02Z"
       },
       {
-        "title": "Let's compete with China on AI social impact",
-        "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+        "title": "The AI boom is making the cheapest smartphones disappear",
+        "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T20:45:18Z"
+        "publishedAt": "2026-10-06T04:37:17Z"
       },
       {
-        "title": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech",
-        "url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology",
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T19:01:34Z"
+        "publishedAt": "2026-10-05T21:00:21Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "UK's Extend Robotics Secures US$3.3M to Sell Factory Work Instead of Machines",
-        "url": "https://www.saasrise.com/deals/uks-extend-robotics-secures-us33m-26m-to-sell-factory-work-instead-of-machines-ece16ecf-ddd3-45b4-be83-97cf30b01f4e",
+        "title": "Global diesel crunch sends cost pressures down the supply chain",
+        "url": "https://www.oxfordeconomics.com/resource/global-diesel-crunch-sends-cost-pressures-down-the-supply-chain/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-05T12:16:29Z"
+        "publishedAt": "2026-10-06T06:33:34Z"
       },
       {
-        "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+        "title": "RobotUse",
+        "url": "https://robotuse-team.github.io/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-05T11:13:51Z"
+        "publishedAt": "2026-10-06T06:18:38Z"
       },
       {
-        "title": "Understanding the AI That Drives Robots",
-        "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+        "title": "Japan's entertainment robots diversify with AI, offer comfort",
+        "url": "https://mainichi.jp/english/articles/20261003/p2g/00m/0li/002000c",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T16:50:55Z"
+        "publishedAt": "2026-10-06T05:54:22Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Topscan.me – a new security platform with a new approach to scanning",
-        "url": "https://news.ycombinator.com/item?id=49960159",
+        "title": "Show HN: Paganel – Data migration with a receipt you can verify later",
+        "url": "https://github.com/stanstork/paganel",
         "source": "Hacker News",
-        "publishedAt": "2026-10-05T02:44:19Z"
+        "publishedAt": "2026-10-06T12:12:00Z"
       },
       {
-        "title": "Show HN: MapLibre Compose, Interactive Vector Maps for Compose Multiplatform",
-        "url": "https://github.com/maplibre/maplibre-compose",
+        "title": "Show HN: The mainbrella effect – AI code / Agent machines",
+        "url": "https://news.ycombinator.com/item?id=49971503",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T20:55:40Z"
+        "publishedAt": "2026-10-05T22:04:23Z"
       },
       {
         "title": "Up to US$5.5M funding to move your startup to Qatar",
@@ -83,22 +83,22 @@
     ],
     "out-of-this-world": [
       {
-        "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
-        "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/",
-        "source": "SpaceNews",
-        "publishedAt": "2026-10-05T12:00:00Z"
+        "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
+        "url": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/",
+        "source": "NASASpaceflight",
+        "publishedAt": "2026-10-06T12:35:41Z"
       },
       {
-        "title": "Presentations at Industry Space Days",
-        "url": "https://isd.esa.int/home/programme/",
+        "title": "European rover trains for Mars in the desert",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_rover_trains_for_Mars_in_the_desert",
         "source": "ESA",
-        "publishedAt": "2026-10-05T11:47:00Z"
+        "publishedAt": "2026-10-06T08:00:00Z"
       },
       {
-        "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+        "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
         "source": "NASA",
-        "publishedAt": "2026-10-05T04:05:00Z"
+        "publishedAt": "2026-10-06T04:05:00Z"
       }
     ]
   }
