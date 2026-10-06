@@ -79,7 +79,7 @@ function FundMyMBA() {
         <p className="mba-tagline">
           One finance geek, one dream b-school, zero tuition budget.
         </p>
-        <a className="mba-cta" href="#sponsor">Become a Sponsor →</a>
+        <a className="cta-btn" href="#sponsor">Become a Sponsor →</a>
       </header>
 
       <div className="mba-photos">

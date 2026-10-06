@@ -17,6 +17,7 @@ const navItems = [
   },
   { type: 'link', to: '/fund-my-mba', label: 'Fund My MBA' },
   { type: 'link', to: '/about', label: 'About Me' },
+  { type: 'external', href: `${import.meta.env.BASE_URL}Yash_Santwani_Resume.pdf`, label: 'Resume' },
   { type: 'link', to: '/apps', label: 'Apps I Built' },
   {
     type: 'dropdown',
@@ -56,6 +57,15 @@ function Navbar() {
       </NavLink>
       <ul className="nav-links">
         {navItems.map((item) => {
+          if (item.type === 'external') {
+            return (
+              <li key={item.href}>
+                <a href={item.href} target="_blank" rel="noreferrer">
+                  {item.label}
+                </a>
+              </li>
+            )
+          }
           if (item.type === 'link') {
             return (
               <li key={item.to}>
