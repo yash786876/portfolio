@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:41:28.893Z",
+  "generatedAt": "2026-10-07T12:34:55.062Z",
   "domains": {
     "healthcare": [
       {
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "Show HN: Tofu – let your agent deploy full-stack apps",
-        "url": "https://trytofu.ai",
+        "title": "Mistral unveils new AI model it says rivals best open systems from China",
+        "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T11:12:02Z"
+        "publishedAt": "2026-10-06T21:32:18Z"
       },
       {
-        "title": "The AI boom is making the cheapest smartphones disappear",
-        "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+        "title": "Fighting the chip shortage with old school cooperative multitasking on GPUs",
+        "url": "https://www.muna.ai/blog/colocation",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T04:37:17Z"
+        "publishedAt": "2026-10-06T17:51:47Z"
       },
       {
-        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "title": "Show HN: Quantum computing experiments with honest classical baselines",
+        "url": "https://github.com/p10node/qcpa",
         "source": "Hacker News",
-        "publishedAt": "2026-10-05T21:00:21Z"
+        "publishedAt": "2026-10-06T16:33:00Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Global diesel crunch sends cost pressures down the supply chain",
-        "url": "https://www.oxfordeconomics.com/resource/global-diesel-crunch-sends-cost-pressures-down-the-supply-chain/",
+        "title": "Ask HN: How do you check desktop apps for malicious code?",
+        "url": "https://news.ycombinator.com/item?id=49990079",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T06:33:34Z"
+        "publishedAt": "2026-10-07T08:58:33Z"
       },
       {
-        "title": "RobotUse",
-        "url": "https://robotuse-team.github.io/",
+        "title": "Robotsimulator.ai",
+        "url": "https://www.babacad.com/robotics/web/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T06:18:38Z"
+        "publishedAt": "2026-10-06T18:34:13Z"
       },
       {
-        "title": "Japan's entertainment robots diversify with AI, offer comfort",
-        "url": "https://mainichi.jp/english/articles/20261003/p2g/00m/0li/002000c",
+        "title": "Southern Olive Oil",
+        "url": "https://ambrook.com/offrange/supply-chain/southern-olive-oil",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T05:54:22Z"
+        "publishedAt": "2026-10-06T13:40:03Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Paganel – Data migration with a receipt you can verify later",
-        "url": "https://github.com/stanstork/paganel",
+        "title": "Show HN: Monolith / an engine-building game about software startups",
+        "url": "https://monolithgame.app/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T12:12:00Z"
+        "publishedAt": "2026-10-07T12:12:48Z"
       },
       {
-        "title": "Show HN: The mainbrella effect – AI code / Agent machines",
-        "url": "https://news.ycombinator.com/item?id=49971503",
+        "title": "Show HN: I improvised my own programming language from scratch",
+        "url": "https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master/src/Exp",
         "source": "Hacker News",
-        "publishedAt": "2026-10-05T22:04:23Z"
+        "publishedAt": "2026-10-07T09:47:33Z"
       },
       {
-        "title": "Up to US$5.5M funding to move your startup to Qatar",
-        "url": "https://startupqatar.qa/en/investment-program",
+        "title": "AI Usage Typology – Fisherman",
+        "url": "https://news.ycombinator.com/item?id=49987478",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T13:46:34Z"
+        "publishedAt": "2026-10-07T02:50:27Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
-        "url": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/",
-        "source": "NASASpaceflight",
-        "publishedAt": "2026-10-06T12:35:41Z"
-      },
-      {
-        "title": "European rover trains for Mars in the desert",
-        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_rover_trains_for_Mars_in_the_desert",
+        "title": "The Incredible Adventures of the Hera mission – The space detectives arrive",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/The_Incredible_Adventures_of_the_Hera_mission_The_space_detectives_arrive",
         "source": "ESA",
-        "publishedAt": "2026-10-06T08:00:00Z"
+        "publishedAt": "2026-10-07T12:00:00Z"
       },
       {
-        "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
-        "source": "NASA",
-        "publishedAt": "2026-10-06T04:05:00Z"
+        "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
+        "url": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-10-07T08:21:45Z"
+      },
+      {
+        "title": "When the Sun turns black",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black",
+        "source": "ESA",
+        "publishedAt": "2026-10-07T08:00:00Z"
       }
     ]
   }
