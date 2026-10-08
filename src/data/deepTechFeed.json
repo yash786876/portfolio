@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-07T12:34:55.062Z",
+  "generatedAt": "2026-10-08T12:44:45.121Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Government of India officially removes bitchat from the App Store",
-        "url": "https://twitter.com/jack/status/2106359514391871540",
+        "title": "Singapore requires independent review for AI use cases in Fintech",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T12:02:29Z"
-      },
-      {
-        "title": "Government of India officially removes bitchat from the App Store",
-        "url": "https://twitter.com/jack/status/2106359514391871540",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-03T18:29:04Z"
+        "publishedAt": "2026-10-08T11:26:32Z"
       },
       {
         "title": "Apple removes Bitchat from India app store;Twitter co-founder Jack Dorsey reacts",
         "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
         "source": "Hacker News",
         "publishedAt": "2026-10-03T17:11:03Z"
+      },
+      {
+        "title": "Apple Removes BitChat from India App Store at Government's Request",
+        "url": "https://reclaimthenet.org/apple-removes-bitchat-india-government-request",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-03T16:51:36Z"
       }
     ],
     "computing": [
       {
-        "title": "Mistral unveils new AI model it says rivals best open systems from China",
-        "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+        "title": "Show HN: Proton Drive for Linux",
+        "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T21:32:18Z"
+        "publishedAt": "2026-10-08T09:10:42Z"
       },
       {
-        "title": "Fighting the chip shortage with old school cooperative multitasking on GPUs",
-        "url": "https://www.muna.ai/blog/colocation",
+        "title": "Ask HN: How do you use AI for building in public?",
+        "url": "https://news.ycombinator.com/item?id=50002798",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T17:51:47Z"
+        "publishedAt": "2026-10-08T07:24:18Z"
       },
       {
-        "title": "Show HN: Quantum computing experiments with honest classical baselines",
-        "url": "https://github.com/p10node/qcpa",
+        "title": "Samsung $80B profit on AI boom, highest quarter for any tech company",
+        "url": "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T16:33:00Z"
+        "publishedAt": "2026-10-08T06:58:47Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Ask HN: How do you check desktop apps for malicious code?",
-        "url": "https://news.ycombinator.com/item?id=49990079",
+        "title": "AI breakthroughs in robotics won't change your life any time soon",
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-07T08:58:33Z"
+        "publishedAt": "2026-10-08T11:01:51Z"
       },
       {
-        "title": "Robotsimulator.ai",
-        "url": "https://www.babacad.com/robotics/web/",
+        "title": "Arteris Wins Funding to Expand Hardware Design Supply Chain Security Assurance",
+        "url": "https://ir.arteris.com/news-releases/news-release-details/arteris-wins-funding-expand-hardware-design-supply-chain",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T18:34:13Z"
+        "publishedAt": "2026-10-08T07:51:06Z"
       },
       {
-        "title": "Southern Olive Oil",
-        "url": "https://ambrook.com/offrange/supply-chain/southern-olive-oil",
+        "title": "The Startup That Wants to Build 'Microrobots' with A.I",
+        "url": "https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-06T13:40:03Z"
+        "publishedAt": "2026-10-08T06:01:55Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Monolith / an engine-building game about software startups",
-        "url": "https://monolithgame.app/",
+        "title": "Show HN: Privatrak – no-code, privacy-first product analytics",
+        "url": "https://privatrak.com",
         "source": "Hacker News",
-        "publishedAt": "2026-10-07T12:12:48Z"
+        "publishedAt": "2026-10-08T12:09:15Z"
       },
       {
-        "title": "Show HN: I improvised my own programming language from scratch",
-        "url": "https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master/src/Exp",
+        "title": "AI breakthroughs in robotics won't change your life any time soon",
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-07T09:47:33Z"
+        "publishedAt": "2026-10-08T11:01:51Z"
       },
       {
-        "title": "AI Usage Typology – Fisherman",
-        "url": "https://news.ycombinator.com/item?id=49987478",
+        "title": "Show HN: agentc: <1mb static/no-libc, minimal, embeddable agent with Rust/C API",
+        "url": "https://github.com/abird-ai/agentc",
         "source": "Hacker News",
-        "publishedAt": "2026-10-07T02:50:27Z"
+        "publishedAt": "2026-10-08T01:53:34Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "The Incredible Adventures of the Hera mission – The space detectives arrive",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/The_Incredible_Adventures_of_the_Hera_mission_The_space_detectives_arrive",
+        "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
         "source": "ESA",
-        "publishedAt": "2026-10-07T12:00:00Z"
+        "publishedAt": "2026-10-08T09:00:00Z"
       },
       {
-        "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
-        "url": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-10-07T08:21:45Z"
+        "title": "The director’s take: telling Galileo’s story through film",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film",
+        "source": "ESA",
+        "publishedAt": "2026-10-08T08:00:00Z"
       },
       {
-        "title": "When the Sun turns black",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black",
+        "title": "Keeping the sky dark and quiet",
+        "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet",
         "source": "ESA",
-        "publishedAt": "2026-10-07T08:00:00Z"
+        "publishedAt": "2026-10-08T08:00:00Z"
       }
     ]
   }
