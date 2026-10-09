@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-10-08T12:44:45.121Z",
+  "generatedAt": "2026-10-09T12:31:01.365Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "How Russian intelligence botched a sabotage plot at Leipzig airport",
+        "url": "https://theins.press/en/inv/298011",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-08T19:48:29Z"
+      },
       {
         "title": "Singapore requires independent review for AI use cases in Fintech",
         "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
@@ -9,96 +15,90 @@
         "publishedAt": "2026-10-08T11:26:32Z"
       },
       {
-        "title": "Apple removes Bitchat from India app store;Twitter co-founder Jack Dorsey reacts",
-        "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
+        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
+        "url": "https://jabhook.ai/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-03T17:11:03Z"
-      },
-      {
-        "title": "Apple Removes BitChat from India App Store at Government's Request",
-        "url": "https://reclaimthenet.org/apple-removes-bitchat-india-government-request",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-03T16:51:36Z"
+        "publishedAt": "2026-10-03T15:10:54Z"
       }
     ],
     "computing": [
       {
-        "title": "Show HN: Proton Drive for Linux",
-        "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+        "title": "A US charity plans to use AI to monitor its Gaza schools",
+        "url": "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T09:10:42Z"
+        "publishedAt": "2026-10-09T11:17:14Z"
       },
       {
-        "title": "Ask HN: How do you use AI for building in public?",
-        "url": "https://news.ycombinator.com/item?id=50002798",
+        "title": "AI and Chiral Fermions",
+        "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15915",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T07:24:18Z"
+        "publishedAt": "2026-10-08T23:08:21Z"
       },
       {
-        "title": "Samsung $80B profit on AI boom, highest quarter for any tech company",
-        "url": "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/",
+        "title": "Speed over Safety: Why China Won't Slow Down AI",
+        "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T06:58:47Z"
+        "publishedAt": "2026-10-08T20:30:21Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "AI breakthroughs in robotics won't change your life any time soon",
-        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "title": "Tiny(43mb) voice-first decision model for robotics",
+        "url": "https://huggingface.co/neuphonic/neudecide",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T11:01:51Z"
+        "publishedAt": "2026-10-09T12:02:38Z"
       },
       {
-        "title": "Arteris Wins Funding to Expand Hardware Design Supply Chain Security Assurance",
-        "url": "https://ir.arteris.com/news-releases/news-release-details/arteris-wins-funding-expand-hardware-design-supply-chain",
+        "title": "Planning system ensures a robot's flight path will remain collision-free",
+        "url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T07:51:06Z"
+        "publishedAt": "2026-10-08T23:10:10Z"
       },
       {
-        "title": "The Startup That Wants to Build 'Microrobots' with A.I",
+        "title": "Atomic Machines introduces the Matter Compiler to the world",
         "url": "https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T06:01:55Z"
+        "publishedAt": "2026-10-08T21:14:39Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Privatrak – no-code, privacy-first product analytics",
-        "url": "https://privatrak.com",
+        "title": "Anthropic pulls Startup program revoking pending offers",
+        "url": "https://twitter.com/claudeai/status/2108404561413349695",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T12:09:15Z"
+        "publishedAt": "2026-10-09T06:04:33Z"
       },
       {
-        "title": "AI breakthroughs in robotics won't change your life any time soon",
-        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "title": "Quantum computing startup Oratomic worth $5.4B after Series B",
+        "url": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T11:01:51Z"
+        "publishedAt": "2026-10-08T18:52:47Z"
       },
       {
-        "title": "Show HN: agentc: <1mb static/no-libc, minimal, embeddable agent with Rust/C API",
-        "url": "https://github.com/abird-ai/agentc",
+        "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+        "url": "https://pocketty.app/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T01:53:34Z"
+        "publishedAt": "2026-10-08T18:11:52Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
-        "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
-        "source": "ESA",
-        "publishedAt": "2026-10-08T09:00:00Z"
+        "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+        "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+        "source": "Arstechnica",
+        "publishedAt": "2026-10-09T11:00:57Z"
       },
       {
-        "title": "The director’s take: telling Galileo’s story through film",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film",
+        "title": "Earth from Space: Namibia’s biggest salt pan",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
         "source": "ESA",
-        "publishedAt": "2026-10-08T08:00:00Z"
+        "publishedAt": "2026-10-09T08:00:00Z"
       },
       {
-        "title": "Keeping the sky dark and quiet",
-        "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet",
-        "source": "ESA",
-        "publishedAt": "2026-10-08T08:00:00Z"
+        "title": "APOD: 2026 October 9 – Stickney Crater",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+        "source": "NASA",
+        "publishedAt": "2026-10-09T04:05:00Z"
       }
     ]
   }
