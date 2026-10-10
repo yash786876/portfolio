@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-10-09T12:31:01.365Z",
+  "generatedAt": "2026-10-10T11:50:42.232Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Feds sold lab equipment that exposed US to 'severe bioterrorism threat'",
+        "url": "https://www.cidrap.umn.edu/biosecurity-issues/feds-sold-lab-equipment-exposed-us-severe-bioterrorism-threat-report-says",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-09T16:00:42Z"
+      },
       {
         "title": "How Russian intelligence botched a sabotage plot at Leipzig airport",
         "url": "https://theins.press/en/inv/298011",
@@ -9,36 +15,30 @@
         "publishedAt": "2026-10-08T19:48:29Z"
       },
       {
-        "title": "Singapore requires independent review for AI use cases in Fintech",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
+        "title": "Government of India officially removes bitchat from the App Store",
+        "url": "https://twitter.com/jack/status/2106359514391871540",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T11:26:32Z"
-      },
-      {
-        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
-        "url": "https://jabhook.ai/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-03T15:10:54Z"
+        "publishedAt": "2026-10-04T12:02:29Z"
       }
     ],
     "computing": [
       {
-        "title": "A US charity plans to use AI to monitor its Gaza schools",
-        "url": "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53",
+        "title": "Show HN: Iimos – an AI app that ships as one chat box and rewrites itself",
+        "url": "https://github.com/yanglongyun/iimos",
         "source": "Hacker News",
-        "publishedAt": "2026-10-09T11:17:14Z"
+        "publishedAt": "2026-10-10T05:17:13Z"
       },
       {
-        "title": "AI and Chiral Fermions",
-        "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15915",
+        "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
+        "url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T23:08:21Z"
+        "publishedAt": "2026-10-10T04:37:18Z"
       },
       {
-        "title": "Speed over Safety: Why China Won't Slow Down AI",
-        "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+        "title": "Firefox's chief on why he hopes a redesign will help win users from Chrome",
+        "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T20:30:21Z"
+        "publishedAt": "2026-10-10T02:26:13Z"
       }
     ],
     "manufacturing": [
@@ -63,12 +63,6 @@
     ],
     "new-innovation": [
       {
-        "title": "Anthropic pulls Startup program revoking pending offers",
-        "url": "https://twitter.com/claudeai/status/2108404561413349695",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-09T06:04:33Z"
-      },
-      {
         "title": "Quantum computing startup Oratomic worth $5.4B after Series B",
         "url": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc",
         "source": "Hacker News",
@@ -79,26 +73,32 @@
         "url": "https://pocketty.app/",
         "source": "Hacker News",
         "publishedAt": "2026-10-08T18:11:52Z"
+      },
+      {
+        "title": "Show HN: Jevman – AI decision models play Pac-Man",
+        "url": "https://opper.ai/jevman-benchmark/",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-08T16:34:13Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-        "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-        "source": "Arstechnica",
-        "publishedAt": "2026-10-09T11:00:57Z"
-      },
-      {
-        "title": "Earth from Space: Namibia’s biggest salt pan",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+        "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
         "source": "ESA",
-        "publishedAt": "2026-10-09T08:00:00Z"
+        "publishedAt": "2026-10-10T09:01:00Z"
       },
       {
-        "title": "APOD: 2026 October 9 – Stickney Crater",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+        "title": "APOD: 2026 October 10 – Lunar Farside",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
         "source": "NASA",
-        "publishedAt": "2026-10-09T04:05:00Z"
+        "publishedAt": "2026-10-10T04:05:00Z"
+      },
+      {
+        "title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency",
+        "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
+        "source": "Spaceflight Now",
+        "publishedAt": "2026-10-09T21:41:30Z"
       }
     ]
   }
