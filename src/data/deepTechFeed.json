@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:50:42.232Z",
+  "generatedAt": "2026-10-11T12:02:31.444Z",
   "domains": {
     "healthcare": [
       {
@@ -9,96 +9,96 @@
         "publishedAt": "2026-10-09T16:00:42Z"
       },
       {
-        "title": "How Russian intelligence botched a sabotage plot at Leipzig airport",
-        "url": "https://theins.press/en/inv/298011",
+        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
+        "url": "https://jabhook.ai/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T19:48:29Z"
+        "publishedAt": "2026-10-03T15:10:54Z"
       },
       {
-        "title": "Government of India officially removes bitchat from the App Store",
-        "url": "https://twitter.com/jack/status/2106359514391871540",
+        "title": "China's rise as a health tech superpower is important",
+        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T12:02:29Z"
+        "publishedAt": "2026-10-02T06:45:16Z"
       }
     ],
     "computing": [
       {
-        "title": "Show HN: Iimos – an AI app that ships as one chat box and rewrites itself",
-        "url": "https://github.com/yanglongyun/iimos",
+        "title": "Show HN: WhimKid, an AI storybook generator for children",
+        "url": "https://whimkid.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-10T05:17:13Z"
+        "publishedAt": "2026-10-11T10:32:48Z"
       },
       {
-        "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
-        "url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
+        "title": "Show HN: Modelship – an open source ray backed model cluster",
+        "url": "https://github.com/modelship-ai/modelship",
         "source": "Hacker News",
-        "publishedAt": "2026-10-10T04:37:18Z"
+        "publishedAt": "2026-10-11T07:28:20Z"
       },
       {
-        "title": "Firefox's chief on why he hopes a redesign will help win users from Chrome",
-        "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+        "title": "DARPA Selects Companies for Final Stage C Verification Under QBI",
+        "url": "https://quantumcomputingreport.com/darpa-selects-atom-computing-diraq-ibm-and-ionq-for-final-stage-c-verification-under-quantum-benchmarking-initiative/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-10T02:26:13Z"
+        "publishedAt": "2026-10-11T06:16:32Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Tiny(43mb) voice-first decision model for robotics",
-        "url": "https://huggingface.co/neuphonic/neudecide",
+        "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
+        "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
         "source": "Hacker News",
-        "publishedAt": "2026-10-09T12:02:38Z"
+        "publishedAt": "2026-10-11T11:29:01Z"
       },
       {
-        "title": "Planning system ensures a robot's flight path will remain collision-free",
-        "url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
+        "title": "Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks",
+        "url": "https://arxiv.org/abs/2609.38415",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T23:10:10Z"
+        "publishedAt": "2026-10-11T11:28:07Z"
       },
       {
-        "title": "Atomic Machines introduces the Matter Compiler to the world",
-        "url": "https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html",
+        "title": "Show HN: Rezoom – one chat list for all your Claude Code sessions",
+        "url": "https://github.com/BEX-Robotics/rezoom",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T21:14:39Z"
+        "publishedAt": "2026-10-11T08:53:56Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Quantum computing startup Oratomic worth $5.4B after Series B",
-        "url": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc",
+        "title": "Optogenetics wins the Nobel – breakthrough helping map and control the brain",
+        "url": "https://theconversation.com/optogenetics-wins-the-nobel-one-neuroscience-breakthrough-in-a-line-of-technological-innovations-helping-scientists-map-and-control-the-brain-293619",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T18:52:47Z"
+        "publishedAt": "2026-10-11T07:20:10Z"
       },
       {
-        "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-        "url": "https://pocketty.app/",
+        "title": "Show HN: Aporium – A UMAP galaxy of 5800 philosophy excerpts in conversation",
+        "url": "https://www.aporium.app/explore",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T18:11:52Z"
+        "publishedAt": "2026-10-10T23:36:13Z"
       },
       {
-        "title": "Show HN: Jevman – AI decision models play Pac-Man",
-        "url": "https://opper.ai/jevman-benchmark/",
+        "title": "Show HN: Flopper is a hardware explorer for AI infrastructure and beyond",
+        "url": "https://flopper.io/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-08T16:34:13Z"
+        "publishedAt": "2026-10-10T18:42:44Z"
       }
     ],
     "out-of-this-world": [
+      {
+        "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+        "source": "NASA",
+        "publishedAt": "2026-10-11T04:05:00Z"
+      },
+      {
+        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+        "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+        "source": "NASA",
+        "publishedAt": "2026-10-10T14:18:59Z"
+      },
       {
         "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
         "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
         "source": "ESA",
         "publishedAt": "2026-10-10T09:01:00Z"
-      },
-      {
-        "title": "APOD: 2026 October 10 – Lunar Farside",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-        "source": "NASA",
-        "publishedAt": "2026-10-10T04:05:00Z"
-      },
-      {
-        "title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency",
-        "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
-        "source": "Spaceflight Now",
-        "publishedAt": "2026-10-09T21:41:30Z"
       }
     ]
   }
