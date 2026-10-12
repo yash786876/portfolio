@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:02:31.444Z",
+  "generatedAt": "2026-10-12T14:19:22.844Z",
   "domains": {
     "healthcare": [
       {
@@ -9,96 +9,96 @@
         "publishedAt": "2026-10-09T16:00:42Z"
       },
       {
-        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
-        "url": "https://jabhook.ai/",
+        "title": "Government of India officially removes bitchat from the App Store",
+        "url": "https://twitter.com/jack/status/2106359514391871540",
         "source": "Hacker News",
-        "publishedAt": "2026-10-03T15:10:54Z"
+        "publishedAt": "2026-10-04T12:02:29Z"
       },
       {
-        "title": "China's rise as a health tech superpower is important",
-        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
+        "title": "Government of India officially removes bitchat from the App Store",
+        "url": "https://twitter.com/jack/status/2106359514391871540",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T06:45:16Z"
+        "publishedAt": "2026-10-03T18:29:04Z"
       }
     ],
     "computing": [
       {
-        "title": "Show HN: WhimKid, an AI storybook generator for children",
-        "url": "https://whimkid.com/",
+        "title": "IMF says AI investment keeps global growth around 3%",
+        "url": "https://www.reuters.com/world/china/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-2026-10-12/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T10:32:48Z"
+        "publishedAt": "2026-10-12T10:04:42Z"
       },
       {
-        "title": "Show HN: Modelship – an open source ray backed model cluster",
-        "url": "https://github.com/modelship-ai/modelship",
+        "title": "Leading Chinese mathematicians unite behind use of AI in research",
+        "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T07:28:20Z"
+        "publishedAt": "2026-10-12T08:44:35Z"
       },
       {
-        "title": "DARPA Selects Companies for Final Stage C Verification Under QBI",
-        "url": "https://quantumcomputingreport.com/darpa-selects-atom-computing-diraq-ibm-and-ionq-for-final-stage-c-verification-under-quantum-benchmarking-initiative/",
+        "title": "What happens inside AI Chip when you ask a question",
+        "url": "https://www.youtube.com/watch?v=oBKrR3i6jWM",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T06:16:32Z"
+        "publishedAt": "2026-10-11T20:08:14Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
-        "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+        "title": "Understanding the AI That Drives Robots",
+        "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T11:29:01Z"
+        "publishedAt": "2026-10-12T13:40:03Z"
       },
       {
-        "title": "Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks",
-        "url": "https://arxiv.org/abs/2609.38415",
+        "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+        "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T11:28:07Z"
+        "publishedAt": "2026-10-12T12:44:42Z"
       },
       {
-        "title": "Show HN: Rezoom – one chat list for all your Claude Code sessions",
-        "url": "https://github.com/BEX-Robotics/rezoom",
+        "title": "AI agent is only as safe as the packages it downloads",
+        "url": "https://cyberscoop.com/ai-agent-software-supply-chain-security-op-ed/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T08:53:56Z"
+        "publishedAt": "2026-10-12T10:33:03Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Optogenetics wins the Nobel – breakthrough helping map and control the brain",
-        "url": "https://theconversation.com/optogenetics-wins-the-nobel-one-neuroscience-breakthrough-in-a-line-of-technological-innovations-helping-scientists-map-and-control-the-brain-293619",
+        "title": "Ask HN: How do swarms of AI agents work?",
+        "url": "https://news.ycombinator.com/item?id=50047180",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T07:20:10Z"
+        "publishedAt": "2026-10-11T19:57:45Z"
       },
       {
-        "title": "Show HN: Aporium – A UMAP galaxy of 5800 philosophy excerpts in conversation",
-        "url": "https://www.aporium.app/explore",
+        "title": "Show HN: SupplyVision – I made meta-search for independent fashion retailers",
+        "url": "https://supplyvision.app/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-10T23:36:13Z"
+        "publishedAt": "2026-10-11T18:24:10Z"
       },
       {
-        "title": "Show HN: Flopper is a hardware explorer for AI infrastructure and beyond",
-        "url": "https://flopper.io/",
+        "title": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
+        "url": "https://maplehill.openwants.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-10T18:42:44Z"
+        "publishedAt": "2026-10-10T12:42:25Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
-        "source": "NASA",
-        "publishedAt": "2026-10-11T04:05:00Z"
-      },
-      {
-        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
-        "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
-        "source": "NASA",
-        "publishedAt": "2026-10-10T14:18:59Z"
-      },
-      {
-        "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
-        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
+        "title": "Welcome home, Sophie Adenot",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot",
         "source": "ESA",
-        "publishedAt": "2026-10-10T09:01:00Z"
+        "publishedAt": "2026-10-12T13:00:00Z"
+      },
+      {
+        "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+        "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
+        "source": "SpaceNews",
+        "publishedAt": "2026-10-12T13:00:00Z"
+      },
+      {
+        "title": "ExoMars rover twin rehearses first drive",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive",
+        "source": "ESA",
+        "publishedAt": "2026-10-12T09:30:00Z"
       }
     ]
   }
