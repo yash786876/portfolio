@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-12T14:19:22.844Z",
+  "generatedAt": "2026-10-13T13:28:48.132Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Feds sold lab equipment that exposed US to 'severe bioterrorism threat'",
-        "url": "https://www.cidrap.umn.edu/biosecurity-issues/feds-sold-lab-equipment-exposed-us-severe-bioterrorism-threat-report-says",
+        "title": "Apple removes Bitchat from India app store;Twitter co-founder Jack Dorsey reacts",
+        "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-09T16:00:42Z"
+        "publishedAt": "2026-10-03T17:11:03Z"
       },
       {
-        "title": "Government of India officially removes bitchat from the App Store",
-        "url": "https://twitter.com/jack/status/2106359514391871540",
+        "title": "Apple Removes BitChat from India App Store at Government's Request",
+        "url": "https://reclaimthenet.org/apple-removes-bitchat-india-government-request",
         "source": "Hacker News",
-        "publishedAt": "2026-10-04T12:02:29Z"
+        "publishedAt": "2026-10-03T16:51:36Z"
       },
       {
-        "title": "Government of India officially removes bitchat from the App Store",
-        "url": "https://twitter.com/jack/status/2106359514391871540",
+        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
+        "url": "https://jabhook.ai/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-03T18:29:04Z"
+        "publishedAt": "2026-10-03T15:10:54Z"
       }
     ],
     "computing": [
       {
-        "title": "IMF says AI investment keeps global growth around 3%",
-        "url": "https://www.reuters.com/world/china/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-2026-10-12/",
+        "title": "Disney Bids on Character.ai Assets as Chatbot Files for Chapter 11 Bankruptcy",
+        "url": "https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-12T10:04:42Z"
+        "publishedAt": "2026-10-13T13:06:45Z"
       },
       {
-        "title": "Leading Chinese mathematicians unite behind use of AI in research",
-        "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research",
+        "title": "China is building AI data centers at speed as the US wrestles with the costs",
+        "url": "https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-12T08:44:35Z"
+        "publishedAt": "2026-10-13T12:50:04Z"
       },
       {
-        "title": "What happens inside AI Chip when you ask a question",
-        "url": "https://www.youtube.com/watch?v=oBKrR3i6jWM",
+        "title": "China races to build data centres in bid for AI supremacy",
+        "url": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T20:08:14Z"
+        "publishedAt": "2026-10-13T12:48:03Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Understanding the AI That Drives Robots",
-        "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+        "title": "Tiny robots speed medicine through body to the heart",
+        "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-12T13:40:03Z"
+        "publishedAt": "2026-10-13T13:08:41Z"
       },
       {
-        "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
-        "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+        "title": "Amazon has over 1M robot workers. What's next for human employees?",
+        "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-12T12:44:42Z"
+        "publishedAt": "2026-10-13T07:37:45Z"
       },
       {
-        "title": "AI agent is only as safe as the packages it downloads",
-        "url": "https://cyberscoop.com/ai-agent-software-supply-chain-security-op-ed/",
+        "title": "LeBoard: quality metrics for LeRobot datasets",
+        "url": "https://www.leboard.xyz/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-12T10:33:03Z"
+        "publishedAt": "2026-10-12T18:48:32Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Ask HN: How do swarms of AI agents work?",
-        "url": "https://news.ycombinator.com/item?id=50047180",
+        "title": "Show HN: Helicon – Desktop App for Meta's Muse Code CLI (Linux, Windows, macOS)",
+        "url": "https://github.com/HarjjotSinghh/helicon",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T19:57:45Z"
+        "publishedAt": "2026-10-13T12:02:10Z"
       },
       {
-        "title": "Show HN: SupplyVision – I made meta-search for independent fashion retailers",
-        "url": "https://supplyvision.app/",
+        "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+        "url": "https://github.com/LargeModGames/spotatui",
         "source": "Hacker News",
-        "publishedAt": "2026-10-11T18:24:10Z"
+        "publishedAt": "2026-10-13T11:32:00Z"
       },
       {
-        "title": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
-        "url": "https://maplehill.openwants.com/",
+        "title": "Show HN: Laya guard – a local check before your coding agent runs a command",
+        "url": "https://github.com/scs0209/laya-guard",
         "source": "Hacker News",
-        "publishedAt": "2026-10-10T12:42:25Z"
+        "publishedAt": "2026-10-13T11:22:25Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Welcome home, Sophie Adenot",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot",
-        "source": "ESA",
-        "publishedAt": "2026-10-12T13:00:00Z"
+        "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+        "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+        "source": "NASA",
+        "publishedAt": "2026-10-13T13:00:00Z"
       },
       {
-        "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-        "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
-        "source": "SpaceNews",
-        "publishedAt": "2026-10-12T13:00:00Z"
+        "title": "Mars moon lander set to launch on 19 October",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+        "source": "ESA",
+        "publishedAt": "2026-10-13T12:00:00Z"
       },
       {
-        "title": "ExoMars rover twin rehearses first drive",
-        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive",
-        "source": "ESA",
-        "publishedAt": "2026-10-12T09:30:00Z"
+        "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+        "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+        "source": "NASA",
+        "publishedAt": "2026-10-13T11:12:18Z"
       }
     ]
   }
