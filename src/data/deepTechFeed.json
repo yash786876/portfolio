@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-13T13:28:48.132Z",
+  "generatedAt": "2026-10-14T11:06:09.257Z",
   "domains": {
     "healthcare": [
-      {
-        "title": "Apple removes Bitchat from India app store;Twitter co-founder Jack Dorsey reacts",
-        "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-03T17:11:03Z"
-      },
-      {
-        "title": "Apple Removes BitChat from India App Store at Government's Request",
-        "url": "https://reclaimthenet.org/apple-removes-bitchat-india-government-request",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-03T16:51:36Z"
-      },
       {
         "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
         "url": "https://jabhook.ai/",
         "source": "Hacker News",
         "publishedAt": "2026-10-03T15:10:54Z"
+      },
+      {
+        "title": "China's rise as a health tech superpower is important",
+        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-02T06:45:16Z"
+      },
+      {
+        "title": "HouseOS – self-hosted homesystem platform, designed to be operated by agents",
+        "url": "https://github.com/boitech-dev/HouseOS",
+        "source": "Hacker News",
+        "publishedAt": "2026-09-28T21:50:37Z"
       }
     ],
     "computing": [
       {
-        "title": "Disney Bids on Character.ai Assets as Chatbot Files for Chapter 11 Bankruptcy",
-        "url": "https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/",
+        "title": "Show HN: tsv has fast formatters and parsers for Svelte, TypeScript/JS, CSS",
+        "url": "https://github.com/fuzdev/tsv",
         "source": "Hacker News",
-        "publishedAt": "2026-10-13T13:06:45Z"
+        "publishedAt": "2026-10-14T10:57:04Z"
       },
       {
-        "title": "China is building AI data centers at speed as the US wrestles with the costs",
-        "url": "https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/",
+        "title": "Show HN: Chiplab - Give your AI agent access to virtual hardware",
+        "url": "https://veecle.ai/chiplab",
         "source": "Hacker News",
-        "publishedAt": "2026-10-13T12:50:04Z"
+        "publishedAt": "2026-10-14T08:43:42Z"
       },
       {
-        "title": "China races to build data centres in bid for AI supremacy",
-        "url": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e",
+        "title": "Show HN: Evaluate and improve your agent steering",
+        "url": "https://news.ycombinator.com/item?id=50081857",
         "source": "Hacker News",
-        "publishedAt": "2026-10-13T12:48:03Z"
+        "publishedAt": "2026-10-14T02:58:39Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Tiny robots speed medicine through body to the heart",
-        "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+        "title": "The meaning of life in a world without work – Yuval Noah Harari (2017)",
+        "url": "https://www.theguardian.com/technology/2017/may/08/virtual-reality-religion-robots-sapiens-book",
         "source": "Hacker News",
-        "publishedAt": "2026-10-13T13:08:41Z"
+        "publishedAt": "2026-10-14T10:23:57Z"
       },
       {
-        "title": "Amazon has over 1M robot workers. What's next for human employees?",
-        "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+        "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+        "url": "https://museumofages.org/w/vinci",
         "source": "Hacker News",
-        "publishedAt": "2026-10-13T07:37:45Z"
+        "publishedAt": "2026-10-14T10:00:24Z"
       },
       {
-        "title": "LeBoard: quality metrics for LeRobot datasets",
-        "url": "https://www.leboard.xyz/",
+        "title": "Show HN: Omnis Watchtower – a supply-chain tripwire for Claude Code agents",
+        "url": "https://github.com/Fortitude-Group/omnis-watchtower",
         "source": "Hacker News",
-        "publishedAt": "2026-10-12T18:48:32Z"
+        "publishedAt": "2026-10-14T08:30:24Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Helicon – Desktop App for Meta's Muse Code CLI (Linux, Windows, macOS)",
-        "url": "https://github.com/HarjjotSinghh/helicon",
+        "title": "Show HN: What are vector embeddings? An interactive guide",
+        "url": "https://isaacus.com/blog/what-are-vector-embeddings",
         "source": "Hacker News",
-        "publishedAt": "2026-10-13T12:02:10Z"
+        "publishedAt": "2026-10-14T10:52:37Z"
       },
       {
-        "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-        "url": "https://github.com/LargeModGames/spotatui",
+        "title": "Show HN: AI investment agreement review for startup founders",
+        "url": "https://www.orchardagentic.cloud/#browse/funding-review",
         "source": "Hacker News",
-        "publishedAt": "2026-10-13T11:32:00Z"
+        "publishedAt": "2026-10-14T09:13:00Z"
       },
       {
-        "title": "Show HN: Laya guard – a local check before your coding agent runs a command",
-        "url": "https://github.com/scs0209/laya-guard",
+        "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+        "url": "https://pulseos.finance",
         "source": "Hacker News",
-        "publishedAt": "2026-10-13T11:22:25Z"
+        "publishedAt": "2026-10-13T23:13:23Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-        "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-        "source": "NASA",
-        "publishedAt": "2026-10-13T13:00:00Z"
+        "title": "Ship 40 Back At Starbase After Surprise Reentry Survival",
+        "url": "https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/",
+        "source": "SpacePolicyOnline.com",
+        "publishedAt": "2026-10-14T00:40:42Z"
       },
       {
-        "title": "Mars moon lander set to launch on 19 October",
-        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-        "source": "ESA",
-        "publishedAt": "2026-10-13T12:00:00Z"
+        "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
+        "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
+        "source": "NASASpaceflight",
+        "publishedAt": "2026-10-13T22:09:39Z"
       },
       {
-        "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-        "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+        "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective",
+        "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
         "source": "NASA",
-        "publishedAt": "2026-10-13T11:12:18Z"
+        "publishedAt": "2026-10-13T15:02:21Z"
       }
     ]
   }
