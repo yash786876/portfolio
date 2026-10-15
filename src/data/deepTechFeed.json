@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-14T11:06:09.257Z",
+  "generatedAt": "2026-10-15T10:48:07.449Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
-        "url": "https://jabhook.ai/",
+        "title": "Even Without AI, the Risk of a Biological Attack Is Terrifying",
+        "url": "https://www.motherjones.com/politics/2026/09/ai-anthropic-pandemic-biological-war-scenario-bioterrorism-annie-jacobsen-book-gain-function-research-pathogens-ethics/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-03T15:10:54Z"
+        "publishedAt": "2026-10-15T09:17:14Z"
       },
       {
-        "title": "China's rise as a health tech superpower is important",
-        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
+        "title": "They Created a Cell That's Almost Alive. What to Do with It Now?",
+        "url": "https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-02T06:45:16Z"
+        "publishedAt": "2026-10-14T15:01:31Z"
       },
       {
-        "title": "HouseOS – self-hosted homesystem platform, designed to be operated by agents",
-        "url": "https://github.com/boitech-dev/HouseOS",
+        "title": "Feds sold lab equipment that exposed US to 'severe bioterrorism threat'",
+        "url": "https://www.cidrap.umn.edu/biosecurity-issues/feds-sold-lab-equipment-exposed-us-severe-bioterrorism-threat-report-says",
         "source": "Hacker News",
-        "publishedAt": "2026-09-28T21:50:37Z"
+        "publishedAt": "2026-10-09T16:00:42Z"
       }
     ],
     "computing": [
       {
-        "title": "Show HN: tsv has fast formatters and parsers for Svelte, TypeScript/JS, CSS",
-        "url": "https://github.com/fuzdev/tsv",
+        "title": "The Aesthetics of Quantum Computing",
+        "url": "https://www.ft.com/content/f0c877e2-7f9c-4c5a-8b06-e2f9e659fa12",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T10:57:04Z"
+        "publishedAt": "2026-10-15T10:27:36Z"
       },
       {
-        "title": "Show HN: Chiplab - Give your AI agent access to virtual hardware",
-        "url": "https://veecle.ai/chiplab",
+        "title": "How Researchers Made Contact with a Chinese AI Agent Fleet",
+        "url": "https://quickchat.ai/post/chinese-ai-agent-fleet",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T08:43:42Z"
+        "publishedAt": "2026-10-15T10:26:04Z"
       },
       {
-        "title": "Show HN: Evaluate and improve your agent steering",
-        "url": "https://news.ycombinator.com/item?id=50081857",
+        "title": "AI crippleware in Hebrew and Chinese translations",
+        "url": "https://fromhebrew.com",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T02:58:39Z"
+        "publishedAt": "2026-10-15T06:38:56Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "The meaning of life in a world without work – Yuval Noah Harari (2017)",
-        "url": "https://www.theguardian.com/technology/2017/may/08/virtual-reality-religion-robots-sapiens-book",
+        "title": "Artificial Analysis AA-Robotics v0.1 Robotics Benchmark for Frontier Models",
+        "url": "https://artificialanalysis.ai/articles/aa-robotics",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T10:23:57Z"
+        "publishedAt": "2026-10-15T07:12:16Z"
       },
       {
-        "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-        "url": "https://museumofages.org/w/vinci",
+        "title": "China Has a Blueprint for the Future – 3D printing (additive manufacturing)",
+        "url": "https://www.newsweek.com/china-has-a-blueprint-for-the-future-12570833",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T10:00:24Z"
+        "publishedAt": "2026-10-15T06:45:20Z"
       },
       {
-        "title": "Show HN: Omnis Watchtower – a supply-chain tripwire for Claude Code agents",
-        "url": "https://github.com/Fortitude-Group/omnis-watchtower",
+        "title": "The Verifiability Gap in Quantized LLM Supply Chains",
+        "url": "https://arxiv.org/abs/2610.19498",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T08:30:24Z"
+        "publishedAt": "2026-10-15T02:13:23Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: What are vector embeddings? An interactive guide",
-        "url": "https://isaacus.com/blog/what-are-vector-embeddings",
+        "title": "Show HN: Fantastic Canvas",
+        "url": "https://github.com/aisixteen/fantastic",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T10:52:37Z"
+        "publishedAt": "2026-10-14T22:33:25Z"
       },
       {
-        "title": "Show HN: AI investment agreement review for startup founders",
-        "url": "https://www.orchardagentic.cloud/#browse/funding-review",
+        "title": "Show HN: Digs - For Passionate Music Explorers (like Goodreads for music)",
+        "url": "https://digs.fm",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T09:13:00Z"
+        "publishedAt": "2026-10-14T20:33:11Z"
       },
       {
-        "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-        "url": "https://pulseos.finance",
+        "title": "Are there any more startups with real technical challenges?",
+        "url": "https://news.ycombinator.com/item?id=50091127",
         "source": "Hacker News",
-        "publishedAt": "2026-10-13T23:13:23Z"
+        "publishedAt": "2026-10-14T17:12:31Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Ship 40 Back At Starbase After Surprise Reentry Survival",
-        "url": "https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/",
-        "source": "SpacePolicyOnline.com",
-        "publishedAt": "2026-10-14T00:40:42Z"
+        "title": "Trace Gas Orbiter — Facts and figures",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures",
+        "source": "ESA",
+        "publishedAt": "2026-10-15T09:49:00Z"
       },
       {
-        "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
-        "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
-        "source": "NASASpaceflight",
-        "publishedAt": "2026-10-13T22:09:39Z"
+        "title": "Drilling down for the Moon",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon",
+        "source": "ESA",
+        "publishedAt": "2026-10-15T09:24:00Z"
       },
       {
-        "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective",
-        "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
-        "source": "NASA",
-        "publishedAt": "2026-10-13T15:02:21Z"
+        "title": "Swarming robots to tackle space debris",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris",
+        "source": "ESA",
+        "publishedAt": "2026-10-15T07:50:00Z"
       }
     ]
   }
