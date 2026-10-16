@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:48:07.449Z",
+  "generatedAt": "2026-10-16T10:37:04.089Z",
   "domains": {
     "healthcare": [
       {
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "The Aesthetics of Quantum Computing",
-        "url": "https://www.ft.com/content/f0c877e2-7f9c-4c5a-8b06-e2f9e659fa12",
+        "title": "How pro-China are Chinese models?",
+        "url": "https://www.vals.ai/blogs/china-us-analysis",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T10:27:36Z"
+        "publishedAt": "2026-10-16T10:23:29Z"
       },
       {
-        "title": "How Researchers Made Contact with a Chinese AI Agent Fleet",
-        "url": "https://quickchat.ai/post/chinese-ai-agent-fleet",
+        "title": "Video Cutter AI – turn long videos into short clips",
+        "url": "https://video-cutter.ai/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T10:26:04Z"
+        "publishedAt": "2026-10-16T08:42:49Z"
       },
       {
-        "title": "AI crippleware in Hebrew and Chinese translations",
-        "url": "https://fromhebrew.com",
+        "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
+        "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T06:38:56Z"
+        "publishedAt": "2026-10-16T03:42:02Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Artificial Analysis AA-Robotics v0.1 Robotics Benchmark for Frontier Models",
+        "title": "Best Robotic Arms for Education",
+        "url": "https://www.orienta21.com/en/best-robotic-arms-for-education/",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-16T07:17:06Z"
+      },
+      {
+        "title": "AA-Robotics v0.1",
         "url": "https://artificialanalysis.ai/articles/aa-robotics",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T07:12:16Z"
+        "publishedAt": "2026-10-15T22:46:15Z"
       },
       {
-        "title": "China Has a Blueprint for the Future – 3D printing (additive manufacturing)",
-        "url": "https://www.newsweek.com/china-has-a-blueprint-for-the-future-12570833",
+        "title": "Can Monazite Help Secure the EV Magnet Supply Chain?",
+        "url": "https://spectrum.ieee.org/monazite-rare-earth",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T06:45:20Z"
-      },
-      {
-        "title": "The Verifiability Gap in Quantized LLM Supply Chains",
-        "url": "https://arxiv.org/abs/2610.19498",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-15T02:13:23Z"
+        "publishedAt": "2026-10-15T19:51:50Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Fantastic Canvas",
-        "url": "https://github.com/aisixteen/fantastic",
+        "title": "Show HN: Trustmux – Async tmux from your phone, now in Ubuntu, Debian, Fedora",
+        "url": "https://news.ycombinator.com/item?id=50115537",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T22:33:25Z"
+        "publishedAt": "2026-10-16T08:06:27Z"
       },
       {
-        "title": "Show HN: Digs - For Passionate Music Explorers (like Goodreads for music)",
-        "url": "https://digs.fm",
+        "title": "Technical Cofounder Wanted",
+        "url": "https://inspiration-agent.emergent.host/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T20:33:11Z"
+        "publishedAt": "2026-10-16T06:19:48Z"
       },
       {
-        "title": "Are there any more startups with real technical challenges?",
-        "url": "https://news.ycombinator.com/item?id=50091127",
+        "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
+        "url": "https://github.com/readysettech/rdst",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T17:12:31Z"
+        "publishedAt": "2026-10-15T18:09:01Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Trace Gas Orbiter — Facts and figures",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures",
-        "source": "ESA",
-        "publishedAt": "2026-10-15T09:49:00Z"
+        "title": "Blue Origin is going all in on the New Glenn rocket",
+        "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+        "source": "Arstechnica",
+        "publishedAt": "2026-10-16T10:00:54Z"
       },
       {
-        "title": "Drilling down for the Moon",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon",
+        "title": "Earth from Space: West Antarctica",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
         "source": "ESA",
-        "publishedAt": "2026-10-15T09:24:00Z"
+        "publishedAt": "2026-10-16T08:00:00Z"
       },
       {
-        "title": "Swarming robots to tackle space debris",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris",
-        "source": "ESA",
-        "publishedAt": "2026-10-15T07:50:00Z"
+        "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+        "source": "NASA",
+        "publishedAt": "2026-10-16T04:05:00Z"
       }
     ]
   }
