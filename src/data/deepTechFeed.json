@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-16T10:37:04.089Z",
+  "generatedAt": "2026-10-17T10:05:54.441Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Even Without AI, the Risk of a Biological Attack Is Terrifying",
-        "url": "https://www.motherjones.com/politics/2026/09/ai-anthropic-pandemic-biological-war-scenario-bioterrorism-annie-jacobsen-book-gain-function-research-pathogens-ethics/",
+        "title": "China to Restrict Open-Weights Model Exports",
+        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T09:17:14Z"
+        "publishedAt": "2026-10-17T02:41:30Z"
       },
       {
-        "title": "They Created a Cell That's Almost Alive. What to Do with It Now?",
-        "url": "https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html",
+        "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
+        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-14T15:01:31Z"
+        "publishedAt": "2026-10-16T16:50:32Z"
       },
       {
-        "title": "Feds sold lab equipment that exposed US to 'severe bioterrorism threat'",
-        "url": "https://www.cidrap.umn.edu/biosecurity-issues/feds-sold-lab-equipment-exposed-us-severe-bioterrorism-threat-report-says",
+        "title": "The evolution of LLM tool-use from API calls to agentic applications (2025)",
+        "url": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-09T16:00:42Z"
+        "publishedAt": "2026-10-16T13:42:59Z"
       }
     ],
     "computing": [
       {
-        "title": "How pro-China are Chinese models?",
-        "url": "https://www.vals.ai/blogs/china-us-analysis",
+        "title": "Ask HN: Local AI product situation",
+        "url": "https://news.ycombinator.com/item?id=50129150",
         "source": "Hacker News",
-        "publishedAt": "2026-10-16T10:23:29Z"
+        "publishedAt": "2026-10-17T08:46:16Z"
       },
       {
-        "title": "Video Cutter AI – turn long videos into short clips",
-        "url": "https://video-cutter.ai/",
+        "title": "EU negotiates sanctions swap with China to rescue critical ASML supplier",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths",
         "source": "Hacker News",
-        "publishedAt": "2026-10-16T08:42:49Z"
+        "publishedAt": "2026-10-17T06:49:52Z"
       },
       {
-        "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
-        "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+        "title": "Mapping the China AI Ecosystem with Rui Ma [video]",
+        "url": "https://www.youtube.com/watch?v=-RDpqweadlE",
         "source": "Hacker News",
-        "publishedAt": "2026-10-16T03:42:02Z"
+        "publishedAt": "2026-10-17T05:35:59Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Best Robotic Arms for Education",
-        "url": "https://www.orienta21.com/en/best-robotic-arms-for-education/",
+        "title": "Python's binary wheels and supply chain attacks",
+        "url": "https://rushter.com/blog/python-binary-wheels/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-16T07:17:06Z"
+        "publishedAt": "2026-10-17T00:32:59Z"
       },
       {
-        "title": "AA-Robotics v0.1",
-        "url": "https://artificialanalysis.ai/articles/aa-robotics",
+        "title": "Layerling – Easy 3D CAD for 3D printing",
+        "url": "https://github.com/henmedia/layerling",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T22:46:15Z"
+        "publishedAt": "2026-10-16T21:08:17Z"
       },
       {
-        "title": "Can Monazite Help Secure the EV Magnet Supply Chain?",
-        "url": "https://spectrum.ieee.org/monazite-rare-earth",
+        "title": "Aspire: Agentic /Skills Discovery for Robotics",
+        "url": "https://github.com/nvlabs/aspire",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T19:51:50Z"
+        "publishedAt": "2026-10-16T19:59:18Z"
       }
     ],
     "new-innovation": [
+      {
+        "title": "Nvidia Barred Neoclouds Running AMD Chips from GTC Berlin",
+        "url": "https://twitter.com/SemiAnalysis_/status/2111162214891610496",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-16T18:39:01Z"
+      },
+      {
+        "title": "Ask HN: A platform where anyone can earn money by advertising any product",
+        "url": "https://news.ycombinator.com/item?id=50117134",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-16T11:34:38Z"
+      },
       {
         "title": "Show HN: Trustmux – Async tmux from your phone, now in Ubuntu, Debian, Fedora",
         "url": "https://news.ycombinator.com/item?id=50115537",
         "source": "Hacker News",
         "publishedAt": "2026-10-16T08:06:27Z"
-      },
-      {
-        "title": "Technical Cofounder Wanted",
-        "url": "https://inspiration-agent.emergent.host/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-16T06:19:48Z"
-      },
-      {
-        "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
-        "url": "https://github.com/readysettech/rdst",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-15T18:09:01Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Blue Origin is going all in on the New Glenn rocket",
-        "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
-        "source": "Arstechnica",
-        "publishedAt": "2026-10-16T10:00:54Z"
-      },
-      {
-        "title": "Earth from Space: West Antarctica",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
-        "source": "ESA",
-        "publishedAt": "2026-10-16T08:00:00Z"
-      },
-      {
-        "title": "APOD: 2026 October 16 – Chasing the International Space Station",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+        "title": "APOD: 2026 October 17 – 3D 67P",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
         "source": "NASA",
-        "publishedAt": "2026-10-16T04:05:00Z"
+        "publishedAt": "2026-10-17T04:05:00Z"
+      },
+      {
+        "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+        "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+        "source": "NASA",
+        "publishedAt": "2026-10-16T20:14:39Z"
+      },
+      {
+        "title": "Artemis II Heat Shield After Splashdown",
+        "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
+        "source": "NASA",
+        "publishedAt": "2026-10-16T16:28:01Z"
       }
     ]
   }
