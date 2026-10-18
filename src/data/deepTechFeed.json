@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-10-17T10:05:54.441Z",
+  "generatedAt": "2026-10-18T10:19:19.528Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Can't bear to say goodbye to your pet? Biotech's got you covered",
+        "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-18T07:25:59Z"
+      },
       {
         "title": "China to Restrict Open-Weights Model Exports",
         "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
@@ -13,35 +19,35 @@
         "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
         "source": "Hacker News",
         "publishedAt": "2026-10-16T16:50:32Z"
-      },
-      {
-        "title": "The evolution of LLM tool-use from API calls to agentic applications (2025)",
-        "url": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-16T13:42:59Z"
       }
     ],
     "computing": [
       {
-        "title": "Ask HN: Local AI product situation",
-        "url": "https://news.ycombinator.com/item?id=50129150",
+        "title": "China proposes export controls on its advanced AI models and chip designs",
+        "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
         "source": "Hacker News",
-        "publishedAt": "2026-10-17T08:46:16Z"
+        "publishedAt": "2026-10-18T10:01:06Z"
       },
       {
-        "title": "EU negotiates sanctions swap with China to rescue critical ASML supplier",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths",
+        "title": "China startup demoes prototype EUV light source, still years away from viability",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
         "source": "Hacker News",
-        "publishedAt": "2026-10-17T06:49:52Z"
+        "publishedAt": "2026-10-18T05:54:56Z"
       },
       {
-        "title": "Mapping the China AI Ecosystem with Rui Ma [video]",
-        "url": "https://www.youtube.com/watch?v=-RDpqweadlE",
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "url": "https://sphinx-six-theta.vercel.app/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-17T05:35:59Z"
+        "publishedAt": "2026-10-18T04:33:49Z"
       }
     ],
     "manufacturing": [
+      {
+        "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-17T16:35:35Z"
+      },
       {
         "title": "Python's binary wheels and supply chain attacks",
         "url": "https://rushter.com/blog/python-binary-wheels/",
@@ -53,35 +59,35 @@
         "url": "https://github.com/henmedia/layerling",
         "source": "Hacker News",
         "publishedAt": "2026-10-16T21:08:17Z"
-      },
-      {
-        "title": "Aspire: Agentic /Skills Discovery for Robotics",
-        "url": "https://github.com/nvlabs/aspire",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-16T19:59:18Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Nvidia Barred Neoclouds Running AMD Chips from GTC Berlin",
-        "url": "https://twitter.com/SemiAnalysis_/status/2111162214891610496",
+        "title": "Technical Cofounder Wanted",
+        "url": "https://inspiration-agent.emergent.host/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-16T18:39:01Z"
+        "publishedAt": "2026-10-16T06:19:48Z"
       },
       {
-        "title": "Ask HN: A platform where anyone can earn money by advertising any product",
-        "url": "https://news.ycombinator.com/item?id=50117134",
+        "title": "Fintech startup Ramp hits $60B valuation after $1.85B funding round",
+        "url": "https://www.reuters.com/technology/fintech-firm-ramp-raises-185-billion-60-billion-valuation-2026-10-15/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-16T11:34:38Z"
+        "publishedAt": "2026-10-15T16:39:43Z"
       },
       {
-        "title": "Show HN: Trustmux – Async tmux from your phone, now in Ubuntu, Debian, Fedora",
-        "url": "https://news.ycombinator.com/item?id=50115537",
+        "title": "Show HN: Fantastic Canvas",
+        "url": "https://github.com/aisixteen/fantastic",
         "source": "Hacker News",
-        "publishedAt": "2026-10-16T08:06:27Z"
+        "publishedAt": "2026-10-14T22:33:25Z"
       }
     ],
     "out-of-this-world": [
+      {
+        "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+        "source": "NASA",
+        "publishedAt": "2026-10-18T04:05:00Z"
+      },
       {
         "title": "APOD: 2026 October 17 – 3D 67P",
         "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
@@ -93,12 +99,6 @@
         "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
         "source": "NASA",
         "publishedAt": "2026-10-16T20:14:39Z"
-      },
-      {
-        "title": "Artemis II Heat Shield After Splashdown",
-        "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
-        "source": "NASA",
-        "publishedAt": "2026-10-16T16:28:01Z"
       }
     ]
   }
