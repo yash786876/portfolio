@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-10-18T10:19:19.528Z",
+  "generatedAt": "2026-10-19T12:00:36.428Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Does Artificial Intelligence Democratize Science? Evidence from AlphaFold",
+        "url": "https://papers.ssrn.com/abstract=5130373",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-19T08:06:45Z"
+      },
       {
         "title": "Can't bear to say goodbye to your pet? Biotech's got you covered",
         "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
@@ -9,59 +15,59 @@
         "publishedAt": "2026-10-18T07:25:59Z"
       },
       {
-        "title": "China to Restrict Open-Weights Model Exports",
-        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+        "title": "Playbook for recovering frozen merchant funds",
+        "url": "https://guigui19833.github.io/fintech-redirect/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-17T02:41:30Z"
-      },
-      {
-        "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
-        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-16T16:50:32Z"
+        "publishedAt": "2026-10-17T21:15:52Z"
       }
     ],
     "computing": [
       {
-        "title": "China proposes export controls on its advanced AI models and chip designs",
-        "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+        "title": "Britain should reject the lure of cheap – and scary – Chinese AI",
+        "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
         "source": "Hacker News",
-        "publishedAt": "2026-10-18T10:01:06Z"
+        "publishedAt": "2026-10-19T11:25:18Z"
       },
       {
-        "title": "China startup demoes prototype EUV light source, still years away from viability",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
+        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+        "url": "https://news.ycombinator.com/item?id=50151036",
         "source": "Hacker News",
-        "publishedAt": "2026-10-18T05:54:56Z"
+        "publishedAt": "2026-10-19T11:24:34Z"
       },
       {
-        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-        "url": "https://sphinx-six-theta.vercel.app/",
+        "title": "Show HN: Chitra Studio – Your AI Media Workstation for Macs",
+        "url": "https://chitra.studio/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-18T04:33:49Z"
+        "publishedAt": "2026-10-19T04:27:53Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+        "title": "What if AI could control robots?",
+        "url": "https://www.hyperverse.sh",
         "source": "Hacker News",
-        "publishedAt": "2026-10-17T16:35:35Z"
+        "publishedAt": "2026-10-19T08:06:25Z"
       },
       {
-        "title": "Python's binary wheels and supply chain attacks",
-        "url": "https://rushter.com/blog/python-binary-wheels/",
+        "title": "RepRap (Replicating Rapid prototyper) [self-printing 3D Printer]",
+        "url": "https://en.wikipedia.org/wiki/RepRap",
         "source": "Hacker News",
-        "publishedAt": "2026-10-17T00:32:59Z"
+        "publishedAt": "2026-10-19T02:17:57Z"
       },
       {
-        "title": "Layerling – Easy 3D CAD for 3D printing",
-        "url": "https://github.com/henmedia/layerling",
+        "title": "Goalia, the Robotic Goalie – Banting Robotics",
+        "url": "https://www.banting7200.com/blog/goalia-the-robotic-goalie",
         "source": "Hacker News",
-        "publishedAt": "2026-10-16T21:08:17Z"
+        "publishedAt": "2026-10-18T16:18:54Z"
       }
     ],
     "new-innovation": [
+      {
+        "title": "Show HN: A GitHub contribution for my newborn's feedings, turned into SaaS",
+        "url": "https://milo.baby",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-18T16:19:51Z"
+      },
       {
         "title": "Technical Cofounder Wanted",
         "url": "https://inspiration-agent.emergent.host/",
@@ -69,16 +75,10 @@
         "publishedAt": "2026-10-16T06:19:48Z"
       },
       {
-        "title": "Fintech startup Ramp hits $60B valuation after $1.85B funding round",
-        "url": "https://www.reuters.com/technology/fintech-firm-ramp-raises-185-billion-60-billion-valuation-2026-10-15/",
+        "title": "Show HN: Digs – For Passionate Music Explorers (Like Goodreads for Music)",
+        "url": "https://digs.fm",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T16:39:43Z"
-      },
-      {
-        "title": "Show HN: Fantastic Canvas",
-        "url": "https://github.com/aisixteen/fantastic",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-14T22:33:25Z"
+        "publishedAt": "2026-10-15T18:29:19Z"
       }
     ],
     "out-of-this-world": [
