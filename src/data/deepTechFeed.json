@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T12:00:36.428Z",
+  "generatedAt": "2026-10-20T10:52:55.934Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Does Artificial Intelligence Democratize Science? Evidence from AlphaFold",
-        "url": "https://papers.ssrn.com/abstract=5130373",
+        "title": "Show HN: A biotech catalyst calendar that links every date to the SEC sentence",
+        "url": "https://www.orionbiotechai.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T08:06:45Z"
+        "publishedAt": "2026-10-19T12:05:47Z"
       },
       {
         "title": "Can't bear to say goodbye to your pet? Biotech's got you covered",
@@ -15,90 +15,90 @@
         "publishedAt": "2026-10-18T07:25:59Z"
       },
       {
-        "title": "Playbook for recovering frozen merchant funds",
-        "url": "https://guigui19833.github.io/fintech-redirect/",
+        "title": "China to Restrict Open-Weights Model Exports",
+        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-17T21:15:52Z"
+        "publishedAt": "2026-10-17T02:41:30Z"
       }
     ],
     "computing": [
       {
-        "title": "Britain should reject the lure of cheap – and scary – Chinese AI",
-        "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+        "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer",
+        "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T11:25:18Z"
+        "publishedAt": "2026-10-20T10:38:07Z"
       },
       {
-        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-        "url": "https://news.ycombinator.com/item?id=50151036",
+        "title": "Show HN: A practical framework for evaluating agentic AI systems",
+        "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T11:24:34Z"
+        "publishedAt": "2026-10-20T07:45:13Z"
       },
       {
-        "title": "Show HN: Chitra Studio – Your AI Media Workstation for Macs",
-        "url": "https://chitra.studio/",
+        "title": "Advancing Fault-Tolerant Quantum Computing with GPU-Accelerated Simulation",
+        "url": "https://nvidia.github.io/cuda-quantum/blogs/blog/2026/10/19/jupiter-magic-state-simulation/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T04:27:53Z"
+        "publishedAt": "2026-10-20T04:42:52Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "What if AI could control robots?",
-        "url": "https://www.hyperverse.sh",
+        "title": "Delivery Robots Accused of Scanning Customers' Faces, Sharing Biometric Data",
+        "url": "https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T08:06:25Z"
+        "publishedAt": "2026-10-19T23:27:20Z"
       },
       {
-        "title": "RepRap (Replicating Rapid prototyper) [self-printing 3D Printer]",
-        "url": "https://en.wikipedia.org/wiki/RepRap",
+        "title": "Investigating Ephemeral Supply Chain Tampering",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T02:17:57Z"
+        "publishedAt": "2026-10-19T20:50:08Z"
       },
       {
-        "title": "Goalia, the Robotic Goalie – Banting Robotics",
-        "url": "https://www.banting7200.com/blog/goalia-the-robotic-goalie",
+        "title": "Addressing EU Cyber Resilience Act",
+        "url": "https://news.ycombinator.com/item?id=50157847",
         "source": "Hacker News",
-        "publishedAt": "2026-10-18T16:18:54Z"
+        "publishedAt": "2026-10-19T20:48:00Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: A GitHub contribution for my newborn's feedings, turned into SaaS",
-        "url": "https://milo.baby",
+        "title": "NFS underground 2 and more old games running in the browser",
+        "url": "https://twitter.com/goygoyengine/status/2112219126349664739",
         "source": "Hacker News",
-        "publishedAt": "2026-10-18T16:19:51Z"
+        "publishedAt": "2026-10-20T10:48:51Z"
       },
       {
-        "title": "Technical Cofounder Wanted",
-        "url": "https://inspiration-agent.emergent.host/",
+        "title": "CPU-native. Deterministic. O(1) processes. – the Old New Coolness",
+        "url": "https://news.ycombinator.com/item?id=50162847",
         "source": "Hacker News",
-        "publishedAt": "2026-10-16T06:19:48Z"
+        "publishedAt": "2026-10-20T08:15:12Z"
       },
       {
-        "title": "Show HN: Digs – For Passionate Music Explorers (Like Goodreads for Music)",
-        "url": "https://digs.fm",
+        "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+        "url": "https://news.ycombinator.com/item?id=50154029",
         "source": "Hacker News",
-        "publishedAt": "2026-10-15T18:29:19Z"
+        "publishedAt": "2026-10-19T16:00:18Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
-        "source": "NASA",
-        "publishedAt": "2026-10-18T04:05:00Z"
+        "title": "French MPs propose symbolic €1 budget line for VORTEX spaceplane",
+        "url": "https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-10-20T10:15:39Z"
       },
       {
-        "title": "APOD: 2026 October 17 – 3D 67P",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
-        "source": "NASA",
-        "publishedAt": "2026-10-17T04:05:00Z"
+        "title": "New brain for Galileo",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo",
+        "source": "ESA",
+        "publishedAt": "2026-10-20T08:11:00Z"
       },
       {
-        "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
-        "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
-        "source": "NASA",
-        "publishedAt": "2026-10-16T20:14:39Z"
+        "title": "MMX lifts off to Mars’s moon Phobos",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+        "source": "ESA",
+        "publishedAt": "2026-10-20T07:00:00Z"
       }
     ]
   }
