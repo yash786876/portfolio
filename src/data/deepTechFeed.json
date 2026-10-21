@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:52:55.934Z",
+  "generatedAt": "2026-10-21T11:05:33.787Z",
   "domains": {
     "healthcare": [
       {
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer",
+        "title": "What's left for us after AI? China's thinkers have different answers",
+        "url": "https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-21T10:49:39Z"
+      },
+      {
+        "title": "A quantum computing feat brings the 'megaquops' era a step closer",
+        "url": "https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-21T10:31:32Z"
+      },
+      {
+        "title": "Amazon's TorchNeuron Runs PyTorch on AWS Trainium Chips",
         "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
         "source": "Hacker News",
-        "publishedAt": "2026-10-20T10:38:07Z"
-      },
-      {
-        "title": "Show HN: A practical framework for evaluating agentic AI systems",
-        "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-20T07:45:13Z"
-      },
-      {
-        "title": "Advancing Fault-Tolerant Quantum Computing with GPU-Accelerated Simulation",
-        "url": "https://nvidia.github.io/cuda-quantum/blogs/blog/2026/10/19/jupiter-magic-state-simulation/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-20T04:42:52Z"
+        "publishedAt": "2026-10-21T10:00:08Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Delivery Robots Accused of Scanning Customers' Faces, Sharing Biometric Data",
-        "url": "https://blockclubchicago.org/2026/10/16/delivery-robots-accused-of-scanning-customers-faces-sharing-biometric-data/",
+        "title": "The Robot I Didn't Expect to Build",
+        "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T23:27:20Z"
+        "publishedAt": "2026-10-21T09:23:25Z"
       },
       {
-        "title": "Investigating Ephemeral Supply Chain Tampering",
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering",
+        "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+        "url": "https://alterauth.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T20:50:08Z"
+        "publishedAt": "2026-10-21T06:42:12Z"
       },
       {
-        "title": "Addressing EU Cyber Resilience Act",
-        "url": "https://news.ycombinator.com/item?id=50157847",
+        "title": "Delivery Robots Accused of Scanning Customers' Faces and Sharing Biometric Data",
+        "url": "https://apnews.com/article/chicago-food-delivery-robots-biometric-data-lawsuits-16ead54eb7dc7c6eacbf011c53b9b20d",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T20:48:00Z"
+        "publishedAt": "2026-10-21T05:38:03Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "NFS underground 2 and more old games running in the browser",
-        "url": "https://twitter.com/goygoyengine/status/2112219126349664739",
+        "title": "Daytona, a startup building the 'agentic cloud,' valued at $1B",
+        "url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-20T10:48:51Z"
+        "publishedAt": "2026-10-21T04:36:37Z"
       },
       {
-        "title": "CPU-native. Deterministic. O(1) processes. – the Old New Coolness",
-        "url": "https://news.ycombinator.com/item?id=50162847",
+        "title": "Android Running on an iPod Touch 4G",
+        "url": "https://twitter.com/PeterDobbyojtu/status/2112143181152403681",
         "source": "Hacker News",
-        "publishedAt": "2026-10-20T08:15:12Z"
+        "publishedAt": "2026-10-20T18:02:11Z"
       },
       {
-        "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
-        "url": "https://news.ycombinator.com/item?id=50154029",
+        "title": "Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience",
+        "url": "https://github.com/gauge-sh/gauge-cli",
         "source": "Hacker News",
-        "publishedAt": "2026-10-19T16:00:18Z"
+        "publishedAt": "2026-10-20T18:01:22Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "French MPs propose symbolic €1 budget line for VORTEX spaceplane",
-        "url": "https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-10-20T10:15:39Z"
+        "title": "Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal",
+        "source": "ESA",
+        "publishedAt": "2026-10-21T08:04:00Z"
       },
       {
-        "title": "New brain for Galileo",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo",
+        "title": "Finding Our Way: Inside the Galileo Project: 1 – A European vision",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision",
         "source": "ESA",
-        "publishedAt": "2026-10-20T08:11:00Z"
+        "publishedAt": "2026-10-21T08:03:00Z"
       },
       {
-        "title": "MMX lifts off to Mars’s moon Phobos",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+        "title": "Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision",
         "source": "ESA",
-        "publishedAt": "2026-10-20T07:00:00Z"
+        "publishedAt": "2026-10-21T08:03:00Z"
       }
     ]
   }
