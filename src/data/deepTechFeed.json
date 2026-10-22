@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-21T11:05:33.787Z",
+  "generatedAt": "2026-10-22T11:05:45.302Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
+        "url": "https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-22T06:52:08Z"
+      },
+      {
+        "title": "They Created a Cell That's Almost Alive. What to Do with It Now?",
+        "url": "https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-21T22:33:28Z"
+      },
       {
         "title": "Show HN: A biotech catalyst calendar that links every date to the SEC sentence",
         "url": "https://www.orionbiotechai.com/",
         "source": "Hacker News",
         "publishedAt": "2026-10-19T12:05:47Z"
-      },
-      {
-        "title": "Can't bear to say goodbye to your pet? Biotech's got you covered",
-        "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-18T07:25:59Z"
-      },
-      {
-        "title": "China to Restrict Open-Weights Model Exports",
-        "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-17T02:41:30Z"
       }
     ],
     "computing": [
       {
-        "title": "What's left for us after AI? China's thinkers have different answers",
-        "url": "https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas",
+        "title": "Chinese stocks turn biggest losers as global AI trade stumbles",
+        "url": "https://theedgemalaysia.com/node/822195",
         "source": "Hacker News",
-        "publishedAt": "2026-10-21T10:49:39Z"
+        "publishedAt": "2026-10-22T10:32:13Z"
       },
       {
-        "title": "A quantum computing feat brings the 'megaquops' era a step closer",
-        "url": "https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction",
+        "title": "Could Treating AI as Conscious Make It More Dangerous?",
+        "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
         "source": "Hacker News",
-        "publishedAt": "2026-10-21T10:31:32Z"
+        "publishedAt": "2026-10-22T10:30:41Z"
       },
       {
-        "title": "Amazon's TorchNeuron Runs PyTorch on AWS Trainium Chips",
-        "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+        "title": "A framework for evaluating agentic AI systems",
+        "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-21T10:00:08Z"
+        "publishedAt": "2026-10-22T07:32:51Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "The Robot I Didn't Expect to Build",
-        "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+        "title": "The Kessler Syndrome (where blowups multiply exponentially) applied to software",
+        "url": "https://news.ycombinator.com/item?id=50189771",
         "source": "Hacker News",
-        "publishedAt": "2026-10-21T09:23:25Z"
+        "publishedAt": "2026-10-22T00:58:58Z"
       },
       {
-        "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-        "url": "https://alterauth.com/",
+        "title": "PHP blames supply chain security biz for putting chunks of the web at risk",
+        "url": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611",
         "source": "Hacker News",
-        "publishedAt": "2026-10-21T06:42:12Z"
+        "publishedAt": "2026-10-22T00:46:02Z"
       },
       {
-        "title": "Delivery Robots Accused of Scanning Customers' Faces and Sharing Biometric Data",
-        "url": "https://apnews.com/article/chicago-food-delivery-robots-biometric-data-lawsuits-16ead54eb7dc7c6eacbf011c53b9b20d",
+        "title": "Toyota Releases Video of Wheelchair-Alternative Mobility Concepts in Action",
+        "url": "https://news.ycombinator.com/item?id=50187813",
         "source": "Hacker News",
-        "publishedAt": "2026-10-21T05:38:03Z"
+        "publishedAt": "2026-10-21T21:20:53Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Daytona, a startup building the 'agentic cloud,' valued at $1B",
-        "url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/",
+        "title": "Show HN: Moin – A P2P voice app built on iroh and Media over QUIC",
+        "url": "https://moin.chat/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-21T04:36:37Z"
+        "publishedAt": "2026-10-22T09:21:31Z"
       },
       {
-        "title": "Android Running on an iPod Touch 4G",
-        "url": "https://twitter.com/PeterDobbyojtu/status/2112143181152403681",
+        "title": "Show HN: Shay.me – Personal AI assistant to get things done",
+        "url": "https://news.ycombinator.com/item?id=50192988",
         "source": "Hacker News",
-        "publishedAt": "2026-10-20T18:02:11Z"
+        "publishedAt": "2026-10-22T09:01:58Z"
       },
       {
-        "title": "Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience",
-        "url": "https://github.com/gauge-sh/gauge-cli",
+        "title": "Show HN: NeoInbox, a recreation of Google Inbox as a Thunderbird extension",
+        "url": "https://neoinbox.freakified.net/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-20T18:01:22Z"
+        "publishedAt": "2026-10-22T08:55:42Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal",
+        "title": "ESA Open Days 2026",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
         "source": "ESA",
-        "publishedAt": "2026-10-21T08:04:00Z"
+        "publishedAt": "2026-10-22T09:00:00Z"
       },
       {
-        "title": "Finding Our Way: Inside the Galileo Project: 1 – A European vision",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision",
+        "title": "Stars brewing in a nebulous cauldron",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
         "source": "ESA",
-        "publishedAt": "2026-10-21T08:03:00Z"
+        "publishedAt": "2026-10-22T08:00:00Z"
       },
       {
-        "title": "Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision",
+        "title": "Moon crane to take a load off lunar landers",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers",
         "source": "ESA",
-        "publishedAt": "2026-10-21T08:03:00Z"
+        "publishedAt": "2026-10-22T07:45:00Z"
       }
     ]
   }
