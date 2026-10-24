@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-23T10:57:35.532Z",
+  "generatedAt": "2026-10-24T10:13:15.594Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Bitchat Becomes France's Top Social App Amid Riots and Mobile Network Outage",
-        "url": "https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670",
+        "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
         "source": "Hacker News",
-        "publishedAt": "2026-10-23T10:23:10Z"
+        "publishedAt": "2026-10-24T08:44:57Z"
       },
       {
-        "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
-        "url": "https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/",
+        "title": "In the biotech world, you can't see everything",
+        "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-22T19:38:15Z"
+        "publishedAt": "2026-10-24T07:22:46Z"
       },
       {
-        "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
-        "url": "https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/",
+        "title": "Google's Frontier Imperative, Compute Scarcity Dilemmas and the Future of AI",
+        "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
         "source": "Hacker News",
-        "publishedAt": "2026-10-22T06:52:08Z"
+        "publishedAt": "2026-10-24T01:25:47Z"
       }
     ],
     "computing": [
       {
-        "title": "Chinese mathematician Sun Zhiwei proposes 1k problems to challenge AI",
-        "url": "https://www.scmp.com/news/china/science/article/3371652/chinese-mathematician-sun-zhiwei-proposes-1000-problems-challenge-ai",
+        "title": "Took apart Claude Code, then turned it into a free course on harness engineering",
+        "url": "https://news.ycombinator.com/item?id=50219641",
         "source": "Hacker News",
-        "publishedAt": "2026-10-23T09:27:09Z"
+        "publishedAt": "2026-10-24T09:48:38Z"
       },
       {
-        "title": "China offered European Commission to join its AI alliance",
-        "url": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
+        "title": "The Factory in Phoenix That Could Save American Manufacturing",
+        "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-23T08:28:11Z"
+        "publishedAt": "2026-10-23T23:56:04Z"
       },
       {
-        "title": "GM Aims to Bring 'Eyes-Off' Driving to AI-Powered Cars Within 2 Years",
-        "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+        "title": "The attack chain behind the v1.107.0 LiteLLM release",
+        "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
         "source": "Hacker News",
-        "publishedAt": "2026-10-23T00:06:18Z"
+        "publishedAt": "2026-10-23T21:05:16Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Fortescue is using KUKA welding robots to handle 6 MW charging cables",
-        "url": "https://electrek.co/2026/10/22/fortescue-is-using-kuka-welding-robots-to-handle-6-mw-charging-cables-video/",
+        "title": "What exactly happened in the LiteLLM attack",
+        "url": "https://ctrlb.ai/blogs/litellm-supply-chain-attack-teams-need-to-know",
         "source": "Hacker News",
-        "publishedAt": "2026-10-23T08:57:31Z"
+        "publishedAt": "2026-10-23T17:24:18Z"
       },
       {
-        "title": "Brain organoid computing for robotic decision-making",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.09.09.750426v1",
+        "title": "The Miniaturization of Military Robots",
+        "url": "https://smallwarsjournal.com/2026/10/23/the-miniaturization-of-military-robots/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-23T03:49:22Z"
+        "publishedAt": "2026-10-23T13:33:17Z"
       },
       {
-        "title": "Delivery robots have moved to the street",
-        "url": "https://brandondonnelly.com/delivery-robots-have-moved-to-the-street/",
+        "title": "A live zoo of bots visiting one site, with a trap for those ignoring robots.txt",
+        "url": "https://crawlerzoo.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-22T18:22:32Z"
+        "publishedAt": "2026-10-23T12:58:57Z"
       }
     ],
     "new-innovation": [
+      {
+        "title": "Auto-exist – Flow-state induction via raw mouse input (a biohacking experiment)",
+        "url": "https://news.ycombinator.com/item?id=50219717",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-24T10:01:46Z"
+      },
+      {
+        "title": "Warhound: Palmer Luckey's war dog startup",
+        "url": "https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-23T15:32:37Z"
+      },
       {
         "title": "Show HN: Swurf – Swipe through the real web",
         "url": "https://swurf.org/",
         "source": "Hacker News",
         "publishedAt": "2026-10-23T06:54:52Z"
-      },
-      {
-        "title": "Show HN: Secure your AI agents on Mac",
-        "url": "https://installplango.com/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-22T20:15:37Z"
-      },
-      {
-        "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
-        "url": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-22T13:03:14Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Earth from Space: The pink city",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city",
-        "source": "ESA",
-        "publishedAt": "2026-10-23T08:00:00Z"
+        "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+        "source": "NASA",
+        "publishedAt": "2026-10-24T04:05:00Z"
       },
       {
-        "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
-        "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/",
-        "source": "SpacePolicyOnline.com",
-        "publishedAt": "2026-10-23T03:23:10Z"
-      },
-      {
-        "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
-        "url": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/",
+        "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
+        "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
         "source": "NASASpaceflight",
-        "publishedAt": "2026-10-22T21:55:02Z"
+        "publishedAt": "2026-10-24T03:25:36Z"
+      },
+      {
+        "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+        "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+        "source": "Arstechnica",
+        "publishedAt": "2026-10-23T22:48:25Z"
       }
     ]
   }
