@@ -1,87 +1,93 @@
 {
-  "generatedAt": "2026-10-24T10:13:15.594Z",
+  "generatedAt": "2026-10-25T10:38:15.604Z",
   "domains": {
     "healthcare": [
       {
-        "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
-        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+        "title": "Botchelor – a dating show where AI agents bring their own characters over MCP",
+        "url": "https://botchelor.com/gate?from=%2Fagents",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T08:44:57Z"
+        "publishedAt": "2026-10-24T17:25:31Z"
       },
       {
-        "title": "In the biotech world, you can't see everything",
-        "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+        "title": "Jack Dorsey's Bitchat Becomes France's Top Social App Amid Mobile Network Outage",
+        "url": "https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T07:22:46Z"
+        "publishedAt": "2026-10-24T16:42:07Z"
       },
       {
-        "title": "Google's Frontier Imperative, Compute Scarcity Dilemmas and the Future of AI",
-        "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
+        "title": "How Much Does Custom Software Development Cost in the UK?",
+        "url": "https://www.bitechnology.co.uk/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T01:25:47Z"
+        "publishedAt": "2026-10-24T14:28:21Z"
       }
     ],
     "computing": [
+      {
+        "title": "The AI Trade Is Shifting from Chip Stocks to Cybersecurity",
+        "url": "https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-24T18:13:39Z"
+      },
+      {
+        "title": "How could the US and China verifiably slow AI?",
+        "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-24T16:47:15Z"
+      },
       {
         "title": "Took apart Claude Code, then turned it into a free course on harness engineering",
         "url": "https://news.ycombinator.com/item?id=50219641",
         "source": "Hacker News",
         "publishedAt": "2026-10-24T09:48:38Z"
-      },
-      {
-        "title": "The Factory in Phoenix That Could Save American Manufacturing",
-        "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-23T23:56:04Z"
-      },
-      {
-        "title": "The attack chain behind the v1.107.0 LiteLLM release",
-        "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-23T21:05:16Z"
       }
     ],
     "manufacturing": [
+      {
+        "title": "Bambu Lab CLI for slicing and printing 3D models",
+        "url": "https://github.com/voska/bambu",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-24T22:42:57Z"
+      },
+      {
+        "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
+        "url": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-24T11:07:16Z"
+      },
       {
         "title": "What exactly happened in the LiteLLM attack",
         "url": "https://ctrlb.ai/blogs/litellm-supply-chain-attack-teams-need-to-know",
         "source": "Hacker News",
         "publishedAt": "2026-10-23T17:24:18Z"
-      },
-      {
-        "title": "The Miniaturization of Military Robots",
-        "url": "https://smallwarsjournal.com/2026/10/23/the-miniaturization-of-military-robots/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-23T13:33:17Z"
-      },
-      {
-        "title": "A live zoo of bots visiting one site, with a trap for those ignoring robots.txt",
-        "url": "https://crawlerzoo.com/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-23T12:58:57Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Auto-exist – Flow-state induction via raw mouse input (a biohacking experiment)",
-        "url": "https://news.ycombinator.com/item?id=50219717",
+        "title": "Show HN: Hindsight – Lightweight, elegant, open-source tracker for Windows/macOS",
+        "url": "https://github.com/Tomotsugu-dev/Hindsight",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T10:01:46Z"
+        "publishedAt": "2026-10-25T07:04:10Z"
       },
       {
-        "title": "Warhound: Palmer Luckey's war dog startup",
-        "url": "https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10",
+        "title": "ReVault – new secure archive format",
+        "url": "https://news.ycombinator.com/item?id=50227527",
         "source": "Hacker News",
-        "publishedAt": "2026-10-23T15:32:37Z"
+        "publishedAt": "2026-10-25T02:01:21Z"
       },
       {
-        "title": "Show HN: Swurf – Swipe through the real web",
-        "url": "https://swurf.org/",
+        "title": "Show HN: Tributary – Discover who influenced your favorite musicians",
+        "url": "https://tributary.music/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-23T06:54:52Z"
+        "publishedAt": "2026-10-24T21:51:53Z"
       }
     ],
     "out-of-this-world": [
+      {
+        "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+        "source": "NASA",
+        "publishedAt": "2026-10-25T08:19:48Z"
+      },
       {
         "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
         "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
@@ -93,12 +99,6 @@
         "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
         "source": "NASASpaceflight",
         "publishedAt": "2026-10-24T03:25:36Z"
-      },
-      {
-        "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-        "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-        "source": "Arstechnica",
-        "publishedAt": "2026-10-23T22:48:25Z"
       }
     ]
   }
