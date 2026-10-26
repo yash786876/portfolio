@@ -1,47 +1,53 @@
 {
-  "generatedAt": "2026-10-25T10:38:15.604Z",
+  "generatedAt": "2026-10-26T12:11:24.243Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Botchelor – a dating show where AI agents bring their own characters over MCP",
-        "url": "https://botchelor.com/gate?from=%2Fagents",
+        "title": "In the biotech world, you can't see everything",
+        "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T17:25:31Z"
+        "publishedAt": "2026-10-24T07:22:46Z"
       },
       {
-        "title": "Jack Dorsey's Bitchat Becomes France's Top Social App Amid Mobile Network Outage",
-        "url": "https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670",
+        "title": "Google's Frontier Imperative, Compute Scarcity Dilemmas and the Future of AI",
+        "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T16:42:07Z"
+        "publishedAt": "2026-10-24T01:25:47Z"
       },
       {
-        "title": "How Much Does Custom Software Development Cost in the UK?",
+        "title": "We build SaaS products, MVPs, and custom web apps",
         "url": "https://www.bitechnology.co.uk/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T14:28:21Z"
+        "publishedAt": "2026-10-23T18:05:45Z"
       }
     ],
     "computing": [
       {
-        "title": "The AI Trade Is Shifting from Chip Stocks to Cybersecurity",
-        "url": "https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8",
+        "title": "Two AI Chipmakers Make Up 34% of America's Earnings Boom",
+        "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T18:13:39Z"
+        "publishedAt": "2026-10-26T09:17:05Z"
       },
       {
-        "title": "How could the US and China verifiably slow AI?",
-        "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai",
+        "title": "What happens to old AI GPUs?",
+        "url": "https://rcrtech.com/semiconductor-news/what-happens-to-old-ai-gpus/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T16:47:15Z"
+        "publishedAt": "2026-10-26T09:00:58Z"
       },
       {
-        "title": "Took apart Claude Code, then turned it into a free course on harness engineering",
-        "url": "https://news.ycombinator.com/item?id=50219641",
+        "title": "China's tech giants are paying 1M yuan for a new kind of AI engineer",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3371925/chinas-tech-giants-are-paying-1-million-yuan-new-kind-ai-engineer",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T09:48:38Z"
+        "publishedAt": "2026-10-26T07:18:22Z"
       }
     ],
     "manufacturing": [
+      {
+        "title": "Solved Models in Supply Chain Management",
+        "url": "https://github.com/OptimizationExpert/Pyomo",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-26T08:37:57Z"
+      },
       {
         "title": "Bambu Lab CLI for slicing and printing 3D models",
         "url": "https://github.com/voska/bambu",
@@ -53,52 +59,46 @@
         "url": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
         "source": "Hacker News",
         "publishedAt": "2026-10-24T11:07:16Z"
-      },
-      {
-        "title": "What exactly happened in the LiteLLM attack",
-        "url": "https://ctrlb.ai/blogs/litellm-supply-chain-attack-teams-need-to-know",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-23T17:24:18Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Hindsight – Lightweight, elegant, open-source tracker for Windows/macOS",
-        "url": "https://github.com/Tomotsugu-dev/Hindsight",
+        "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+        "url": "https://github.com/nodecode-ai/nodecode",
         "source": "Hacker News",
-        "publishedAt": "2026-10-25T07:04:10Z"
+        "publishedAt": "2026-10-26T03:30:18Z"
       },
       {
-        "title": "ReVault – new secure archive format",
+        "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+        "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-25T10:42:01Z"
+      },
+      {
+        "title": "Show HN: ReVault – new secure archive format",
         "url": "https://news.ycombinator.com/item?id=50227527",
         "source": "Hacker News",
         "publishedAt": "2026-10-25T02:01:21Z"
-      },
-      {
-        "title": "Show HN: Tributary – Discover who influenced your favorite musicians",
-        "url": "https://tributary.music/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-24T21:51:53Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
-        "source": "NASA",
-        "publishedAt": "2026-10-25T08:19:48Z"
+        "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
+        "url": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-10-26T10:53:24Z"
       },
       {
-        "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-        "source": "NASA",
-        "publishedAt": "2026-10-24T04:05:00Z"
+        "title": "Ice mission CRISTAL opens its wings",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
+        "source": "ESA",
+        "publishedAt": "2026-10-26T10:00:00Z"
       },
       {
-        "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
-        "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
-        "source": "NASASpaceflight",
-        "publishedAt": "2026-10-24T03:25:36Z"
+        "title": "2026 October 26 – M42: The Great Nebula in Orion",
+        "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+        "source": "NASA",
+        "publishedAt": "2026-10-26T04:05:00Z"
       }
     ]
   }
