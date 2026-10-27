@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-26T12:11:24.243Z",
+  "generatedAt": "2026-10-27T11:32:36.532Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
+        "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-26T20:29:10Z"
+      },
+      {
+        "title": "Custom Development Services",
+        "url": "https://www.bitechnology.co.uk/",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-26T13:41:29Z"
+      },
       {
         "title": "In the biotech world, you can't see everything",
         "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
         "source": "Hacker News",
         "publishedAt": "2026-10-24T07:22:46Z"
-      },
-      {
-        "title": "Google's Frontier Imperative, Compute Scarcity Dilemmas and the Future of AI",
-        "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-24T01:25:47Z"
-      },
-      {
-        "title": "We build SaaS products, MVPs, and custom web apps",
-        "url": "https://www.bitechnology.co.uk/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-23T18:05:45Z"
       }
     ],
     "computing": [
       {
-        "title": "Two AI Chipmakers Make Up 34% of America's Earnings Boom",
-        "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+        "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T09:17:05Z"
+        "publishedAt": "2026-10-27T11:28:28Z"
       },
       {
-        "title": "What happens to old AI GPUs?",
-        "url": "https://rcrtech.com/semiconductor-news/what-happens-to-old-ai-gpus/",
+        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T09:00:58Z"
+        "publishedAt": "2026-10-27T08:36:56Z"
       },
       {
-        "title": "China's tech giants are paying 1M yuan for a new kind of AI engineer",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3371925/chinas-tech-giants-are-paying-1-million-yuan-new-kind-ai-engineer",
+        "title": "In China, the AI bubble has already burst",
+        "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T07:18:22Z"
+        "publishedAt": "2026-10-27T00:44:23Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Solved Models in Supply Chain Management",
-        "url": "https://github.com/OptimizationExpert/Pyomo",
+        "title": "Should Snap start selling data for RL?",
+        "url": "https://news.ycombinator.com/item?id=50247738",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T08:37:57Z"
+        "publishedAt": "2026-10-26T17:38:38Z"
       },
       {
-        "title": "Bambu Lab CLI for slicing and printing 3D models",
-        "url": "https://github.com/voska/bambu",
+        "title": "The Robotics Map: robotics companies across the stack",
+        "url": "https://roboticsmap.org",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T22:42:57Z"
+        "publishedAt": "2026-10-26T17:37:20Z"
       },
       {
-        "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
-        "url": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
+        "title": "Witness: Open-source framework for verifying how your software was built",
+        "url": "https://www.helpnetsecurity.com/2026/10/26/witness-open-source-software-supply-chain-tool/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T11:07:16Z"
+        "publishedAt": "2026-10-26T15:52:48Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
-        "url": "https://github.com/nodecode-ai/nodecode",
+        "title": "Show HN: Termcraft – 2D terminal survival with multiplayer support",
+        "url": "https://github.com/pagel-s/termcraft/tree/v0.2.0",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T03:30:18Z"
+        "publishedAt": "2026-10-26T18:43:37Z"
       },
       {
-        "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-        "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+        "title": "Show HN: Castellan – A real-time strategy game for agents",
+        "url": "https://rts.emersoftware.cl/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-25T10:42:01Z"
+        "publishedAt": "2026-10-26T16:17:30Z"
       },
       {
-        "title": "Show HN: ReVault – new secure archive format",
-        "url": "https://news.ycombinator.com/item?id=50227527",
+        "title": "Show HN: Building the European Company Graph one website at a time",
+        "url": "https://firmendaten.researchly.at/netzwerk",
         "source": "Hacker News",
-        "publishedAt": "2026-10-25T02:01:21Z"
+        "publishedAt": "2026-10-26T13:58:24Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
-        "url": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-10-26T10:53:24Z"
-      },
-      {
-        "title": "Ice mission CRISTAL opens its wings",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
+        "title": "ESA procures four new Galileo Second Generation satellites",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
         "source": "ESA",
-        "publishedAt": "2026-10-26T10:00:00Z"
+        "publishedAt": "2026-10-27T10:00:00Z"
       },
       {
-        "title": "2026 October 26 – M42: The Great Nebula in Orion",
-        "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+        "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+        "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
         "source": "NASA",
-        "publishedAt": "2026-10-26T04:05:00Z"
+        "publishedAt": "2026-10-27T07:07:51Z"
+      },
+      {
+        "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+        "source": "NASA",
+        "publishedAt": "2026-10-27T04:05:00Z"
       }
     ]
   }
