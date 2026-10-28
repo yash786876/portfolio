@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T11:32:36.532Z",
+  "generatedAt": "2026-10-28T12:03:19.693Z",
   "domains": {
     "healthcare": [
       {
-        "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
-        "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
+        "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
+        "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T20:29:10Z"
+        "publishedAt": "2026-10-28T08:51:02Z"
       },
       {
         "title": "Custom Development Services",
@@ -15,59 +15,53 @@
         "publishedAt": "2026-10-26T13:41:29Z"
       },
       {
-        "title": "In the biotech world, you can't see everything",
-        "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+        "title": "Jack Dorsey's Bitchat Becomes France's Top Social App Amid Mobile Network Outage",
+        "url": "https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T07:22:46Z"
+        "publishedAt": "2026-10-24T16:42:07Z"
       }
     ],
     "computing": [
       {
-        "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
+        "title": "Why We Should Work on AI Instead of Fearing It: A Philosophical Perspective",
+        "url": "https://news.ycombinator.com/item?id=50271924",
         "source": "Hacker News",
-        "publishedAt": "2026-10-27T11:28:28Z"
+        "publishedAt": "2026-10-28T11:34:05Z"
       },
       {
-        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+        "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
+        "url": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-classiq-accelerate-scalable-quantum-computing.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-27T08:36:56Z"
+        "publishedAt": "2026-10-28T10:20:49Z"
       },
       {
-        "title": "In China, the AI bubble has already burst",
-        "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+        "title": "In China, the AI bubble has burst",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-27T00:44:23Z"
+        "publishedAt": "2026-10-27T20:44:20Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Should Snap start selling data for RL?",
-        "url": "https://news.ycombinator.com/item?id=50247738",
+        "title": "Ukraine is arming war robots with grenade launchers to hit the Russians",
+        "url": "https://www.businessinsider.com/ukraine-robots-use-grenade-launchers-to-fire-without-risking-soldiers-2026-10",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T17:38:38Z"
+        "publishedAt": "2026-10-28T00:40:16Z"
       },
       {
-        "title": "The Robotics Map: robotics companies across the stack",
-        "url": "https://roboticsmap.org",
+        "title": "Anduril Partners with Qualcomm to Build Laptops on US Soil",
+        "url": "https://www.tomshardware.com/laptops/military-drone-outfit-anduril-partners-with-qualcomm-to-build-laptops-on-us-soil-with-new-bluechip-venture-defense-contractor-targets-a-100-percent-domestic-supply-chain-in-the-future",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T17:37:20Z"
+        "publishedAt": "2026-10-27T20:20:39Z"
       },
       {
-        "title": "Witness: Open-source framework for verifying how your software was built",
-        "url": "https://www.helpnetsecurity.com/2026/10/26/witness-open-source-software-supply-chain-tool/",
+        "title": "PHP blames Chainguard for putting chunks of the web at risk",
+        "url": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T15:52:48Z"
+        "publishedAt": "2026-10-27T13:55:55Z"
       }
     ],
     "new-innovation": [
-      {
-        "title": "Show HN: Termcraft – 2D terminal survival with multiplayer support",
-        "url": "https://github.com/pagel-s/termcraft/tree/v0.2.0",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-26T18:43:37Z"
-      },
       {
         "title": "Show HN: Castellan – A real-time strategy game for agents",
         "url": "https://rts.emersoftware.cl/",
@@ -75,30 +69,36 @@
         "publishedAt": "2026-10-26T16:17:30Z"
       },
       {
-        "title": "Show HN: Building the European Company Graph one website at a time",
-        "url": "https://firmendaten.researchly.at/netzwerk",
+        "title": "Show HN: Hindsight – Lightweight, elegant, open-source tracker for Windows/macOS",
+        "url": "https://github.com/Tomotsugu-dev/Hindsight",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T13:58:24Z"
+        "publishedAt": "2026-10-25T07:04:10Z"
+      },
+      {
+        "title": "Show HN: ReVault – new secure archive format",
+        "url": "https://news.ycombinator.com/item?id=50227527",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-25T02:01:21Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "ESA procures four new Galileo Second Generation satellites",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
-        "source": "ESA",
-        "publishedAt": "2026-10-27T10:00:00Z"
+        "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+        "source": "NASA",
+        "publishedAt": "2026-10-28T05:39:46Z"
       },
       {
-        "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-        "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+        "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
         "source": "NASA",
-        "publishedAt": "2026-10-27T07:07:51Z"
+        "publishedAt": "2026-10-28T04:05:00Z"
       },
       {
-        "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+        "title": "The Land of the Standing-Up Rocks",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
         "source": "NASA",
-        "publishedAt": "2026-10-27T04:05:00Z"
+        "publishedAt": "2026-10-28T04:01:00Z"
       }
     ]
   }
