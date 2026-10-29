@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-28T12:03:19.693Z",
+  "generatedAt": "2026-10-29T12:13:32.493Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
-        "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
+        "title": "Anthropic has acquired a 1-person Biotech Lab",
+        "url": "https://twitter.com/Prof_Oak_/status/2115185849424048564",
         "source": "Hacker News",
-        "publishedAt": "2026-10-28T08:51:02Z"
+        "publishedAt": "2026-10-28T17:58:10Z"
       },
       {
-        "title": "Custom Development Services",
+        "title": "BI Technology – Custom Websites, Web Apps and SaaS Development",
         "url": "https://www.bitechnology.co.uk/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T13:41:29Z"
+        "publishedAt": "2026-10-28T16:28:10Z"
       },
       {
-        "title": "Jack Dorsey's Bitchat Becomes France's Top Social App Amid Mobile Network Outage",
-        "url": "https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670",
+        "title": "Tally.bio: a free terminal for the biotech and pharma market",
+        "url": "https://tally.bio/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-24T16:42:07Z"
+        "publishedAt": "2026-10-28T15:27:38Z"
       }
     ],
     "computing": [
       {
-        "title": "Why We Should Work on AI Instead of Fearing It: A Philosophical Perspective",
-        "url": "https://news.ycombinator.com/item?id=50271924",
+        "title": "Ask HN: Help My Sanity",
+        "url": "https://news.ycombinator.com/item?id=50287623",
         "source": "Hacker News",
-        "publishedAt": "2026-10-28T11:34:05Z"
+        "publishedAt": "2026-10-29T12:01:06Z"
       },
       {
-        "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform",
-        "url": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-classiq-accelerate-scalable-quantum-computing.html",
+        "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
+        "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
         "source": "Hacker News",
-        "publishedAt": "2026-10-28T10:20:49Z"
+        "publishedAt": "2026-10-29T11:26:33Z"
       },
       {
-        "title": "In China, the AI bubble has burst",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+        "title": "Ask HN: Are Apple app reviewers sharing app ideas?",
+        "url": "https://news.ycombinator.com/item?id=50286034",
         "source": "Hacker News",
-        "publishedAt": "2026-10-27T20:44:20Z"
+        "publishedAt": "2026-10-29T08:32:07Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Ukraine is arming war robots with grenade launchers to hit the Russians",
-        "url": "https://www.businessinsider.com/ukraine-robots-use-grenade-launchers-to-fire-without-risking-soldiers-2026-10",
+        "title": "Reachy Mini Hoverboard",
+        "url": "https://store.pollen-robotics.com/products/reachy-mini-hoverboard",
         "source": "Hacker News",
-        "publishedAt": "2026-10-28T00:40:16Z"
+        "publishedAt": "2026-10-29T12:06:19Z"
       },
       {
-        "title": "Anduril Partners with Qualcomm to Build Laptops on US Soil",
-        "url": "https://www.tomshardware.com/laptops/military-drone-outfit-anduril-partners-with-qualcomm-to-build-laptops-on-us-soil-with-new-bluechip-venture-defense-contractor-targets-a-100-percent-domestic-supply-chain-in-the-future",
+        "title": "Trump says imported robotics pose national security risks",
+        "url": "https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-27T20:20:39Z"
+        "publishedAt": "2026-10-29T11:08:56Z"
       },
       {
-        "title": "PHP blames Chainguard for putting chunks of the web at risk",
-        "url": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611",
+        "title": "Robotics AI Suite",
+        "url": "https://developer.robotics.intel.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-27T13:55:55Z"
+        "publishedAt": "2026-10-29T09:18:13Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Castellan – A real-time strategy game for agents",
-        "url": "https://rts.emersoftware.cl/",
+        "title": "Mario Kart World running natively on an iPhone 18 Pro",
+        "url": "https://twitter.com/willfaustcuber/status/2115258064844857595",
         "source": "Hacker News",
-        "publishedAt": "2026-10-26T16:17:30Z"
+        "publishedAt": "2026-10-28T22:54:37Z"
       },
       {
-        "title": "Show HN: Hindsight – Lightweight, elegant, open-source tracker for Windows/macOS",
-        "url": "https://github.com/Tomotsugu-dev/Hindsight",
+        "title": "Nintendo's worst nightmare begins as Switch 2 games start running on PC and Mac",
+        "url": "https://videocardz.com/newz/nintendos-worst-nightmare-begins-as-switch-2-exclusive-games-start-running-on-pcs-and-macs",
         "source": "Hacker News",
-        "publishedAt": "2026-10-25T07:04:10Z"
+        "publishedAt": "2026-10-28T17:34:17Z"
       },
       {
-        "title": "Show HN: ReVault – new secure archive format",
-        "url": "https://news.ycombinator.com/item?id=50227527",
+        "title": "Show HN: Muscle Memory – Can you still write code without AI?",
+        "url": "https://news.ycombinator.com/item?id=50275751",
         "source": "Hacker News",
-        "publishedAt": "2026-10-25T02:01:21Z"
+        "publishedAt": "2026-10-28T15:53:38Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
-        "source": "NASA",
-        "publishedAt": "2026-10-28T05:39:46Z"
+        "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+        "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+        "source": "Arstechnica",
+        "publishedAt": "2026-10-29T11:00:08Z"
       },
       {
-        "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-        "source": "NASA",
-        "publishedAt": "2026-10-28T04:05:00Z"
+        "title": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
+        "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-10-29T07:31:25Z"
       },
       {
-        "title": "The Land of the Standing-Up Rocks",
-        "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+        "title": "APOD: 29 October 2026 – The Horns of Venus",
+        "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
         "source": "NASA",
-        "publishedAt": "2026-10-28T04:01:00Z"
+        "publishedAt": "2026-10-29T04:05:00Z"
       }
     ]
   }
