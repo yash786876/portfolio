@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-10-29T12:13:32.493Z",
+  "generatedAt": "2026-10-30T12:03:54.292Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "First UK patient completes treatment of gene-editing therapy for sickle cell",
+        "url": "https://mft.nhs.uk/2026/10/23/first-patient-in-the-uk-to-receive-gene-editing-therapy-for-sickle-cell-completes-treatment/",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-29T16:53:18Z"
+      },
       {
         "title": "Anthropic has acquired a 1-person Biotech Lab",
         "url": "https://twitter.com/Prof_Oak_/status/2115185849424048564",
@@ -13,66 +19,60 @@
         "url": "https://www.bitechnology.co.uk/",
         "source": "Hacker News",
         "publishedAt": "2026-10-28T16:28:10Z"
-      },
-      {
-        "title": "Tally.bio: a free terminal for the biotech and pharma market",
-        "url": "https://tally.bio/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-28T15:27:38Z"
       }
     ],
     "computing": [
       {
-        "title": "Ask HN: Help My Sanity",
-        "url": "https://news.ycombinator.com/item?id=50287623",
+        "title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
+        "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T12:01:06Z"
+        "publishedAt": "2026-10-30T09:27:45Z"
       },
       {
-        "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
-        "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
+        "title": "China increasingly depends on copying American AI",
+        "url": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T11:26:33Z"
+        "publishedAt": "2026-10-30T03:21:06Z"
       },
       {
-        "title": "Ask HN: Are Apple app reviewers sharing app ideas?",
-        "url": "https://news.ycombinator.com/item?id=50286034",
+        "title": "The Factory in Phoenix That Could Save American Manufacturing",
+        "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T08:32:07Z"
+        "publishedAt": "2026-10-30T00:09:27Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Reachy Mini Hoverboard",
-        "url": "https://store.pollen-robotics.com/products/reachy-mini-hoverboard",
+        "title": "Sterling Anderson doesn't think humanoid robots should be building cars",
+        "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T12:06:19Z"
+        "publishedAt": "2026-10-30T01:09:22Z"
       },
       {
-        "title": "Trump says imported robotics pose national security risks",
-        "url": "https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/",
+        "title": "Show HN: Artificer by Nua: Frontier robotics task evaluation in 4B parameters",
+        "url": "https://usenua.com/blog/artificer",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T11:08:56Z"
+        "publishedAt": "2026-10-29T21:36:21Z"
       },
       {
-        "title": "Robotics AI Suite",
-        "url": "https://developer.robotics.intel.com/",
+        "title": "Establishing Battery Supply Chain Resilience for Drones",
+        "url": "https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T09:18:13Z"
+        "publishedAt": "2026-10-29T21:08:11Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Mario Kart World running natively on an iPhone 18 Pro",
-        "url": "https://twitter.com/willfaustcuber/status/2115258064844857595",
+        "title": "Any HN folks with undiagnosed diseases?",
+        "url": "https://news.ycombinator.com/item?id=50299858",
         "source": "Hacker News",
-        "publishedAt": "2026-10-28T22:54:37Z"
+        "publishedAt": "2026-10-30T04:25:27Z"
       },
       {
-        "title": "Nintendo's worst nightmare begins as Switch 2 games start running on PC and Mac",
-        "url": "https://videocardz.com/newz/nintendos-worst-nightmare-begins-as-switch-2-exclusive-games-start-running-on-pcs-and-macs",
+        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+        "url": "https://news.ycombinator.com/item?id=50291116",
         "source": "Hacker News",
-        "publishedAt": "2026-10-28T17:34:17Z"
+        "publishedAt": "2026-10-29T15:56:32Z"
       },
       {
         "title": "Show HN: Muscle Memory – Can you still write code without AI?",
@@ -83,22 +83,22 @@
     ],
     "out-of-this-world": [
       {
-        "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-        "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-        "source": "Arstechnica",
-        "publishedAt": "2026-10-29T11:00:08Z"
-      },
-      {
-        "title": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
-        "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/",
+        "title": "Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator",
+        "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/",
         "source": "European Spaceflight",
-        "publishedAt": "2026-10-29T07:31:25Z"
+        "publishedAt": "2026-10-30T11:02:56Z"
       },
       {
-        "title": "APOD: 29 October 2026 – The Horns of Venus",
-        "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+        "title": "November’s Night Sky Notes: Light-Day Away",
+        "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
         "source": "NASA",
-        "publishedAt": "2026-10-29T04:05:00Z"
+        "publishedAt": "2026-10-30T10:00:00Z"
+      },
+      {
+        "title": "Earth from Space: Champi’s eerie eye",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
+        "source": "ESA",
+        "publishedAt": "2026-10-30T09:00:00Z"
       }
     ]
   }
