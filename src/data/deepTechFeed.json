@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-30T12:03:54.292Z",
+  "generatedAt": "2026-10-31T11:38:08.019Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Eli Lilly scraps phase2 Alzheimer program after drug falls short of expectations",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-30T18:44:42Z"
+      },
+      {
+        "title": "Anthropic buys Mithril Medicine, a one-person biotech",
+        "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-30T15:12:19Z"
+      },
       {
         "title": "First UK patient completes treatment of gene-editing therapy for sickle cell",
         "url": "https://mft.nhs.uk/2026/10/23/first-patient-in-the-uk-to-receive-gene-editing-therapy-for-sickle-cell-completes-treatment/",
         "source": "Hacker News",
         "publishedAt": "2026-10-29T16:53:18Z"
-      },
-      {
-        "title": "Anthropic has acquired a 1-person Biotech Lab",
-        "url": "https://twitter.com/Prof_Oak_/status/2115185849424048564",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-28T17:58:10Z"
-      },
-      {
-        "title": "BI Technology – Custom Websites, Web Apps and SaaS Development",
-        "url": "https://www.bitechnology.co.uk/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-28T16:28:10Z"
       }
     ],
     "computing": [
       {
-        "title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
-        "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
+        "title": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
+        "url": "https://github.com/tapaskar/archwhere",
         "source": "Hacker News",
-        "publishedAt": "2026-10-30T09:27:45Z"
+        "publishedAt": "2026-10-31T05:46:30Z"
       },
       {
-        "title": "China increasingly depends on copying American AI",
-        "url": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+        "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
+        "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
         "source": "Hacker News",
-        "publishedAt": "2026-10-30T03:21:06Z"
+        "publishedAt": "2026-10-31T05:34:04Z"
       },
       {
-        "title": "The Factory in Phoenix That Could Save American Manufacturing",
-        "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
+        "title": "Ask HN: Are You a Forward Deployed Engineer?",
+        "url": "https://news.ycombinator.com/item?id=50310641",
         "source": "Hacker News",
-        "publishedAt": "2026-10-30T00:09:27Z"
+        "publishedAt": "2026-10-30T21:52:55Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Sterling Anderson doesn't think humanoid robots should be building cars",
-        "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+        "title": "Hi3D Launches AI 3D Model with 2048³ Voxel Resolution",
+        "url": "https://3dprintingindustry.com/news/hi3d-launches-ai-3d-model-with-2048%C2%B3-voxel-resolution-254150/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-30T01:09:22Z"
+        "publishedAt": "2026-10-31T02:38:46Z"
       },
       {
-        "title": "Show HN: Artificer by Nua: Frontier robotics task evaluation in 4B parameters",
-        "url": "https://usenua.com/blog/artificer",
+        "title": "Google plans to support shared AI training opt-out via robots.txt",
+        "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T21:36:21Z"
+        "publishedAt": "2026-10-30T19:51:58Z"
       },
       {
-        "title": "Establishing Battery Supply Chain Resilience for Drones",
-        "url": "https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/",
+        "title": "Sam Altman says the chip supply chain's invisible hand failing and DRAM is why",
+        "url": "https://finance.biggo.com/news/c8f9be1b0cccfd2c",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T21:08:11Z"
+        "publishedAt": "2026-10-30T17:50:38Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Any HN folks with undiagnosed diseases?",
-        "url": "https://news.ycombinator.com/item?id=50299858",
+        "title": "Show HN: Imza – plan and review focused coding agent",
+        "url": "https://github.com/umutsevdi/imza",
         "source": "Hacker News",
-        "publishedAt": "2026-10-30T04:25:27Z"
+        "publishedAt": "2026-10-31T09:58:23Z"
       },
       {
-        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-        "url": "https://news.ycombinator.com/item?id=50291116",
+        "title": "Trouble finding a motivated co-founder",
+        "url": "https://news.ycombinator.com/item?id=50313212",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T15:56:32Z"
+        "publishedAt": "2026-10-31T04:27:45Z"
       },
       {
-        "title": "Show HN: Muscle Memory – Can you still write code without AI?",
-        "url": "https://news.ycombinator.com/item?id=50275751",
+        "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+        "url": "https://sketch.wakeshift.ai/games/q5ucru",
         "source": "Hacker News",
-        "publishedAt": "2026-10-28T15:53:38Z"
+        "publishedAt": "2026-10-30T15:23:11Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator",
-        "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-10-30T11:02:56Z"
-      },
-      {
-        "title": "November’s Night Sky Notes: Light-Day Away",
-        "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+        "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
         "source": "NASA",
-        "publishedAt": "2026-10-30T10:00:00Z"
+        "publishedAt": "2026-10-31T04:05:00Z"
       },
       {
-        "title": "Earth from Space: Champi’s eerie eye",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
-        "source": "ESA",
-        "publishedAt": "2026-10-30T09:00:00Z"
+        "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+        "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+        "source": "Spaceflight Now",
+        "publishedAt": "2026-10-30T22:46:02Z"
+      },
+      {
+        "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+        "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
+        "source": "NASASpaceflight",
+        "publishedAt": "2026-10-30T21:53:38Z"
       }
     ]
   }
