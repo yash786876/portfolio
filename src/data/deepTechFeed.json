@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:38:08.019Z",
+  "generatedAt": "2026-11-01T12:37:08.571Z",
   "domains": {
     "healthcare": [
       {
@@ -23,51 +23,45 @@
     ],
     "computing": [
       {
-        "title": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
-        "url": "https://github.com/tapaskar/archwhere",
+        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
         "source": "Hacker News",
-        "publishedAt": "2026-10-31T05:46:30Z"
+        "publishedAt": "2026-11-01T03:27:55Z"
       },
       {
-        "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
-        "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
+        "title": "Yours.ai- a Studio for Interesting Ideas",
+        "url": "https://www.yoursai.in",
         "source": "Hacker News",
-        "publishedAt": "2026-10-31T05:34:04Z"
+        "publishedAt": "2026-10-31T23:04:53Z"
       },
       {
-        "title": "Ask HN: Are You a Forward Deployed Engineer?",
-        "url": "https://news.ycombinator.com/item?id=50310641",
+        "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
         "source": "Hacker News",
-        "publishedAt": "2026-10-30T21:52:55Z"
+        "publishedAt": "2026-10-31T17:21:16Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Hi3D Launches AI 3D Model with 2048³ Voxel Resolution",
-        "url": "https://3dprintingindustry.com/news/hi3d-launches-ai-3d-model-with-2048%C2%B3-voxel-resolution-254150/",
+        "title": "Show HN: Dolly – A Tribute to \"The Birth and Death of JavaScript\"",
+        "url": "https://slopshare.dev/v0.1.4/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-31T02:38:46Z"
+        "publishedAt": "2026-11-01T07:52:58Z"
       },
       {
-        "title": "Google plans to support shared AI training opt-out via robots.txt",
-        "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
+        "title": "Show HN: Playground for Designing Buildable Robotics",
+        "url": "https://github.com/JamelHammoud/basecase",
         "source": "Hacker News",
-        "publishedAt": "2026-10-30T19:51:58Z"
+        "publishedAt": "2026-10-31T21:59:22Z"
       },
       {
-        "title": "Sam Altman says the chip supply chain's invisible hand failing and DRAM is why",
-        "url": "https://finance.biggo.com/news/c8f9be1b0cccfd2c",
+        "title": "Retired professor arrested for blocking delivery robot. Will do it again",
+        "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
         "source": "Hacker News",
-        "publishedAt": "2026-10-30T17:50:38Z"
+        "publishedAt": "2026-10-31T13:39:57Z"
       }
     ],
     "new-innovation": [
-      {
-        "title": "Show HN: Imza – plan and review focused coding agent",
-        "url": "https://github.com/umutsevdi/imza",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-31T09:58:23Z"
-      },
       {
         "title": "Trouble finding a motivated co-founder",
         "url": "https://news.ycombinator.com/item?id=50313212",
@@ -75,30 +69,36 @@
         "publishedAt": "2026-10-31T04:27:45Z"
       },
       {
-        "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-        "url": "https://sketch.wakeshift.ai/games/q5ucru",
+        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+        "url": "https://news.ycombinator.com/item?id=50291116",
         "source": "Hacker News",
-        "publishedAt": "2026-10-30T15:23:11Z"
+        "publishedAt": "2026-10-29T15:56:32Z"
+      },
+      {
+        "title": "Show HN: Muscle Memory – Can you still write code without AI?",
+        "url": "https://news.ycombinator.com/item?id=50275751",
+        "source": "Hacker News",
+        "publishedAt": "2026-10-28T15:53:38Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+        "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
+        "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-11-01T08:16:51Z"
+      },
+      {
+        "title": "APOD: 2026 November 1 – Colors of the Moon",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
         "source": "NASA",
-        "publishedAt": "2026-10-31T04:05:00Z"
+        "publishedAt": "2026-11-01T04:05:00Z"
       },
       {
-        "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
-        "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-        "source": "Spaceflight Now",
-        "publishedAt": "2026-10-30T22:46:02Z"
-      },
-      {
-        "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
-        "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
+        "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+        "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
         "source": "NASASpaceflight",
-        "publishedAt": "2026-10-30T21:53:38Z"
+        "publishedAt": "2026-11-01T03:36:55Z"
       }
     ]
   }
