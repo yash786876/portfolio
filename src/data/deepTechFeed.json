@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:37:08.571Z",
+  "generatedAt": "2026-11-02T14:40:22.128Z",
   "domains": {
     "healthcare": [
       {
@@ -23,42 +23,42 @@
     ],
     "computing": [
       {
-        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+        "title": "Why AI agents struggle with chip design (RTL) debugging, and what helps",
+        "url": "https://booley.dev/blog/harness-matters/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-01T03:27:55Z"
+        "publishedAt": "2026-11-02T10:22:36Z"
       },
       {
-        "title": "Yours.ai- a Studio for Interesting Ideas",
-        "url": "https://www.yoursai.in",
+        "title": "Ask HW: Best frontier AI model for mind map generation?",
+        "url": "https://news.ycombinator.com/item?id=50334714",
         "source": "Hacker News",
-        "publishedAt": "2026-10-31T23:04:53Z"
+        "publishedAt": "2026-11-02T09:30:12Z"
       },
       {
-        "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+        "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-31T17:21:16Z"
+        "publishedAt": "2026-11-02T07:27:28Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Show HN: Dolly – A Tribute to \"The Birth and Death of JavaScript\"",
-        "url": "https://slopshare.dev/v0.1.4/",
+        "title": "Robots are less independent than we think",
+        "url": "https://www.bostonglobe.com/2026/06/18/opinion/demo-videos-robots-autonomous/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-01T07:52:58Z"
+        "publishedAt": "2026-11-02T14:25:22Z"
       },
       {
-        "title": "Show HN: Playground for Designing Buildable Robotics",
-        "url": "https://github.com/JamelHammoud/basecase",
+        "title": "Intel trials open robotics architecture with SAP in Chinese demo",
+        "url": "https://www.sdxcentral.com/news/intel-trials-open-robotics-architecture-with-sap-in-chinese-demo/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-31T21:59:22Z"
+        "publishedAt": "2026-11-02T04:06:02Z"
       },
       {
-        "title": "Retired professor arrested for blocking delivery robot. Will do it again",
-        "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+        "title": "Copper is an operating system for robots",
+        "url": "https://github.com/copper-project/copper-rs",
         "source": "Hacker News",
-        "publishedAt": "2026-10-31T13:39:57Z"
+        "publishedAt": "2026-11-01T20:36:13Z"
       }
     ],
     "new-innovation": [
@@ -83,22 +83,22 @@
     ],
     "out-of-this-world": [
       {
-        "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
-        "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/",
+        "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
+        "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
         "source": "European Spaceflight",
-        "publishedAt": "2026-11-01T08:16:51Z"
+        "publishedAt": "2026-11-02T14:13:02Z"
       },
       {
-        "title": "APOD: 2026 November 1 – Colors of the Moon",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-        "source": "NASA",
-        "publishedAt": "2026-11-01T04:05:00Z"
+        "title": "How to Expand Reliable, Flexible Access to Space",
+        "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
+        "source": "SpaceNews",
+        "publishedAt": "2026-11-02T14:00:00Z"
       },
       {
-        "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
-        "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
-        "source": "NASASpaceflight",
-        "publishedAt": "2026-11-01T03:36:55Z"
+        "title": "CubeSat achieves challenging laser link to ground",
+        "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
+        "source": "ESA",
+        "publishedAt": "2026-11-02T08:55:00Z"
       }
     ]
   }
