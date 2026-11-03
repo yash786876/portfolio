@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-11-02T14:40:22.128Z",
+  "generatedAt": "2026-11-03T13:33:41.268Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
+        "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-02T17:05:42Z"
+      },
+      {
+        "title": "What the Menopause Pathway Predicts for Biotech Innovation",
+        "url": "https://femtechledger.substack.com/p/fit-friction-or-force-what-the-menopause",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-02T15:37:57Z"
+      },
       {
         "title": "Eli Lilly scraps phase2 Alzheimer program after drug falls short of expectations",
         "url": "https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar",
         "source": "Hacker News",
         "publishedAt": "2026-10-30T18:44:42Z"
-      },
-      {
-        "title": "Anthropic buys Mithril Medicine, a one-person biotech",
-        "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-30T15:12:19Z"
-      },
-      {
-        "title": "First UK patient completes treatment of gene-editing therapy for sickle cell",
-        "url": "https://mft.nhs.uk/2026/10/23/first-patient-in-the-uk-to-receive-gene-editing-therapy-for-sickle-cell-completes-treatment/",
-        "source": "Hacker News",
-        "publishedAt": "2026-10-29T16:53:18Z"
       }
     ],
     "computing": [
       {
-        "title": "Why AI agents struggle with chip design (RTL) debugging, and what helps",
-        "url": "https://booley.dev/blog/harness-matters/",
+        "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
+        "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
         "source": "Hacker News",
-        "publishedAt": "2026-11-02T10:22:36Z"
+        "publishedAt": "2026-11-03T12:32:05Z"
       },
       {
-        "title": "Ask HW: Best frontier AI model for mind map generation?",
-        "url": "https://news.ycombinator.com/item?id=50334714",
+        "title": "nRF71 Series: Wi-Fi, Bluetooth LE, Thread, and On-Device AI on a Single Chip",
+        "url": "https://www.nordicsemi.com/Nordic-news/2026/11/Nordic-brings-edge-AI-to-battery-powered-WiFi-devices-20-times-lower-standby-power-with-nRF71-Series",
         "source": "Hacker News",
-        "publishedAt": "2026-11-02T09:30:12Z"
+        "publishedAt": "2026-11-03T12:03:33Z"
       },
       {
-        "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+        "title": "Show HN: Ship AI features without losing sleep",
+        "url": "https://sentrint.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-02T07:27:28Z"
+        "publishedAt": "2026-11-03T11:07:59Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Robots are less independent than we think",
-        "url": "https://www.bostonglobe.com/2026/06/18/opinion/demo-videos-robots-autonomous/",
+        "title": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
+        "url": "https://www.daweisun.me/blog/stl-planning-rl/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-02T14:25:22Z"
+        "publishedAt": "2026-11-02T23:51:20Z"
+      },
+      {
+        "title": "I made it easy to see how well robotics models acutally work",
+        "url": "https://playground.blupe.io",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-02T19:57:48Z"
       },
       {
         "title": "Intel trials open robotics architecture with SAP in Chinese demo",
         "url": "https://www.sdxcentral.com/news/intel-trials-open-robotics-architecture-with-sap-in-chinese-demo/",
         "source": "Hacker News",
         "publishedAt": "2026-11-02T04:06:02Z"
-      },
-      {
-        "title": "Copper is an operating system for robots",
-        "url": "https://github.com/copper-project/copper-rs",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-01T20:36:13Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Trouble finding a motivated co-founder",
-        "url": "https://news.ycombinator.com/item?id=50313212",
+        "title": "Show HN: Duckity – Abuse protection for the AI agent era",
+        "url": "https://duckity.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-31T04:27:45Z"
+        "publishedAt": "2026-11-03T13:17:28Z"
       },
       {
-        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-        "url": "https://news.ycombinator.com/item?id=50291116",
+        "title": "Show HN: I built an interactive visual playground for interaction nets",
+        "url": "https://netties.adler.dev/",
         "source": "Hacker News",
-        "publishedAt": "2026-10-29T15:56:32Z"
+        "publishedAt": "2026-11-03T12:58:47Z"
       },
       {
-        "title": "Show HN: Muscle Memory – Can you still write code without AI?",
-        "url": "https://news.ycombinator.com/item?id=50275751",
+        "title": "Show HN: Flick – A sports scores app without spoilers",
+        "url": "https://flick.kawaicheung.io/appstart.html",
         "source": "Hacker News",
-        "publishedAt": "2026-10-28T15:53:38Z"
+        "publishedAt": "2026-11-03T00:28:11Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
-        "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-11-02T14:13:02Z"
-      },
-      {
-        "title": "How to Expand Reliable, Flexible Access to Space",
-        "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
+        "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
+        "url": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
         "source": "SpaceNews",
-        "publishedAt": "2026-11-02T14:00:00Z"
+        "publishedAt": "2026-11-03T13:30:00Z"
       },
       {
-        "title": "CubeSat achieves challenging laser link to ground",
-        "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
+        "title": "Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman",
+        "url": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/",
+        "source": "NASASpaceflight",
+        "publishedAt": "2026-11-03T13:05:40Z"
+      },
+      {
+        "title": "10 asteroid mysteries that Hera will explore",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore",
         "source": "ESA",
-        "publishedAt": "2026-11-02T08:55:00Z"
+        "publishedAt": "2026-11-03T09:30:00Z"
       }
     ]
   }
