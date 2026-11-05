@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-11-04T13:43:33.762Z",
+  "generatedAt": "2026-11-05T13:56:00.087Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+        "title": "Anthropic buys one-person Kendall Square biotech ahead of IPO. Here's why",
+        "url": "https://www.masslive.com/news/2026/11/anthropic-buys-one-person-kendall-square-biotech-ahead-of-ipo-heres-why.html",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-05T01:07:23Z"
+      },
+      {
+        "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
         "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
         "source": "Hacker News",
-        "publishedAt": "2026-11-04T12:14:23Z"
+        "publishedAt": "2026-11-03T21:23:42Z"
       },
       {
         "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
         "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
         "source": "Hacker News",
         "publishedAt": "2026-11-02T17:05:42Z"
-      },
-      {
-        "title": "What the Menopause Pathway Predicts for Biotech Innovation",
-        "url": "https://femtechledger.substack.com/p/fit-friction-or-force-what-the-menopause",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-02T15:37:57Z"
       }
     ],
     "computing": [
       {
-        "title": "Show HN: Rivermark, a superfast AI graphic design canvas",
-        "url": "https://rivermark.ai/",
+        "title": "Claude Code Phenomenon in ChipDesign",
+        "url": "https://blog.verifai.ai/the-claude-code-phenomenon-tempering-optimism-with-historical-perspective/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-04T12:13:58Z"
+        "publishedAt": "2026-11-05T12:44:09Z"
       },
       {
-        "title": "Intel 14A moves closer to production as PDK 0.9 becomes available",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027",
+        "title": "Show HN: Ergon - build AI agents in code or on a canvas that generates Python",
+        "url": "https://github.com/shipitamit/ergon",
         "source": "Hacker News",
-        "publishedAt": "2026-11-04T10:40:59Z"
+        "publishedAt": "2026-11-05T12:20:00Z"
       },
       {
-        "title": "Bosch to create semiconductor division from January 2028",
-        "url": "https://www.reuters.com/world/asia-pacific/bosch-spin-off-semiconductor-division-january-2028-2026-11-03/",
+        "title": "Marvell to buy Lumentum in $115B all-stock deal",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers",
         "source": "Hacker News",
-        "publishedAt": "2026-11-04T10:22:52Z"
+        "publishedAt": "2026-11-05T12:08:16Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "The Gacha game I play everyday, Nikke, was targeted by a supply chain attack",
-        "url": "https://twitter.com/lauriferrd/status/2117655602843533509",
+        "title": "Robots with real-tissue muscle actuators achieve jumping, swimming and walking",
+        "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html",
         "source": "Hacker News",
-        "publishedAt": "2026-11-04T08:57:54Z"
+        "publishedAt": "2026-11-05T11:25:02Z"
       },
       {
-        "title": "SemiconductorX – The Chip Supply Chain, from Quartz to Module",
-        "url": "https://semiconductorx.com/",
+        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-04T03:23:43Z"
+        "publishedAt": "2026-11-05T10:11:50Z"
       },
       {
-        "title": "Why GPT-6 Astra is suddenly so good at robotics",
-        "url": "https://twitter.com/josefchen/status/2117749992420946241",
+        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-04T01:34:35Z"
+        "publishedAt": "2026-11-05T00:43:55Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Hacker News just got a new glow",
-        "url": "https://twitter.com/findingnische/status/2117921951675204049",
+        "title": "Show HN: Ferry, a highly customizable and feature-rich file manager for macOS",
+        "url": "https://ferry.indus3.org/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-04T10:11:24Z"
+        "publishedAt": "2026-11-05T13:42:30Z"
       },
       {
-        "title": "Binance security incident initial findings",
-        "url": "https://x.com/binance/status/2117626126214504729",
+        "title": "Show HN: Get Better at Piano with Noodle",
+        "url": "https://news.ycombinator.com/item?id=50377933",
         "source": "Hacker News",
-        "publishedAt": "2026-11-03T22:53:24Z"
+        "publishedAt": "2026-11-05T11:34:53Z"
       },
       {
-        "title": "Show HN: Confetti – Start designing hardware with plain English prompts",
-        "url": "https://confetti.build",
+        "title": "T-Unit, the Spotify founders' new startup, aims to defend European democracies",
+        "url": "https://www.swedishtechnews.com/t-unit-the-spotify-founders-new-startup-secures-eur50m-in-funding-from-lakestar-to-make-european-democracies-resilient/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-03T19:30:04Z"
+        "publishedAt": "2026-11-05T07:00:12Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "PLD Space Completes MIURA 5 Flight Termination System Test",
-        "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-11-04T10:04:11Z"
-      },
-      {
-        "title": "Time to wake up MetOp-SG-B1 weather satellite",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
-        "source": "ESA",
-        "publishedAt": "2026-11-04T09:10:00Z"
-      },
-      {
-        "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+        "title": "Hubble Learns Galactic History From Stars",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
         "source": "NASA",
-        "publishedAt": "2026-11-04T05:05:00Z"
+        "publishedAt": "2026-11-05T12:56:21Z"
+      },
+      {
+        "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+        "source": "NASA",
+        "publishedAt": "2026-11-05T05:05:00Z"
+      },
+      {
+        "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+        "source": "NASA",
+        "publishedAt": "2026-11-05T05:01:00Z"
       }
     ]
   }
