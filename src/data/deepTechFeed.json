@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-11-05T13:56:00.087Z",
+  "generatedAt": "2026-11-06T13:41:14.414Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Epileptic seizures nearly vanish after people receive experimental gene therapy",
+        "url": "https://www.nature.com/articles/d41586-026-03566-2",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-05T15:39:24Z"
+      },
       {
         "title": "Anthropic buys one-person Kendall Square biotech ahead of IPO. Here's why",
         "url": "https://www.masslive.com/news/2026/11/anthropic-buys-one-person-kendall-square-biotech-ahead-of-ipo-heres-why.html",
@@ -9,96 +15,90 @@
         "publishedAt": "2026-11-05T01:07:23Z"
       },
       {
-        "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
+        "title": "Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
         "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
         "source": "Hacker News",
-        "publishedAt": "2026-11-03T21:23:42Z"
-      },
-      {
-        "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
-        "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-02T17:05:42Z"
+        "publishedAt": "2026-11-04T12:14:23Z"
       }
     ],
     "computing": [
       {
-        "title": "Claude Code Phenomenon in ChipDesign",
-        "url": "https://blog.verifai.ai/the-claude-code-phenomenon-tempering-optimism-with-historical-perspective/",
+        "title": "Nvidia Crashed 9.3%. Is the AI Data-Center Boom Starting to Crack?",
+        "url": "https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-05T12:44:09Z"
+        "publishedAt": "2026-11-06T12:47:45Z"
       },
       {
-        "title": "Show HN: Ergon - build AI agents in code or on a canvas that generates Python",
-        "url": "https://github.com/shipitamit/ergon",
+        "title": "Democratic sweep could slow AI growth in US – and help China's ambitions",
+        "url": "https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions",
         "source": "Hacker News",
-        "publishedAt": "2026-11-05T12:20:00Z"
+        "publishedAt": "2026-11-06T09:08:17Z"
       },
       {
-        "title": "Marvell to buy Lumentum in $115B all-stock deal",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers",
+        "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
+        "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
         "source": "Hacker News",
-        "publishedAt": "2026-11-05T12:08:16Z"
+        "publishedAt": "2026-11-06T06:18:29Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Robots with real-tissue muscle actuators achieve jumping, swimming and walking",
-        "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-05T11:25:02Z"
-      },
-      {
         "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
         "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-05T10:11:50Z"
+        "publishedAt": "2026-11-06T13:34:21Z"
       },
       {
-        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-        "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+        "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
         "source": "Hacker News",
-        "publishedAt": "2026-11-05T00:43:55Z"
+        "publishedAt": "2026-11-06T13:08:20Z"
+      },
+      {
+        "title": "Agility Robotics lists on Nasdaq as first pure-play humanoid robot company",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-06T12:57:44Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Ferry, a highly customizable and feature-rich file manager for macOS",
-        "url": "https://ferry.indus3.org/",
+        "title": "Finding Pronatalism in Germany",
+        "url": "https://twitter.com/MoreBirths/status/2118428699834138704",
         "source": "Hacker News",
-        "publishedAt": "2026-11-05T13:42:30Z"
+        "publishedAt": "2026-11-06T13:17:14Z"
       },
       {
-        "title": "Show HN: Get Better at Piano with Noodle",
-        "url": "https://news.ycombinator.com/item?id=50377933",
+        "title": "Ask HN: How's your home-cooked software revolution going?",
+        "url": "https://news.ycombinator.com/item?id=50391446",
         "source": "Hacker News",
-        "publishedAt": "2026-11-05T11:34:53Z"
+        "publishedAt": "2026-11-06T12:12:22Z"
       },
       {
-        "title": "T-Unit, the Spotify founders' new startup, aims to defend European democracies",
-        "url": "https://www.swedishtechnews.com/t-unit-the-spotify-founders-new-startup-secures-eur50m-in-funding-from-lakestar-to-make-european-democracies-resilient/",
+        "title": "Show HN: Bisimia – A TLA+ environment that runs in the browser",
+        "url": "https://bisimia.com",
         "source": "Hacker News",
-        "publishedAt": "2026-11-05T07:00:12Z"
+        "publishedAt": "2026-11-05T21:54:16Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Hubble Learns Galactic History From Stars",
-        "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-        "source": "NASA",
-        "publishedAt": "2026-11-05T12:56:21Z"
+        "title": "Avio Scales Back Demonstrator Programme Amid Technical Challenges",
+        "url": "https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-11-06T07:39:17Z"
       },
       {
-        "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+        "title": "APOD: 2026 November 6 – A Farewell to Swift",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
         "source": "NASA",
-        "publishedAt": "2026-11-05T05:05:00Z"
+        "publishedAt": "2026-11-06T05:05:00Z"
       },
       {
-        "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+        "title": "Taking a Gander at Utah’s Goosenecks",
+        "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
         "source": "NASA",
-        "publishedAt": "2026-11-05T05:01:00Z"
+        "publishedAt": "2026-11-06T05:01:00Z"
       }
     ]
   }
