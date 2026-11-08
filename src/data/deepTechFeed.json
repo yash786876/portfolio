@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:22:45.988Z",
+  "generatedAt": "2026-11-08T12:41:22.805Z",
   "domains": {
     "healthcare": [
       {
@@ -23,25 +23,31 @@
     ],
     "computing": [
       {
-        "title": "Greece launches semiconductor and microelectronics strategy",
-        "url": "https://hccc.org.gr/greece-opens-a-new-chapter-in-microelectronics-and-semiconductors/",
+        "title": "Show HN: No more code reviews. Fuzz instead",
+        "url": "https://news.ycombinator.com/item?id=50412646",
         "source": "Hacker News",
-        "publishedAt": "2026-11-07T10:25:18Z"
+        "publishedAt": "2026-11-08T12:21:59Z"
       },
       {
-        "title": "AI Source Code Analysis Detection Evasion Techniques",
-        "url": "https://cipher.org.uk/2026/11/06/AI-Source-Code-Analysis-Detection-Evasion-Techniques/",
+        "title": "Empires of AI – The Rise and Fall of a New Global Order",
+        "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
         "source": "Hacker News",
-        "publishedAt": "2026-11-07T08:52:16Z"
+        "publishedAt": "2026-11-08T12:21:47Z"
       },
       {
-        "title": "Bends in magneto-inductive waveguides (2010) [pdf]",
-        "url": "https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/electrical-and-electronic-engineering/public/optical-and-semiconductor-devices/pubs/MI_bends.pdf",
+        "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
+        "url": "https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes",
         "source": "Hacker News",
-        "publishedAt": "2026-11-07T02:39:04Z"
+        "publishedAt": "2026-11-07T20:56:09Z"
       }
     ],
     "manufacturing": [
+      {
+        "title": "Ask HN: LLM-Resistant Publishing Strategies",
+        "url": "https://news.ycombinator.com/item?id=50411036",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-08T06:57:42Z"
+      },
       {
         "title": "Six humanoid robots worked a 24-hour shift at a convenience store",
         "url": "https://www.techspot.com/news/114445-six-humanoid-robots-worked-24-hour-shift-convenience.html",
@@ -53,52 +59,46 @@
         "url": "https://robodienst.com/supply-chain/unitree-g1",
         "source": "Hacker News",
         "publishedAt": "2026-11-07T03:28:03Z"
-      },
-      {
-        "title": "Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion",
-        "url": "https://arxiv.org/abs/2608.20433",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-07T01:11:48Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "The hardware bet is wrong. It is running from a war",
-        "url": "https://twitter.com/withYougori/status/2118840199400587576",
+        "title": "Show HN: stardelt.io – a self-hosted lakehouse on k8s (pre-alpha)",
+        "url": "https://stardelt.io/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-07T08:57:40Z"
+        "publishedAt": "2026-11-08T09:50:33Z"
       },
       {
-        "title": "The hardware bet is wrong. It is running from a war...",
-        "url": "https://twitter.com/withYougori/status/2118840199400587576",
+        "title": "Ask HN: LLM-Resistant Publishing Strategies",
+        "url": "https://news.ycombinator.com/item?id=50411036",
         "source": "Hacker News",
-        "publishedAt": "2026-11-06T23:13:24Z"
+        "publishedAt": "2026-11-08T06:57:42Z"
       },
       {
-        "title": "GrapheneOS accuses YC of funding surveillance and enabling HN harassment",
-        "url": "https://twitter.com/GrapheneOS/status/2118490356958597210",
+        "title": "Germany just told us we'd have fire one of our founders to qualify for funding",
+        "url": "https://twitter.com/sjdedic/status/2118688674548265131",
         "source": "Hacker News",
-        "publishedAt": "2026-11-06T17:42:49Z"
+        "publishedAt": "2026-11-07T12:26:42Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+        "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
         "source": "NASA",
-        "publishedAt": "2026-11-07T05:05:00Z"
+        "publishedAt": "2026-11-08T05:05:00Z"
       },
       {
-        "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
-        "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
-        "source": "Spaceflight Now",
-        "publishedAt": "2026-11-07T02:18:04Z"
+        "title": "NASA’s Moon Base plan gains a PROMISE",
+        "url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+        "source": "NASASpaceflight",
+        "publishedAt": "2026-11-08T04:43:57Z"
       },
       {
-        "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
-        "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-        "source": "Spaceflight Now",
-        "publishedAt": "2026-11-06T22:00:39Z"
+        "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+        "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+        "source": "NASA",
+        "publishedAt": "2026-11-07T22:47:03Z"
       }
     ]
   }
