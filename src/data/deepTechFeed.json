@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:02:30.557Z",
+  "generatedAt": "2026-11-10T14:14:58.381Z",
   "domains": {
     "healthcare": [
       {
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "The Race to Build a \"Find My\" for AI Chips",
-        "url": "https://spectrum.ieee.org/find-my-ai-chip",
+        "title": "Ukraine's Fiber-Optic Drones Compete with Data Centers for Optical Fiber Supply",
+        "url": "https://epyhia.com/ukraine-s-fiber-optic-drones-compete-with-ai-data-centers-for-china-s",
         "source": "Hacker News",
-        "publishedAt": "2026-11-09T14:09:02Z"
+        "publishedAt": "2026-11-10T13:33:29Z"
       },
       {
-        "title": "Datacenters, Elon Musk, and AI are all on chopping block once Congress changes",
-        "url": "https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250",
+        "title": "Show HN: You can now train your own LLMs with less memory, on your consumer GPUs",
+        "url": "https://news.ycombinator.com/item?id=50438889",
         "source": "Hacker News",
-        "publishedAt": "2026-11-09T12:32:21Z"
+        "publishedAt": "2026-11-10T11:38:51Z"
       },
       {
-        "title": "Revolut Cut AI Costs 90% and Started Shipping Faster",
-        "url": "https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models",
+        "title": "Siemens planning acquisition of Lauterbach (debug/trace tools)",
+        "url": "https://press.siemens.com/global/en/pressrelease/siemens-expand-portfolio-semiconductor-design-and-verification-planned-acquisition",
         "source": "Hacker News",
-        "publishedAt": "2026-11-09T01:56:17Z"
+        "publishedAt": "2026-11-10T10:35:57Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Threat of air strikes: US looks to bolster base infrastructure with 3D printing",
-        "url": "https://www.airforcetimes.com/news/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing/",
+        "title": "Ukraine's Fiber-Optic Drones Compete with Data Centers for Optical Fiber Supply",
+        "url": "https://epyhia.com/ukraine-s-fiber-optic-drones-compete-with-ai-data-centers-for-china-s",
         "source": "Hacker News",
-        "publishedAt": "2026-11-08T19:46:23Z"
+        "publishedAt": "2026-11-10T13:33:29Z"
       },
       {
-        "title": "Ask HN: LLM-Resistant Publishing Strategies",
-        "url": "https://news.ycombinator.com/item?id=50411036",
+        "title": "Music For Robots – 26 unquantized acoustic tracks for multimodal LLM evaluation",
+        "url": "https://github.com/luchtan-GIT/m4r-data",
         "source": "Hacker News",
-        "publishedAt": "2026-11-08T06:57:42Z"
+        "publishedAt": "2026-11-10T11:26:42Z"
       },
       {
-        "title": "Six humanoid robots worked a 24-hour shift at a convenience store",
-        "url": "https://www.techspot.com/news/114445-six-humanoid-robots-worked-24-hour-shift-convenience.html",
+        "title": "Supply chain attack on Qubole customers",
+        "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
         "source": "Hacker News",
-        "publishedAt": "2026-11-07T07:22:50Z"
+        "publishedAt": "2026-11-09T21:07:26Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: slcc, a C compiler that doesn't need semicolons or braces",
-        "url": "https://github.com/itzmetanjim/slcc",
+        "title": "Ask HN: What other tools similar to Alibaba OCR do people use with LLMs?",
+        "url": "https://news.ycombinator.com/item?id=50439324",
         "source": "Hacker News",
-        "publishedAt": "2026-11-09T14:47:35Z"
+        "publishedAt": "2026-11-10T12:23:42Z"
       },
       {
-        "title": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
-        "url": "https://airlock.lunareng.com/docs",
+        "title": "Show HN: Eigin. Local-first and no-shell personal AI for iOS",
+        "url": "https://github.com/Eigin-AI/Eigin",
         "source": "Hacker News",
-        "publishedAt": "2026-11-09T00:59:27Z"
+        "publishedAt": "2026-11-10T12:00:34Z"
       },
       {
-        "title": "Show HN: My first project, an AI-powered financial news analyzer",
-        "url": "https://github.com/lamarcol/NotBot",
+        "title": "Show HN: Android and iOS games running offline in the browser",
+        "url": "https://phoam.app/demos",
         "source": "Hacker News",
-        "publishedAt": "2026-11-08T22:34:06Z"
+        "publishedAt": "2026-11-10T05:49:45Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "UK Government Investment Secures More Than 25% Stake in SaxaVord",
-        "url": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-11-09T14:29:42Z"
-      },
-      {
-        "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-        "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
+        "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+        "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
         "source": "SpaceNews",
-        "publishedAt": "2026-11-09T14:00:00Z"
+        "publishedAt": "2026-11-10T14:00:00Z"
       },
       {
-        "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
-        "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
-        "source": "NASA",
-        "publishedAt": "2026-11-09T11:00:00Z"
+        "title": "ESCAPADE on its way to Mars after Earth flybys",
+        "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
+        "source": "SpaceNews",
+        "publishedAt": "2026-11-10T08:01:39Z"
+      },
+      {
+        "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
+        "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-11-10T07:04:22Z"
       }
     ]
   }
