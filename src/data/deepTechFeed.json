@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-11-10T14:14:58.381Z",
+  "generatedAt": "2026-11-11T13:29:18.236Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+        "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-11T02:57:08Z"
+      },
       {
         "title": "A 3-Line Torus Geometry Proof Wrecked OpenAI's $100B Biotech Venture",
         "url": "https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md",
@@ -13,92 +19,86 @@
         "url": "https://www.nature.com/articles/d41586-026-03566-2",
         "source": "Hacker News",
         "publishedAt": "2026-11-05T15:39:24Z"
-      },
-      {
-        "title": "Anthropic buys one-person Kendall Square biotech ahead of IPO. Here's why",
-        "url": "https://www.masslive.com/news/2026/11/anthropic-buys-one-person-kendall-square-biotech-ahead-of-ipo-heres-why.html",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-05T01:07:23Z"
       }
     ],
     "computing": [
       {
-        "title": "Ukraine's Fiber-Optic Drones Compete with Data Centers for Optical Fiber Supply",
-        "url": "https://epyhia.com/ukraine-s-fiber-optic-drones-compete-with-ai-data-centers-for-china-s",
+        "title": "America Helped China Catch Up in the AI Race Ft. Kai-Fu Lee [video]",
+        "url": "https://www.youtube.com/watch?v=3FggIG156Ds",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T13:33:29Z"
+        "publishedAt": "2026-11-11T09:10:08Z"
       },
       {
-        "title": "Show HN: You can now train your own LLMs with less memory, on your consumer GPUs",
-        "url": "https://news.ycombinator.com/item?id=50438889",
+        "title": "AI Cracks a Quantum Computing Bottleneck",
+        "url": "https://arxiv.org/abs/2611.08151",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T11:38:51Z"
+        "publishedAt": "2026-11-11T06:46:23Z"
       },
       {
-        "title": "Siemens planning acquisition of Lauterbach (debug/trace tools)",
-        "url": "https://press.siemens.com/global/en/pressrelease/siemens-expand-portfolio-semiconductor-design-and-verification-planned-acquisition",
+        "title": "Show HN: Socialize/Presence multiplayer interaction on blog posts",
+        "url": "https://namar0x0309.com/blog/2026/05/the-kind-of-ai-adoption-i-actually-believe-in/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T10:35:57Z"
+        "publishedAt": "2026-11-10T23:21:13Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Ukraine's Fiber-Optic Drones Compete with Data Centers for Optical Fiber Supply",
-        "url": "https://epyhia.com/ukraine-s-fiber-optic-drones-compete-with-ai-data-centers-for-china-s",
+        "title": "SPF Supply Chain 2026: Email Sender Market Share Across 5.5M Domains",
+        "url": "https://dmarcguard.io/research/spf-supply-chain/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T13:33:29Z"
+        "publishedAt": "2026-11-11T13:05:16Z"
       },
       {
-        "title": "Music For Robots – 26 unquantized acoustic tracks for multimodal LLM evaluation",
-        "url": "https://github.com/luchtan-GIT/m4r-data",
+        "title": "I 3D printed a car from scratch, and it's road legal in California",
+        "url": "https://www.reddit.com/r/3Dprinting/s/3CUDuPq6Dq",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T11:26:42Z"
+        "publishedAt": "2026-11-11T03:56:03Z"
       },
       {
-        "title": "Supply chain attack on Qubole customers",
-        "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
+        "title": "Ask HN: Do you believe RSI is possible?",
+        "url": "https://news.ycombinator.com/item?id=50447699",
         "source": "Hacker News",
-        "publishedAt": "2026-11-09T21:07:26Z"
+        "publishedAt": "2026-11-10T23:18:43Z"
       }
     ],
     "new-innovation": [
+      {
+        "title": "Val Town is winding down",
+        "url": "https://twitter.com/stevekrouse/status/2120201479646515261",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-10T17:46:50Z"
+      },
+      {
+        "title": "macOS Is Now Running on an iPhone",
+        "url": "https://news.ycombinator.com/item?id=50441301",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-10T14:57:38Z"
+      },
       {
         "title": "Ask HN: What other tools similar to Alibaba OCR do people use with LLMs?",
         "url": "https://news.ycombinator.com/item?id=50439324",
         "source": "Hacker News",
         "publishedAt": "2026-11-10T12:23:42Z"
-      },
-      {
-        "title": "Show HN: Eigin. Local-first and no-shell personal AI for iOS",
-        "url": "https://github.com/Eigin-AI/Eigin",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-10T12:00:34Z"
-      },
-      {
-        "title": "Show HN: Android and iOS games running offline in the browser",
-        "url": "https://phoam.app/demos",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-10T05:49:45Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-        "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
+        "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+        "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
         "source": "SpaceNews",
-        "publishedAt": "2026-11-10T14:00:00Z"
+        "publishedAt": "2026-11-11T13:00:00Z"
       },
       {
-        "title": "ESCAPADE on its way to Mars after Earth flybys",
-        "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
-        "source": "SpaceNews",
-        "publishedAt": "2026-11-10T08:01:39Z"
-      },
-      {
-        "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
-        "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
+        "title": "Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany",
+        "url": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/",
         "source": "European Spaceflight",
-        "publishedAt": "2026-11-10T07:04:22Z"
+        "publishedAt": "2026-11-11T07:00:36Z"
+      },
+      {
+        "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+        "source": "NASA",
+        "publishedAt": "2026-11-11T05:05:00Z"
       }
     ]
   }
