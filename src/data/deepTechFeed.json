@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-11-11T13:29:18.236Z",
+  "generatedAt": "2026-11-12T14:33:32.772Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Big Pharma subsidizes biotech investors",
+        "url": "https://www.baybridgebio.com/blog/ipo_ma_dependence",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-12T01:16:25Z"
+      },
       {
         "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
         "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
@@ -13,92 +19,86 @@
         "url": "https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md",
         "source": "Hacker News",
         "publishedAt": "2026-11-08T13:12:16Z"
-      },
-      {
-        "title": "Epileptic seizures nearly vanish after people receive experimental gene therapy",
-        "url": "https://www.nature.com/articles/d41586-026-03566-2",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-05T15:39:24Z"
       }
     ],
     "computing": [
       {
-        "title": "America Helped China Catch Up in the AI Race Ft. Kai-Fu Lee [video]",
-        "url": "https://www.youtube.com/watch?v=3FggIG156Ds",
+        "title": "Show HN: Vibetime – see what you ship when coding with AI agents",
+        "url": "https://github.com/iamnotstatic/vibetime",
         "source": "Hacker News",
-        "publishedAt": "2026-11-11T09:10:08Z"
+        "publishedAt": "2026-11-12T13:07:34Z"
       },
       {
-        "title": "AI Cracks a Quantum Computing Bottleneck",
-        "url": "https://arxiv.org/abs/2611.08151",
+        "title": "Why Every AI Model Will Ship as a Torrent",
+        "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
         "source": "Hacker News",
-        "publishedAt": "2026-11-11T06:46:23Z"
+        "publishedAt": "2026-11-12T07:20:22Z"
       },
       {
-        "title": "Show HN: Socialize/Presence multiplayer interaction on blog posts",
-        "url": "https://namar0x0309.com/blog/2026/05/the-kind-of-ai-adoption-i-actually-believe-in/",
+        "title": "Show HN: App to help parents find, plan, and review outings with their kids",
+        "url": "https://sproutings.app/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T23:21:13Z"
+        "publishedAt": "2026-11-12T03:31:00Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "SPF Supply Chain 2026: Email Sender Market Share Across 5.5M Domains",
-        "url": "https://dmarcguard.io/research/spf-supply-chain/",
+        "title": "Ask HN: What is holding back robots from being deployed everywhere?",
+        "url": "https://news.ycombinator.com/item?id=50466520",
         "source": "Hacker News",
-        "publishedAt": "2026-11-11T13:05:16Z"
+        "publishedAt": "2026-11-12T13:02:46Z"
       },
       {
-        "title": "I 3D printed a car from scratch, and it's road legal in California",
-        "url": "https://www.reddit.com/r/3Dprinting/s/3CUDuPq6Dq",
+        "title": "Ring Robotics",
+        "url": "https://ring.com/ring-robotics",
         "source": "Hacker News",
-        "publishedAt": "2026-11-11T03:56:03Z"
+        "publishedAt": "2026-11-12T03:31:04Z"
       },
       {
-        "title": "Ask HN: Do you believe RSI is possible?",
-        "url": "https://news.ycombinator.com/item?id=50447699",
+        "title": "Securing Rust's supply chain with an extended standard library",
+        "url": "https://kerkour.com/rust-supply-chain-security-stdx",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T23:18:43Z"
+        "publishedAt": "2026-11-12T01:54:09Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Val Town is winding down",
-        "url": "https://twitter.com/stevekrouse/status/2120201479646515261",
+        "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+        "url": "https://github.com/DaleFranks/ramasite",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T17:46:50Z"
+        "publishedAt": "2026-11-12T02:53:22Z"
       },
       {
-        "title": "macOS Is Now Running on an iPhone",
-        "url": "https://news.ycombinator.com/item?id=50441301",
+        "title": "Show HN: I created a library for correctly using SQLite in Go programs",
+        "url": "https://github.com/cattlecloud/litesql",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T14:57:38Z"
+        "publishedAt": "2026-11-11T13:30:26Z"
       },
       {
-        "title": "Ask HN: What other tools similar to Alibaba OCR do people use with LLMs?",
-        "url": "https://news.ycombinator.com/item?id=50439324",
+        "title": "Show HN: Eigin. Local-first and no-shell personal AI for iOS",
+        "url": "https://github.com/Eigin-AI/Eigin",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T12:23:42Z"
+        "publishedAt": "2026-11-10T12:00:34Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
-        "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
-        "source": "SpaceNews",
-        "publishedAt": "2026-11-11T13:00:00Z"
+        "title": "How ESA astronauts return from space",
+        "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space",
+        "source": "ESA",
+        "publishedAt": "2026-11-12T13:51:57Z"
       },
       {
-        "title": "Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany",
-        "url": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-11-11T07:00:36Z"
+        "title": "ESA astronaut reserve celebrates completion of training",
+        "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training",
+        "source": "ESA",
+        "publishedAt": "2026-11-12T13:47:11Z"
       },
       {
-        "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+        "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
         "source": "NASA",
-        "publishedAt": "2026-11-11T05:05:00Z"
+        "publishedAt": "2026-11-12T13:18:40Z"
       }
     ]
   }
