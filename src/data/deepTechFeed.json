@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-11-12T14:33:32.772Z",
+  "generatedAt": "2026-11-13T13:52:07.487Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Show HN: Sorleed – Source-first React and CSS UI components for fintech",
+        "url": "https://sorleed.com/",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-13T12:00:39Z"
+      },
       {
         "title": "Big Pharma subsidizes biotech investors",
         "url": "https://www.baybridgebio.com/blog/ipo_ma_dependence",
@@ -13,92 +19,86 @@
         "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
         "source": "Hacker News",
         "publishedAt": "2026-11-11T02:57:08Z"
-      },
-      {
-        "title": "A 3-Line Torus Geometry Proof Wrecked OpenAI's $100B Biotech Venture",
-        "url": "https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-08T13:12:16Z"
       }
     ],
     "computing": [
       {
-        "title": "Show HN: Vibetime – see what you ship when coding with AI agents",
-        "url": "https://github.com/iamnotstatic/vibetime",
+        "title": "Ask HN: How do you upgrade the models you run in production?",
+        "url": "https://news.ycombinator.com/item?id=50482881",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T13:07:34Z"
+        "publishedAt": "2026-11-13T12:59:06Z"
       },
       {
-        "title": "Why Every AI Model Will Ship as a Torrent",
-        "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+        "title": "Claude AI Is Down",
+        "url": "https://news.ycombinator.com/item?id=50480941",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T07:20:22Z"
+        "publishedAt": "2026-11-13T09:55:06Z"
       },
       {
-        "title": "Show HN: App to help parents find, plan, and review outings with their kids",
-        "url": "https://sproutings.app/",
+        "title": "EU leaders seek to tackle challenges at first ever AI summit",
+        "url": "https://www.reuters.com/world/china/eu-leaders-seek-tackle-challenges-first-ever-ai-summit-2026-11-13/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T03:31:00Z"
+        "publishedAt": "2026-11-13T09:45:14Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Ask HN: What is holding back robots from being deployed everywhere?",
-        "url": "https://news.ycombinator.com/item?id=50466520",
+        "title": "Show HN: AI-drop project – drop traffic fast from misbehaving crawlers (AGPL)",
+        "url": "https://rocketgit.com/user/catalinux/ai-drop",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T13:02:46Z"
+        "publishedAt": "2026-11-13T08:05:44Z"
       },
       {
-        "title": "Ring Robotics",
-        "url": "https://ring.com/ring-robotics",
+        "title": "PancakeSlicer: Self-hostable and non-planar slicer for 3D Printing",
+        "url": "https://github.com/ZimengXiong/PancakeSlicer",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T03:31:04Z"
+        "publishedAt": "2026-11-13T07:01:45Z"
       },
       {
-        "title": "Securing Rust's supply chain with an extended standard library",
-        "url": "https://kerkour.com/rust-supply-chain-security-stdx",
+        "title": "Show HN: Real-time inventory of natural stone slabs in US",
+        "url": "https://slabby.org/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T01:54:09Z"
+        "publishedAt": "2026-11-13T04:01:34Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
-        "url": "https://github.com/DaleFranks/ramasite",
+        "title": "Treating web animations as editable clips in a video timeline",
+        "url": "https://news.ycombinator.com/item?id=50481959",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T02:53:22Z"
+        "publishedAt": "2026-11-13T11:24:20Z"
       },
       {
-        "title": "Show HN: I created a library for correctly using SQLite in Go programs",
-        "url": "https://github.com/cattlecloud/litesql",
+        "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+        "url": "https://github.com/cerulion-inc/cerulion",
         "source": "Hacker News",
-        "publishedAt": "2026-11-11T13:30:26Z"
+        "publishedAt": "2026-11-12T20:53:04Z"
       },
       {
-        "title": "Show HN: Eigin. Local-first and no-shell personal AI for iOS",
-        "url": "https://github.com/Eigin-AI/Eigin",
+        "title": "Show HN: Kapso – Iterative learning from enterprise data",
+        "url": "https://news.ycombinator.com/item?id=50471281",
         "source": "Hacker News",
-        "publishedAt": "2026-11-10T12:00:34Z"
+        "publishedAt": "2026-11-12T17:51:23Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "How ESA astronauts return from space",
-        "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space",
-        "source": "ESA",
-        "publishedAt": "2026-11-12T13:51:57Z"
+        "title": "ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon",
+        "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+        "source": "Spaceflight Now",
+        "publishedAt": "2026-11-13T12:25:06Z"
       },
       {
-        "title": "ESA astronaut reserve celebrates completion of training",
-        "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training",
-        "source": "ESA",
-        "publishedAt": "2026-11-12T13:47:11Z"
+        "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+        "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+        "source": "Arstechnica",
+        "publishedAt": "2026-11-13T12:00:40Z"
       },
       {
-        "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-        "source": "NASA",
-        "publishedAt": "2026-11-12T13:18:40Z"
+        "title": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
+        "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-11-13T07:57:07Z"
       }
     ]
   }
