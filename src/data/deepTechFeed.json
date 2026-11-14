@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T13:52:07.487Z",
+  "generatedAt": "2026-11-14T12:54:51.409Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Show HN: Sorleed – Source-first React and CSS UI components for fintech",
-        "url": "https://sorleed.com/",
+        "title": "CRISPR therapy poised for first FDA approval to edit genes inside the body",
+        "url": "https://www.nature.com/articles/d41586-026-03705-9",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T12:00:39Z"
+        "publishedAt": "2026-11-13T16:32:26Z"
       },
       {
         "title": "Big Pharma subsidizes biotech investors",
@@ -15,90 +15,90 @@
         "publishedAt": "2026-11-12T01:16:25Z"
       },
       {
-        "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-        "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+        "title": "A 3-Line Torus Geometry Proof Wrecked OpenAI's $100B Biotech Venture",
+        "url": "https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md",
         "source": "Hacker News",
-        "publishedAt": "2026-11-11T02:57:08Z"
+        "publishedAt": "2026-11-08T13:12:16Z"
       }
     ],
     "computing": [
       {
-        "title": "Ask HN: How do you upgrade the models you run in production?",
-        "url": "https://news.ycombinator.com/item?id=50482881",
+        "title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine",
+        "url": "https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T12:59:06Z"
+        "publishedAt": "2026-11-14T10:28:28Z"
       },
       {
-        "title": "Claude AI Is Down",
-        "url": "https://news.ycombinator.com/item?id=50480941",
+        "title": "Making Software – Quantum Computing",
+        "url": "https://www.makingsoftware.com/chapters/quantum-computing",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T09:55:06Z"
+        "publishedAt": "2026-11-14T01:38:05Z"
       },
       {
-        "title": "EU leaders seek to tackle challenges at first ever AI summit",
-        "url": "https://www.reuters.com/world/china/eu-leaders-seek-tackle-challenges-first-ever-ai-summit-2026-11-13/",
+        "title": "ChipAgents – The agentic foundation for semiconductor design (AI for IC design)",
+        "url": "https://chipagents.ai/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T09:45:14Z"
+        "publishedAt": "2026-11-14T00:42:10Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Show HN: AI-drop project – drop traffic fast from misbehaving crawlers (AGPL)",
-        "url": "https://rocketgit.com/user/catalinux/ai-drop",
+        "title": "The true fragility of the semiconductor supply chain",
+        "url": "https://haddyalchaer.com/supply-chain",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T08:05:44Z"
+        "publishedAt": "2026-11-13T18:12:40Z"
       },
       {
-        "title": "PancakeSlicer: Self-hostable and non-planar slicer for 3D Printing",
-        "url": "https://github.com/ZimengXiong/PancakeSlicer",
+        "title": "Serve Robotics Opens Its Robot Delivery Network for Anyone to Build On",
+        "url": "https://investors.serverobotics.com/news-releases/news-release-details/serve-robotics-opens-its-robot-delivery-network-anyone-build",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T07:01:45Z"
+        "publishedAt": "2026-11-13T18:10:03Z"
       },
       {
-        "title": "Show HN: Real-time inventory of natural stone slabs in US",
-        "url": "https://slabby.org/",
+        "title": "Over 90% of China's solar supply chain is reporting losses",
+        "url": "https://pv-magazine-usa.com/2026/11/12/over-90-of-chinas-solar-supply-chain-is-reporting-losses-says-iea/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T04:01:34Z"
+        "publishedAt": "2026-11-13T17:57:47Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Treating web animations as editable clips in a video timeline",
-        "url": "https://news.ycombinator.com/item?id=50481959",
+        "title": "Show HN: Orty – AI lead qualification for freelancers",
+        "url": "https://getorty.work",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T11:24:20Z"
+        "publishedAt": "2026-11-14T10:40:41Z"
       },
       {
-        "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
-        "url": "https://github.com/cerulion-inc/cerulion",
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T20:53:04Z"
+        "publishedAt": "2026-11-14T02:52:59Z"
       },
       {
-        "title": "Show HN: Kapso – Iterative learning from enterprise data",
-        "url": "https://news.ycombinator.com/item?id=50471281",
+        "title": "Using LLMs outside of reflection is an anti-pattern",
+        "url": "https://news.ycombinator.com/item?id=50489240",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T17:51:23Z"
+        "publishedAt": "2026-11-13T20:32:40Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon",
-        "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-        "source": "Spaceflight Now",
-        "publishedAt": "2026-11-13T12:25:06Z"
-      },
-      {
-        "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-        "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
-        "source": "Arstechnica",
-        "publishedAt": "2026-11-13T12:00:40Z"
-      },
-      {
-        "title": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
-        "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
+        "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
+        "url": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/",
         "source": "European Spaceflight",
-        "publishedAt": "2026-11-13T07:57:07Z"
+        "publishedAt": "2026-11-14T06:00:41Z"
+      },
+      {
+        "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+        "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+        "source": "Arstechnica",
+        "publishedAt": "2026-11-14T00:49:13Z"
+      },
+      {
+        "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
+        "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
+        "source": "SpacePolicyOnline.com",
+        "publishedAt": "2026-11-13T23:54:54Z"
       }
     ]
   }
