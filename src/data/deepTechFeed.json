@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-11-14T12:54:51.409Z",
+  "generatedAt": "2026-11-15T13:23:48.101Z",
   "domains": {
     "healthcare": [
+      {
+        "title": "Anthropic bought a one-person, AI-powered biotech",
+        "url": "https://www.nature.com/articles/d41586-026-03640-9",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-15T04:01:16Z"
+      },
       {
         "title": "CRISPR therapy poised for first FDA approval to edit genes inside the body",
         "url": "https://www.nature.com/articles/d41586-026-03705-9",
@@ -13,92 +19,86 @@
         "url": "https://www.baybridgebio.com/blog/ipo_ma_dependence",
         "source": "Hacker News",
         "publishedAt": "2026-11-12T01:16:25Z"
-      },
-      {
-        "title": "A 3-Line Torus Geometry Proof Wrecked OpenAI's $100B Biotech Venture",
-        "url": "https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-08T13:12:16Z"
       }
     ],
     "computing": [
       {
-        "title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine",
-        "url": "https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b",
+        "title": "Show HN: A blog on how computers work from scratch (1)",
+        "url": "https://dinank.dev/posts/between-wall-and-first-fetch.html",
         "source": "Hacker News",
-        "publishedAt": "2026-11-14T10:28:28Z"
+        "publishedAt": "2026-11-15T04:07:31Z"
       },
       {
-        "title": "Making Software – Quantum Computing",
-        "url": "https://www.makingsoftware.com/chapters/quantum-computing",
+        "title": "Si2 – Advancing Semiconductor Design from Transistors to 3D ICs (Non-Profit Org)",
+        "url": "https://si2.org/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-14T01:38:05Z"
+        "publishedAt": "2026-11-14T23:25:51Z"
       },
       {
-        "title": "ChipAgents – The agentic foundation for semiconductor design (AI for IC design)",
-        "url": "https://chipagents.ai/",
+        "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
         "source": "Hacker News",
-        "publishedAt": "2026-11-14T00:42:10Z"
+        "publishedAt": "2026-11-14T15:58:57Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "The true fragility of the semiconductor supply chain",
-        "url": "https://haddyalchaer.com/supply-chain",
+        "title": "Periodic-Oriented Programming for First Robotics",
+        "url": "https://bvisness.me/periodic-oriented-programming/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T18:12:40Z"
+        "publishedAt": "2026-11-15T09:48:30Z"
       },
       {
-        "title": "Serve Robotics Opens Its Robot Delivery Network for Anyone to Build On",
-        "url": "https://investors.serverobotics.com/news-releases/news-release-details/serve-robotics-opens-its-robot-delivery-network-anyone-build",
+        "title": "SuperMimic: Compute is no longer the bottleneck to robotics",
+        "url": "https://supermimic.github.io/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T18:10:03Z"
+        "publishedAt": "2026-11-15T03:59:45Z"
       },
       {
-        "title": "Over 90% of China's solar supply chain is reporting losses",
-        "url": "https://pv-magazine-usa.com/2026/11/12/over-90-of-chinas-solar-supply-chain-is-reporting-losses-says-iea/",
+        "title": "Show HN: WendyOS, Linux for robots with USB-C deployment and rollback updates",
+        "url": "https://docs.wendy.dev/latest/getting-started/app/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T17:57:47Z"
+        "publishedAt": "2026-11-15T00:18:17Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Orty – AI lead qualification for freelancers",
-        "url": "https://getorty.work",
+        "title": "Anthropic, can you please make up your mind with your models?",
+        "url": "https://news.ycombinator.com/item?id=50504061",
         "source": "Hacker News",
-        "publishedAt": "2026-11-14T10:40:41Z"
+        "publishedAt": "2026-11-15T04:36:59Z"
       },
       {
-        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "title": "The AI graveyard: A running list of projects and startups that didn't make it",
+        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-14T02:52:59Z"
+        "publishedAt": "2026-11-14T23:05:00Z"
       },
       {
-        "title": "Using LLMs outside of reflection is an anti-pattern",
-        "url": "https://news.ycombinator.com/item?id=50489240",
+        "title": "Jensen Huang's departure blasts big hole in AI startup funding",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T20:32:40Z"
+        "publishedAt": "2026-11-14T16:52:24Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
-        "url": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-11-14T06:00:41Z"
+        "title": "APOD: 2026 November 15 – Leonid Meteors Through Orion",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/",
+        "source": "NASA",
+        "publishedAt": "2026-11-15T05:05:00Z"
       },
       {
-        "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-        "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+        "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+        "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
         "source": "Arstechnica",
-        "publishedAt": "2026-11-14T00:49:13Z"
+        "publishedAt": "2026-11-15T00:40:59Z"
       },
       {
-        "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
-        "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
+        "title": "SpaceX Catches a Starship",
+        "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
         "source": "SpacePolicyOnline.com",
-        "publishedAt": "2026-11-13T23:54:54Z"
+        "publishedAt": "2026-11-14T21:53:18Z"
       }
     ]
   }
