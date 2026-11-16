@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T13:23:48.101Z",
+  "generatedAt": "2026-11-16T14:39:22.924Z",
   "domains": {
     "healthcare": [
       {
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "Show HN: A blog on how computers work from scratch (1)",
-        "url": "https://dinank.dev/posts/between-wall-and-first-fetch.html",
+        "title": "Plzdontkillus – experimental creator bootcamp about AI doom",
+        "url": "https://plzdontkillus.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-15T04:07:31Z"
+        "publishedAt": "2026-11-16T14:34:34Z"
       },
       {
-        "title": "Si2 – Advancing Semiconductor Design from Transistors to 3D ICs (Non-Profit Org)",
-        "url": "https://si2.org/",
+        "title": "U.S. Moves to Close A.I. Chip Loophole Ahead of China Trip",
+        "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
         "source": "Hacker News",
-        "publishedAt": "2026-11-14T23:25:51Z"
+        "publishedAt": "2026-11-16T14:34:29Z"
       },
       {
-        "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+        "title": "Nvidia ordered to explain $12B supply of AI chips to China",
+        "url": "https://www.thetimes.com/business/companies-markets/article/nvidia-jensen-huang-us-treasury-ai-chips-china-ckwd9037f",
         "source": "Hacker News",
-        "publishedAt": "2026-11-14T15:58:57Z"
+        "publishedAt": "2026-11-16T14:20:50Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Periodic-Oriented Programming for First Robotics",
-        "url": "https://bvisness.me/periodic-oriented-programming/",
+        "title": "Nvidia ordered to explain $12B supply of AI chips to China",
+        "url": "https://www.thetimes.com/business/companies-markets/article/nvidia-jensen-huang-us-treasury-ai-chips-china-ckwd9037f",
         "source": "Hacker News",
-        "publishedAt": "2026-11-15T09:48:30Z"
+        "publishedAt": "2026-11-16T14:20:50Z"
       },
       {
-        "title": "SuperMimic: Compute is no longer the bottleneck to robotics",
-        "url": "https://supermimic.github.io/",
+        "title": "Slam on Microduck with an 8×8 depth sensor",
+        "url": "https://pollen-robotics.com/microduck/blog/microduck-slam/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-15T03:59:45Z"
+        "publishedAt": "2026-11-16T14:00:15Z"
       },
       {
-        "title": "Show HN: WendyOS, Linux for robots with USB-C deployment and rollback updates",
-        "url": "https://docs.wendy.dev/latest/getting-started/app/",
+        "title": "Can robotics models control a 4200lb excavator?",
+        "url": "https://www.dreamscalelabs.com/blog/excavate/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-15T00:18:17Z"
+        "publishedAt": "2026-11-16T05:21:10Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Anthropic, can you please make up your mind with your models?",
-        "url": "https://news.ycombinator.com/item?id=50504061",
+        "title": "Show HN: Daventry.io – browser game engine inspired by Sierra, ZZT, and D&D",
+        "url": "https://daventry.io/making-of",
         "source": "Hacker News",
-        "publishedAt": "2026-11-15T04:36:59Z"
+        "publishedAt": "2026-11-16T13:18:16Z"
       },
       {
-        "title": "The AI graveyard: A running list of projects and startups that didn't make it",
-        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "title": "Running a 6M parameter model on a Game Boy",
+        "url": "https://twitter.com/timhwang/status/2122011842549600506",
         "source": "Hacker News",
-        "publishedAt": "2026-11-14T23:05:00Z"
+        "publishedAt": "2026-11-16T11:21:32Z"
       },
       {
-        "title": "Jensen Huang's departure blasts big hole in AI startup funding",
-        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "title": "Show HN: SecureVibe – Find and trace vulnerabilities before shipping",
+        "url": "https://securevibe-dev.vercel.app/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-14T16:52:24Z"
+        "publishedAt": "2026-11-15T14:31:46Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "APOD: 2026 November 15 – Leonid Meteors Through Orion",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/",
+        "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
         "source": "NASA",
-        "publishedAt": "2026-11-15T05:05:00Z"
+        "publishedAt": "2026-11-16T05:05:00Z"
       },
       {
-        "title": "With Starship catch, SpaceX still shows it can dazzle the world",
-        "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-        "source": "Arstechnica",
-        "publishedAt": "2026-11-15T00:40:59Z"
+        "title": "The Last Ice on Puncak Jaya",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+        "source": "NASA",
+        "publishedAt": "2026-11-16T05:00:00Z"
       },
       {
-        "title": "SpaceX Catches a Starship",
-        "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
+        "title": "What’s Happening in Space Policy November 15-21, 2026",
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/",
         "source": "SpacePolicyOnline.com",
-        "publishedAt": "2026-11-14T21:53:18Z"
+        "publishedAt": "2026-11-15T23:13:57Z"
       }
     ]
   }
