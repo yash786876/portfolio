@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:27:08.219Z",
+  "generatedAt": "2026-11-18T15:01:45.350Z",
   "domains": {
     "healthcare": [
       {
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "Jensen Huang Liked Selling China Advanced AI Chips",
-        "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
+        "title": "Dutch resist 'unacceptable' US bid to tighten semiconductor export controls",
+        "url": "https://www.politico.eu/article/dutch-resist-unacceptable-us-bid-to-tighten-semiconductor-export-controls-asml/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T14:43:18Z"
+        "publishedAt": "2026-11-18T13:46:35Z"
       },
       {
-        "title": "Show HN: Revix AI – PR review against the standards your repo follows",
-        "url": "https://www.revix.ai",
+        "title": "Framework for evaluating agentic systems: reliability, behavior, and readiness",
+        "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T14:11:52Z"
+        "publishedAt": "2026-11-18T13:22:21Z"
       },
       {
-        "title": "Show HN: LingDongNews, a small desktop news ticker for your own feeds",
-        "url": "https://github.com/yellinzero/lingdong-news/blob/main/README.en.md",
+        "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T10:15:32Z"
+        "publishedAt": "2026-11-18T09:11:42Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Supply Chain Attacks in Practice",
-        "url": "https://kerkour.com/supply-chain-attacks-in-practice",
+        "title": "Gemini 4 Hydrogen for Robotics",
+        "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T14:17:37Z"
+        "publishedAt": "2026-11-18T13:36:56Z"
       },
       {
-        "title": "China engineers behind J-35 fighter pioneer 3D-printed load-bearing structures",
-        "url": "https://www.tomshardware.com/3d-printing/china-engineers-behind-j-35-fighter-jet-pioneer-3d-printed-load-bearing-structures-in-military-aircraft-behemoth-16-4-foot-part-uses-segmented-printing-and-fusion-techniques",
+        "title": "Show HN: RoboFYI – Compare robot foundation models, datasets and hardware",
+        "url": "https://robofyi.com",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T11:26:16Z"
+        "publishedAt": "2026-11-18T12:38:42Z"
       },
       {
-        "title": "Aftermath of the Great Reset: The Era of Extensible Robotics",
-        "url": "https://breadcrumb.vc/aftermath-of-the-great-reset-the-era-of-extensible-robotics-537646d51cdb",
+        "title": "Show HN:openRocode–let multimodal models drive robots the way they use computers",
+        "url": "https://github.com/wrencanfly/openRocode/tree/main",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T09:35:59Z"
+        "publishedAt": "2026-11-18T08:26:24Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Revix AI – PR review against the standards your repo follows",
-        "url": "https://www.revix.ai",
+        "title": "How we ended up building a set of elite text humanizers",
+        "url": "https://news.ycombinator.com/item?id=50545764",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T14:11:52Z"
+        "publishedAt": "2026-11-18T12:56:29Z"
       },
       {
-        "title": "Ask HN: What's the new open source business model",
-        "url": "https://news.ycombinator.com/item?id=50529909",
+        "title": "Claude Gets Hella Paranoid",
+        "url": "https://news.ycombinator.com/item?id=50543947",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T11:07:18Z"
+        "publishedAt": "2026-11-18T09:24:58Z"
       },
       {
-        "title": "macOS Is Now Running on an iPhone",
-        "url": "https://twitter.com/qwerty__cs/status/2118784231107440838",
+        "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+        "url": "https://news.ycombinator.com/item?id=50536468",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T10:07:11Z"
+        "publishedAt": "2026-11-17T19:01:43Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
-        "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
+        "title": "PLD Space Investor Selects MIURA 5 to Launch Demo Mission",
+        "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
         "source": "European Spaceflight",
-        "publishedAt": "2026-11-17T08:08:40Z"
+        "publishedAt": "2026-11-18T07:25:17Z"
       },
       {
-        "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
-        "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
-        "source": "SpaceNews",
-        "publishedAt": "2026-11-17T08:00:00Z"
-      },
-      {
-        "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+        "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
         "source": "NASA",
-        "publishedAt": "2026-11-17T05:05:00Z"
+        "publishedAt": "2026-11-18T05:05:00Z"
+      },
+      {
+        "title": "Sierra Snow Season Spins Up",
+        "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+        "source": "NASA",
+        "publishedAt": "2026-11-18T05:01:00Z"
       }
     ]
   }
