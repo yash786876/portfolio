@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-11-18T15:01:45.350Z",
+  "generatedAt": "2026-11-19T15:10:49.527Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Anthropic bought a one-person, AI-powered biotech",
-        "url": "https://www.nature.com/articles/d41586-026-03640-9",
+        "title": "SlashCollect",
+        "url": "https://news.ycombinator.com/item?id=50557273",
         "source": "Hacker News",
-        "publishedAt": "2026-11-15T04:01:16Z"
+        "publishedAt": "2026-11-19T08:01:05Z"
       },
       {
-        "title": "CRISPR therapy poised for first FDA approval to edit genes inside the body",
-        "url": "https://www.nature.com/articles/d41586-026-03705-9",
+        "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
+        "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T16:32:26Z"
+        "publishedAt": "2026-11-18T19:38:44Z"
       },
       {
-        "title": "Big Pharma subsidizes biotech investors",
-        "url": "https://www.baybridgebio.com/blog/ipo_ma_dependence",
+        "title": "Software Engineering Is Becoming an Ideas Race",
+        "url": "https://codebycody.com/software-engineering-is-becoming-an-ideas-race/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-12T01:16:25Z"
+        "publishedAt": "2026-11-18T15:33:05Z"
       }
     ],
     "computing": [
       {
-        "title": "Dutch resist 'unacceptable' US bid to tighten semiconductor export controls",
-        "url": "https://www.politico.eu/article/dutch-resist-unacceptable-us-bid-to-tighten-semiconductor-export-controls-asml/",
+        "title": "Ask HN: How to stay disciplined if careless risk-taking keeps getting rewarded?",
+        "url": "https://news.ycombinator.com/item?id=50561078",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T13:46:35Z"
+        "publishedAt": "2026-11-19T15:06:03Z"
       },
       {
-        "title": "Framework for evaluating agentic systems: reliability, behavior, and readiness",
-        "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+        "title": "Not Out of Control: China's Cyber Campaigns",
+        "url": "https://www.interface-eu.org/publications/china-cyber-ai",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T13:22:21Z"
+        "publishedAt": "2026-11-19T13:31:04Z"
       },
       {
-        "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
+        "title": "Nvidia stops shipping US-approved AI chips to China",
+        "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T09:11:42Z"
+        "publishedAt": "2026-11-19T09:59:57Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Gemini 4 Hydrogen for Robotics",
-        "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+        "title": "Periodic-Oriented Programming for First Robotics",
+        "url": "https://bvisness.me/periodic-oriented-programming/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T13:36:56Z"
+        "publishedAt": "2026-11-19T07:44:40Z"
       },
       {
-        "title": "Show HN: RoboFYI – Compare robot foundation models, datasets and hardware",
-        "url": "https://robofyi.com",
+        "title": "Robotic Wood Mill, useful robots on the cheap",
+        "url": "https://last10pct.substack.com/p/making-a-robotic-wood-mill-completion",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T12:38:42Z"
+        "publishedAt": "2026-11-19T00:47:33Z"
       },
       {
-        "title": "Show HN:openRocode–let multimodal models drive robots the way they use computers",
-        "url": "https://github.com/wrencanfly/openRocode/tree/main",
+        "title": "Show HN: Try Vibe Robotics! (IRL or MuJoCo SIM)",
+        "url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T08:26:24Z"
+        "publishedAt": "2026-11-18T23:38:40Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "How we ended up building a set of elite text humanizers",
-        "url": "https://news.ycombinator.com/item?id=50545764",
+        "title": "Show HN: Git Hook for Model Identifation",
+        "url": "https://github.com/orsenthil/git-hook-model-identification",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T12:56:29Z"
+        "publishedAt": "2026-11-19T05:18:23Z"
       },
       {
-        "title": "Claude Gets Hella Paranoid",
-        "url": "https://news.ycombinator.com/item?id=50543947",
+        "title": "Show HN: GTA 6 is out, so I built an agent to do my job in Chrome",
+        "url": "https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T09:24:58Z"
+        "publishedAt": "2026-11-18T23:55:54Z"
       },
       {
-        "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-        "url": "https://news.ycombinator.com/item?id=50536468",
+        "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+        "url": "https://news.ycombinator.com/item?id=50549188",
         "source": "Hacker News",
-        "publishedAt": "2026-11-17T19:01:43Z"
+        "publishedAt": "2026-11-18T17:26:28Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "PLD Space Investor Selects MIURA 5 to Launch Demo Mission",
-        "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-11-18T07:25:17Z"
+        "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+        "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+        "source": "NASA",
+        "publishedAt": "2026-11-19T14:44:39Z"
       },
       {
-        "title": "APOD: 2026 November 18 – An M-class Solar Flare",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+        "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+        "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
         "source": "NASA",
-        "publishedAt": "2026-11-18T05:05:00Z"
+        "publishedAt": "2026-11-19T14:31:15Z"
       },
       {
-        "title": "Sierra Snow Season Spins Up",
-        "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-        "source": "NASA",
-        "publishedAt": "2026-11-18T05:01:00Z"
+        "title": "To make Moon landings easier, NASA is making life harder for Orion",
+        "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+        "source": "Arstechnica",
+        "publishedAt": "2026-11-19T13:40:02Z"
       }
     ]
   }
