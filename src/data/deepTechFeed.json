@@ -1,13 +1,7 @@
 {
-  "generatedAt": "2026-11-19T15:10:49.527Z",
+  "generatedAt": "2026-11-20T14:50:44.959Z",
   "domains": {
     "healthcare": [
-      {
-        "title": "SlashCollect",
-        "url": "https://news.ycombinator.com/item?id=50557273",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-19T08:01:05Z"
-      },
       {
         "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
         "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
@@ -15,90 +9,96 @@
         "publishedAt": "2026-11-18T19:38:44Z"
       },
       {
-        "title": "Software Engineering Is Becoming an Ideas Race",
-        "url": "https://codebycody.com/software-engineering-is-becoming-an-ideas-race/",
+        "title": "Anthropic bought a one-person, AI-powered biotech",
+        "url": "https://www.nature.com/articles/d41586-026-03640-9",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T15:33:05Z"
+        "publishedAt": "2026-11-15T04:01:16Z"
+      },
+      {
+        "title": "CRISPR therapy poised for first FDA approval to edit genes inside the body",
+        "url": "https://www.nature.com/articles/d41586-026-03705-9",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-13T16:32:26Z"
       }
     ],
     "computing": [
       {
-        "title": "Ask HN: How to stay disciplined if careless risk-taking keeps getting rewarded?",
-        "url": "https://news.ycombinator.com/item?id=50561078",
+        "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
+        "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
         "source": "Hacker News",
-        "publishedAt": "2026-11-19T15:06:03Z"
+        "publishedAt": "2026-11-20T14:15:42Z"
       },
       {
-        "title": "Not Out of Control: China's Cyber Campaigns",
-        "url": "https://www.interface-eu.org/publications/china-cyber-ai",
+        "title": "Cursor considering phasing out Chinese AI models",
+        "url": "https://www.cnbc.com/2026/11/20/cursor-",
         "source": "Hacker News",
-        "publishedAt": "2026-11-19T13:31:04Z"
+        "publishedAt": "2026-11-20T14:15:24Z"
       },
       {
-        "title": "Nvidia stops shipping US-approved AI chips to China",
-        "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/",
+        "title": "US Commerce approved sales of more than 879,000 AI chips to Chinese companies",
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
         "source": "Hacker News",
-        "publishedAt": "2026-11-19T09:59:57Z"
+        "publishedAt": "2026-11-20T14:14:05Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Periodic-Oriented Programming for First Robotics",
-        "url": "https://bvisness.me/periodic-oriented-programming/",
+        "title": "China blocks SoftBank's $5.4B takeover of ABB's robotics division",
+        "url": "https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-19T07:44:40Z"
+        "publishedAt": "2026-11-20T09:56:24Z"
       },
       {
-        "title": "Robotic Wood Mill, useful robots on the cheap",
-        "url": "https://last10pct.substack.com/p/making-a-robotic-wood-mill-completion",
+        "title": "Terrorist Hiring?",
+        "url": "https://roboticstechno.com/about",
         "source": "Hacker News",
-        "publishedAt": "2026-11-19T00:47:33Z"
+        "publishedAt": "2026-11-20T02:31:50Z"
       },
       {
-        "title": "Show HN: Try Vibe Robotics! (IRL or MuJoCo SIM)",
-        "url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
+        "title": "At Apple, the robots are coming",
+        "url": "https://www.computerworld.com/article/4250765/at-apple-the-robots-are-coming.html",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T23:38:40Z"
+        "publishedAt": "2026-11-19T20:53:47Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: Git Hook for Model Identifation",
-        "url": "https://github.com/orsenthil/git-hook-model-identification",
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "url": "https://github.com/onlook-dev/onlook/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-19T05:18:23Z"
-      },
-      {
-        "title": "Show HN: GTA 6 is out, so I built an agent to do my job in Chrome",
-        "url": "https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-18T23:55:54Z"
+        "publishedAt": "2026-11-19T16:34:04Z"
       },
       {
         "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
         "url": "https://news.ycombinator.com/item?id=50549188",
         "source": "Hacker News",
         "publishedAt": "2026-11-18T17:26:28Z"
+      },
+      {
+        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+        "url": "https://news.ycombinator.com/item?id=50548660",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-18T16:53:42Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
-        "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
-        "source": "NASA",
-        "publishedAt": "2026-11-19T14:44:39Z"
+        "title": "Danish Soldiers Are Sneaking Starlink Terminals into Greenland",
+        "url": "https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/",
+        "source": "European Spaceflight",
+        "publishedAt": "2026-11-20T07:09:49Z"
       },
       {
-        "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
-        "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+        "title": "APOD: 2026 November 20 – V-G-R",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
         "source": "NASA",
-        "publishedAt": "2026-11-19T14:31:15Z"
+        "publishedAt": "2026-11-20T05:05:00Z"
       },
       {
-        "title": "To make Moon landings easier, NASA is making life harder for Orion",
-        "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-        "source": "Arstechnica",
-        "publishedAt": "2026-11-19T13:40:02Z"
+        "title": "The Stormy Southwest Pacific",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+        "source": "NASA",
+        "publishedAt": "2026-11-20T05:01:00Z"
       }
     ]
   }
