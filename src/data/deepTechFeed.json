@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-11-20T14:50:44.959Z",
+  "generatedAt": "2026-11-21T14:08:13.527Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
-        "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
+        "title": "Biochar and River Mud Recycling Cut Emissions in Traditional Silk Dyeing",
+        "url": "https://bioengineer.org/biochar-and-river-mud-recycling-cut-emissions-in-traditional-silk-dyeing/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T19:38:44Z"
+        "publishedAt": "2026-11-21T10:38:40Z"
       },
       {
-        "title": "Anthropic bought a one-person, AI-powered biotech",
-        "url": "https://www.nature.com/articles/d41586-026-03640-9",
+        "title": "Ask HN: Solo dev at an early-stage startup (4 YoE). How to land mid-level roles?",
+        "url": "https://news.ycombinator.com/item?id=50587779",
         "source": "Hacker News",
-        "publishedAt": "2026-11-15T04:01:16Z"
+        "publishedAt": "2026-11-21T10:20:04Z"
       },
       {
-        "title": "CRISPR therapy poised for first FDA approval to edit genes inside the body",
-        "url": "https://www.nature.com/articles/d41586-026-03705-9",
+        "title": "Show HN: Nunya – A \"digital privacy screen\" that makes text illegible from afar",
+        "url": "https://usenunya.com/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-13T16:32:26Z"
+        "publishedAt": "2026-11-20T15:51:12Z"
       }
     ],
     "computing": [
       {
-        "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
-        "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+        "title": "Chinese-nexus actor's Cairn AI agents found a zero-day on their own",
+        "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-20T14:15:42Z"
+        "publishedAt": "2026-11-21T13:29:07Z"
       },
       {
-        "title": "Cursor considering phasing out Chinese AI models",
-        "url": "https://www.cnbc.com/2026/11/20/cursor-",
+        "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+        "url": "https://github.com/Musset-App/musset",
         "source": "Hacker News",
-        "publishedAt": "2026-11-20T14:15:24Z"
+        "publishedAt": "2026-11-21T05:42:49Z"
       },
       {
-        "title": "US Commerce approved sales of more than 879,000 AI chips to Chinese companies",
-        "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+        "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
+        "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
         "source": "Hacker News",
-        "publishedAt": "2026-11-20T14:14:05Z"
+        "publishedAt": "2026-11-21T01:03:45Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "China blocks SoftBank's $5.4B takeover of ABB's robotics division",
-        "url": "https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/",
+        "title": "'The doom of humanity': will the quest to make robotic hands render us obsolete?",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
         "source": "Hacker News",
-        "publishedAt": "2026-11-20T09:56:24Z"
+        "publishedAt": "2026-11-21T11:09:57Z"
       },
       {
-        "title": "Terrorist Hiring?",
-        "url": "https://roboticstechno.com/about",
+        "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
         "source": "Hacker News",
-        "publishedAt": "2026-11-20T02:31:50Z"
+        "publishedAt": "2026-11-21T09:26:37Z"
       },
       {
-        "title": "At Apple, the robots are coming",
-        "url": "https://www.computerworld.com/article/4250765/at-apple-the-robots-are-coming.html",
+        "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+        "url": "https://mit-han-lab.github.io/pear-blog/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-19T20:53:47Z"
+        "publishedAt": "2026-11-21T03:12:33Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-        "url": "https://github.com/onlook-dev/onlook/",
+        "title": "Ask HN: Solo dev at an early-stage startup (4 YoE). How to land mid-level roles?",
+        "url": "https://news.ycombinator.com/item?id=50587779",
         "source": "Hacker News",
-        "publishedAt": "2026-11-19T16:34:04Z"
+        "publishedAt": "2026-11-21T10:20:04Z"
       },
       {
-        "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-        "url": "https://news.ycombinator.com/item?id=50549188",
+        "title": "How do we get 1 TW a year of orbital compute by 2035?",
+        "url": "https://news.ycombinator.com/item?id=50585530",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T17:26:28Z"
+        "publishedAt": "2026-11-21T03:11:47Z"
       },
       {
-        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-        "url": "https://news.ycombinator.com/item?id=50548660",
+        "title": "Show HN: Jam – A music making game where you play gigs to earn studio gear",
+        "url": "https://jam.resonantdsp.com",
         "source": "Hacker News",
-        "publishedAt": "2026-11-18T16:53:42Z"
+        "publishedAt": "2026-11-20T23:51:32Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "Danish Soldiers Are Sneaking Starlink Terminals into Greenland",
-        "url": "https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/",
+        "title": "Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission",
+        "url": "https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/",
         "source": "European Spaceflight",
-        "publishedAt": "2026-11-20T07:09:49Z"
+        "publishedAt": "2026-11-21T06:00:35Z"
       },
       {
-        "title": "APOD: 2026 November 20 – V-G-R",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+        "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
         "source": "NASA",
-        "publishedAt": "2026-11-20T05:05:00Z"
+        "publishedAt": "2026-11-21T05:05:00Z"
       },
       {
-        "title": "The Stormy Southwest Pacific",
-        "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+        "title": "Curiosity Spots Drifting Twilight Clouds",
+        "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
         "source": "NASA",
-        "publishedAt": "2026-11-20T05:01:00Z"
+        "publishedAt": "2026-11-20T22:27:05Z"
       }
     ]
   }
