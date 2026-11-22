@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:08:13.527Z",
+  "generatedAt": "2026-11-22T13:58:44.939Z",
   "domains": {
     "healthcare": [
       {
@@ -9,96 +9,96 @@
         "publishedAt": "2026-11-21T10:38:40Z"
       },
       {
-        "title": "Ask HN: Solo dev at an early-stage startup (4 YoE). How to land mid-level roles?",
-        "url": "https://news.ycombinator.com/item?id=50587779",
+        "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
+        "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T10:20:04Z"
+        "publishedAt": "2026-11-18T19:38:44Z"
       },
       {
-        "title": "Show HN: Nunya – A \"digital privacy screen\" that makes text illegible from afar",
-        "url": "https://usenunya.com/",
+        "title": "Anthropic bought a one-person, AI-powered biotech",
+        "url": "https://www.nature.com/articles/d41586-026-03640-9",
         "source": "Hacker News",
-        "publishedAt": "2026-11-20T15:51:12Z"
+        "publishedAt": "2026-11-15T04:01:16Z"
       }
     ],
     "computing": [
       {
-        "title": "Chinese-nexus actor's Cairn AI agents found a zero-day on their own",
-        "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
+        "title": "By attacking Chinese Al industry, the US has burst its own Al bubble",
+        "url": "https://www.china-translated.com/p/by-attacking-chinese-ai-industry",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T13:29:07Z"
+        "publishedAt": "2026-11-22T11:35:11Z"
       },
       {
-        "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
-        "url": "https://github.com/Musset-App/musset",
+        "title": "The quantum computing race is becoming a deployment race",
+        "url": "https://www.techradar.com/pro/the-quantum-computing-race-is-becoming-a-deployment-race",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T05:42:49Z"
+        "publishedAt": "2026-11-22T05:50:20Z"
       },
       {
-        "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
-        "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+        "title": "Apple's iPhone camera chief, an opponent of AI-altered photos, has retired",
+        "url": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T01:03:45Z"
+        "publishedAt": "2026-11-22T01:29:23Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "'The doom of humanity': will the quest to make robotic hands render us obsolete?",
-        "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+        "title": "Show HN: A free website check that starts from what your buyers search",
+        "url": "https://meetadmiral.com/website-seo-checker",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T11:09:57Z"
+        "publishedAt": "2026-11-22T12:02:25Z"
       },
       {
-        "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+        "title": "AI Supply Chain Security: What Canary Tokens Found",
         "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T09:26:37Z"
+        "publishedAt": "2026-11-22T05:11:43Z"
       },
       {
-        "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
-        "url": "https://mit-han-lab.github.io/pear-blog/",
+        "title": "Zero retention AI providers caught logging prompts",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T03:12:33Z"
+        "publishedAt": "2026-11-21T18:04:54Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Ask HN: Solo dev at an early-stage startup (4 YoE). How to land mid-level roles?",
-        "url": "https://news.ycombinator.com/item?id=50587779",
+        "title": "Six studies by Spain's 'top emerging scientist' retracted over irregularities",
+        "url": "https://english.elpais.com/science-tech/2026-11-17/six-studies-by-daniel-balsalobre-spains-number-1-emerging-scientist-are-retracted-due-to-irregularities.html",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T10:20:04Z"
+        "publishedAt": "2026-11-21T17:20:51Z"
       },
       {
-        "title": "How do we get 1 TW a year of orbital compute by 2035?",
-        "url": "https://news.ycombinator.com/item?id=50585530",
+        "title": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
+        "url": "https://klistra.ai",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T03:11:47Z"
+        "publishedAt": "2026-11-21T15:06:53Z"
       },
       {
-        "title": "Show HN: Jam – A music making game where you play gigs to earn studio gear",
-        "url": "https://jam.resonantdsp.com",
+        "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+        "url": "https://news.ycombinator.com/item?id=50583761",
         "source": "Hacker News",
-        "publishedAt": "2026-11-20T23:51:32Z"
+        "publishedAt": "2026-11-20T23:18:32Z"
       }
     ],
     "out-of-this-world": [
+      {
+        "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+        "source": "NASA",
+        "publishedAt": "2026-11-22T05:05:00Z"
+      },
+      {
+        "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+        "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+        "source": "Spaceflight Now",
+        "publishedAt": "2026-11-21T16:50:51Z"
+      },
       {
         "title": "Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission",
         "url": "https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/",
         "source": "European Spaceflight",
         "publishedAt": "2026-11-21T06:00:35Z"
-      },
-      {
-        "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-        "source": "NASA",
-        "publishedAt": "2026-11-21T05:05:00Z"
-      },
-      {
-        "title": "Curiosity Spots Drifting Twilight Clouds",
-        "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-        "source": "NASA",
-        "publishedAt": "2026-11-20T22:27:05Z"
       }
     ]
   }
