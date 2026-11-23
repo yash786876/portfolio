@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-11-22T13:58:44.939Z",
+  "generatedAt": "2026-11-23T17:16:25.390Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Biochar and River Mud Recycling Cut Emissions in Traditional Silk Dyeing",
-        "url": "https://bioengineer.org/biochar-and-river-mud-recycling-cut-emissions-in-traditional-silk-dyeing/",
+        "title": "Ask HN: Solo dev at an early-stage startup (4 YoE). How to land mid-level roles?",
+        "url": "https://news.ycombinator.com/item?id=50587779",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T10:38:40Z"
+        "publishedAt": "2026-11-21T10:20:04Z"
+      },
+      {
+        "title": "SlashCollect",
+        "url": "https://news.ycombinator.com/item?id=50557273",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-19T08:01:05Z"
       },
       {
         "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
         "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
         "source": "Hacker News",
         "publishedAt": "2026-11-18T19:38:44Z"
-      },
-      {
-        "title": "Anthropic bought a one-person, AI-powered biotech",
-        "url": "https://www.nature.com/articles/d41586-026-03640-9",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-15T04:01:16Z"
       }
     ],
     "computing": [
       {
-        "title": "By attacking Chinese Al industry, the US has burst its own Al bubble",
-        "url": "https://www.china-translated.com/p/by-attacking-chinese-ai-industry",
+        "title": "Show HN: A free creative suite, built in Rust, for AI collaboration",
+        "url": "https://codeyam.com/apps/cadyam",
         "source": "Hacker News",
-        "publishedAt": "2026-11-22T11:35:11Z"
+        "publishedAt": "2026-11-23T16:17:11Z"
       },
       {
-        "title": "The quantum computing race is becoming a deployment race",
-        "url": "https://www.techradar.com/pro/the-quantum-computing-race-is-becoming-a-deployment-race",
+        "title": "EasyPost (YC S13) Files for IPO",
+        "url": "https://www.businesswire.com/news/home/20261118748771/en/EasyPost-the-Leading-Shipping-AI-and-API-Platform-for-Modern-Commerce-to-Go-Public-on-Nasdaq-Through-Business-Combination-with-American-Drive-Acquisition-Company",
         "source": "Hacker News",
-        "publishedAt": "2026-11-22T05:50:20Z"
+        "publishedAt": "2026-11-23T16:10:47Z"
       },
       {
-        "title": "Apple's iPhone camera chief, an opponent of AI-altered photos, has retired",
-        "url": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
+        "title": "Show HN: SecureVibe – Find and trace vulnerabilities for vibe coded apps",
+        "url": "https://securevibe-dev.vercel.app/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-22T01:29:23Z"
+        "publishedAt": "2026-11-23T14:53:05Z"
       }
     ],
     "manufacturing": [
+      {
+        "title": "Show HN: Browser-only STEP, STL, 3MF and OBJ tools for 3D printing",
+        "url": "https://addercad.com/tools",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-23T08:03:34Z"
+      },
+      {
+        "title": "Ask HN: Are the trades a safe career transition?",
+        "url": "https://news.ycombinator.com/item?id=50600771",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-22T15:52:33Z"
+      },
       {
         "title": "Show HN: A free website check that starts from what your buyers search",
         "url": "https://meetadmiral.com/website-seo-checker",
         "source": "Hacker News",
         "publishedAt": "2026-11-22T12:02:25Z"
-      },
-      {
-        "title": "AI Supply Chain Security: What Canary Tokens Found",
-        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-22T05:11:43Z"
-      },
-      {
-        "title": "Zero retention AI providers caught logging prompts",
-        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-        "source": "Hacker News",
-        "publishedAt": "2026-11-21T18:04:54Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Six studies by Spain's 'top emerging scientist' retracted over irregularities",
-        "url": "https://english.elpais.com/science-tech/2026-11-17/six-studies-by-daniel-balsalobre-spains-number-1-emerging-scientist-are-retracted-due-to-irregularities.html",
+        "title": "Show HN: I built Maeto, an SRv6 SD-WAN from scratch on Linux that you can break",
+        "url": "https://maeto.saphal.me/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T17:20:51Z"
+        "publishedAt": "2026-11-23T14:18:31Z"
       },
       {
-        "title": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
-        "url": "https://klistra.ai",
+        "title": "Show HN: Gall – Inkling 2 Mini on 24GB M2, frees RAM between messages",
+        "url": "https://github.com/ltrgoddard/gall",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T15:06:53Z"
+        "publishedAt": "2026-11-22T21:40:38Z"
       },
       {
-        "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-        "url": "https://news.ycombinator.com/item?id=50583761",
+        "title": "Show HN: Gitfold – every Git branch as a folder, ready in a second",
+        "url": "https://github.com/pkukielka/gitfold",
         "source": "Hacker News",
-        "publishedAt": "2026-11-20T23:18:32Z"
+        "publishedAt": "2026-11-22T17:38:28Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+        "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+        "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
         "source": "NASA",
-        "publishedAt": "2026-11-22T05:05:00Z"
+        "publishedAt": "2026-11-23T16:08:23Z"
       },
       {
-        "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-        "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-        "source": "Spaceflight Now",
-        "publishedAt": "2026-11-21T16:50:51Z"
-      },
-      {
-        "title": "Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission",
-        "url": "https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/",
+        "title": "Eutelsat Wins $60 Million US Space Force Contract",
+        "url": "https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/",
         "source": "European Spaceflight",
-        "publishedAt": "2026-11-21T06:00:35Z"
+        "publishedAt": "2026-11-23T15:02:19Z"
+      },
+      {
+        "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+        "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+        "source": "NASA",
+        "publishedAt": "2026-11-23T15:00:00Z"
       }
     ]
   }
