@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-23T17:16:25.390Z",
+  "generatedAt": "2026-11-24T16:55:01.919Z",
   "domains": {
     "healthcare": [
       {
-        "title": "Ask HN: Solo dev at an early-stage startup (4 YoE). How to land mid-level roles?",
-        "url": "https://news.ycombinator.com/item?id=50587779",
+        "title": "The unfair edge of biotech hedge funds",
+        "url": "https://www.worksinprogress.news/p/the-unfair-edge-of-biotech-hedge",
         "source": "Hacker News",
-        "publishedAt": "2026-11-21T10:20:04Z"
+        "publishedAt": "2026-11-23T18:15:27Z"
       },
       {
-        "title": "SlashCollect",
-        "url": "https://news.ycombinator.com/item?id=50557273",
+        "title": "Biochar and River Mud Recycling Cut Emissions in Traditional Silk Dyeing",
+        "url": "https://bioengineer.org/biochar-and-river-mud-recycling-cut-emissions-in-traditional-silk-dyeing/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-19T08:01:05Z"
+        "publishedAt": "2026-11-21T10:38:40Z"
       },
       {
         "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
@@ -23,82 +23,82 @@
     ],
     "computing": [
       {
-        "title": "Show HN: A free creative suite, built in Rust, for AI collaboration",
-        "url": "https://codeyam.com/apps/cadyam",
+        "title": "Show HN: Chili3D – Open-source browser CAD with parametric/push-pull modeling",
+        "url": "https://github.com/xiangechen/chili3d",
         "source": "Hacker News",
-        "publishedAt": "2026-11-23T16:17:11Z"
+        "publishedAt": "2026-11-24T14:49:49Z"
       },
       {
-        "title": "EasyPost (YC S13) Files for IPO",
-        "url": "https://www.businesswire.com/news/home/20261118748771/en/EasyPost-the-Leading-Shipping-AI-and-API-Platform-for-Modern-Commerce-to-Go-Public-on-Nasdaq-Through-Business-Combination-with-American-Drive-Acquisition-Company",
+        "title": "Jensen Huang and the Great Man Theory of AI",
+        "url": "https://www.thefp.com/p/niall-ferguson-jensen-huang-ai-chips-business-trump",
         "source": "Hacker News",
-        "publishedAt": "2026-11-23T16:10:47Z"
+        "publishedAt": "2026-11-24T14:14:12Z"
       },
       {
-        "title": "Show HN: SecureVibe – Find and trace vulnerabilities for vibe coded apps",
-        "url": "https://securevibe-dev.vercel.app/",
+        "title": "AI Chipmaker Axelera in Talks to Raise Additional $400M",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/ai-chipmaker-axelera-in-talks-to-raise-additional-400-million",
         "source": "Hacker News",
-        "publishedAt": "2026-11-23T14:53:05Z"
+        "publishedAt": "2026-11-24T12:52:40Z"
       }
     ],
     "manufacturing": [
       {
-        "title": "Show HN: Browser-only STEP, STL, 3MF and OBJ tools for 3D printing",
-        "url": "https://addercad.com/tools",
+        "title": "Show HN: status: an emoji and your status, built with SvelteKit and Claude",
+        "url": "https://status.me/",
         "source": "Hacker News",
-        "publishedAt": "2026-11-23T08:03:34Z"
+        "publishedAt": "2026-11-24T14:00:36Z"
       },
       {
-        "title": "Ask HN: Are the trades a safe career transition?",
-        "url": "https://news.ycombinator.com/item?id=50600771",
+        "title": "MRCF, an open-source robot control framework that runs on a laptop",
+        "url": "https://github.com/mitos-robotics/MRCF",
         "source": "Hacker News",
-        "publishedAt": "2026-11-22T15:52:33Z"
+        "publishedAt": "2026-11-24T12:26:39Z"
       },
       {
-        "title": "Show HN: A free website check that starts from what your buyers search",
-        "url": "https://meetadmiral.com/website-seo-checker",
+        "title": "Securing Python projects from supply-chain attacks",
+        "url": "https://astral.sh/blog/securing-from-supply-chain-attacks",
         "source": "Hacker News",
-        "publishedAt": "2026-11-22T12:02:25Z"
+        "publishedAt": "2026-11-24T09:21:49Z"
       }
     ],
     "new-innovation": [
       {
-        "title": "Show HN: I built Maeto, an SRv6 SD-WAN from scratch on Linux that you can break",
-        "url": "https://maeto.saphal.me/",
+        "title": "Show HN: Brickie – deploy sandboxes in your own AWS account",
+        "url": "https://github.com/hatchet-dev/brickie",
         "source": "Hacker News",
-        "publishedAt": "2026-11-23T14:18:31Z"
+        "publishedAt": "2026-11-24T15:48:34Z"
       },
       {
-        "title": "Show HN: Gall – Inkling 2 Mini on 24GB M2, frees RAM between messages",
-        "url": "https://github.com/ltrgoddard/gall",
+        "title": "GTA 6 Running on Windows",
+        "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
         "source": "Hacker News",
-        "publishedAt": "2026-11-22T21:40:38Z"
+        "publishedAt": "2026-11-24T13:19:31Z"
       },
       {
-        "title": "Show HN: Gitfold – every Git branch as a folder, ready in a second",
-        "url": "https://github.com/pkukielka/gitfold",
+        "title": "Six studies by Spain's 'top emerging scientist' retracted over irregularities",
+        "url": "https://english.elpais.com/science-tech/2026-11-17/six-studies-by-daniel-balsalobre-spains-number-1-emerging-scientist-are-retracted-due-to-irregularities.html",
         "source": "Hacker News",
-        "publishedAt": "2026-11-22T17:38:28Z"
+        "publishedAt": "2026-11-21T17:20:51Z"
       }
     ],
     "out-of-this-world": [
       {
-        "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
-        "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
-        "source": "NASA",
-        "publishedAt": "2026-11-23T16:08:23Z"
+        "title": "Tiangong Space Station to welcome first international visitor",
+        "url": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+        "source": "NASASpaceflight",
+        "publishedAt": "2026-11-24T16:26:52Z"
       },
       {
-        "title": "Eutelsat Wins $60 Million US Space Force Contract",
-        "url": "https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/",
-        "source": "European Spaceflight",
-        "publishedAt": "2026-11-23T15:02:19Z"
+        "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+        "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+        "source": "Arstechnica",
+        "publishedAt": "2026-11-24T16:12:46Z"
       },
       {
-        "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
-        "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+        "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+        "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
         "source": "NASA",
-        "publishedAt": "2026-11-23T15:00:00Z"
+        "publishedAt": "2026-11-24T15:44:38Z"
       }
     ]
   }
