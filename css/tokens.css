@@ -1,0 +1,70 @@
+/* Design tokens — source of truth. Change here, not in page CSS. */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Fraunces:ital,wght@0,400;1,400&display=swap");
+
+:root {
+  /* colour */
+  --bg: #D9CCB4;          /* warm cream */
+  --ink: #1E1B18;         /* near-black text */
+  --ink-soft: #5A524A;    /* labels, captions */
+  --accent: #B5452A;      /* rust — headlines + numbers only */
+  --rule: rgba(30, 27, 24, 0.18);
+  --bg-dark: #1F1F1F;     /* home / intro */
+  --ink-on-dark: #F1ECE2;
+  --accent-dark: #F2D46B; /* yellow headline on dark */
+
+  /* type */
+  --font-sans: "Outfit", system-ui, sans-serif;
+  --font-serif: "Fraunces", Georgia, serif;
+  --fs-display: clamp(64px, 11vw, 160px);
+  --fs-h2: clamp(36px, 5vw, 64px);
+  --fs-h3: clamp(22px, 2.2vw, 30px);
+  --fs-body: 16px;
+  --fs-small: 13px;
+  --lh-tight: 0.95;
+  --lh-body: 1.5;
+
+  /* space (8-pt) */
+  --s1: 8px; --s2: 16px; --s3: 24px; --s4: 32px; --s6: 48px; --s8: 64px; --s12: 96px; --s16: 128px;
+
+  /* motion */
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur: 900ms;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  -webkit-font-smoothing: antialiased;
+}
+body.is-dark { background: var(--bg-dark); color: var(--ink-on-dark); }
+
+/* tiny nav */
+.nav {
+  position: fixed; inset: 0 0 auto 0; z-index: 50;
+  display: flex; justify-content: space-between;
+  padding: var(--s2) var(--s3);
+  font-size: 14px; mix-blend-mode: difference; color: #fff;
+}
+.nav a { color: inherit; text-decoration: none; opacity: .6; }
+.nav a[aria-current="page"], .nav a:hover { opacity: 1; }
+.nav__links a + a { margin-left: 6px; }
+
+/* section header: 01 — label */
+.section-head {
+  display: flex; justify-content: space-between;
+  border-top: 1px solid var(--rule);
+  padding-top: var(--s1); margin-bottom: var(--s6);
+  font-size: var(--fs-small); color: var(--ink-soft);
+}
+
+.display { font-size: var(--fs-display); line-height: var(--lh-tight); font-weight: 600; color: var(--accent); letter-spacing: -0.02em; margin: 0; }
+.big-number { font-size: clamp(56px, 7vw, 96px); font-weight: 600; color: var(--accent); line-height: 1; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

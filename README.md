@@ -1,16 +1,59 @@
-# React + Vite
+# yash-portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Personal portfolio of Yash Santwani, built with Claude Code using the compound engineering loop:
+**Brainstorm → Plan → Work → Review → Compound**.
 
-Currently, two official plugins are available:
+## Run locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```bash
+python3 -m http.server 5500
+# open http://localhost:5500
+```
 
-## React Compiler
+## Setup (once)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+# 1. Install Claude Code
+curl -fsSL https://claude.ai/install.sh | bash        # Mac / Linux
+# irm https://claude.ai/install.ps1 | iex             # Windows PowerShell
 
-## Expanding the Oxlint configuration
+# 2. Start it in this folder
+cd yash-portfolio
+claude
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Inside Claude Code:
+
+```
+/plugin marketplace add EveryInc/compound-engineering-plugin
+/plugin install compound-engineering
+```
+
+Restart (`/exit`, then `claude`). Type `/ce` to confirm the commands appear.
+
+## Per feature
+
+1. `/clear`
+2. Paste the prompts from `docs/prompts.md` in order (brainstorm → plan → work → review → compound)
+3. Preview at `http://localhost:5500` (desktop + phone view)
+4. `git add . && git commit -m "Feature N: <name>" && git push`
+5. Tick the feature in `docs/backlog.md`
+
+## Folders
+
+| Path | What |
+| --- | --- |
+| `CLAUDE.md` | Rules Claude reads every session |
+| `docs/backlog.md` | Feature order + status |
+| `docs/prompts.md` | Copy-paste prompts for each phase |
+| `docs/plans/` | Plans written by `/ce-plan` |
+| `docs/solutions/` | Lessons written by `/ce-compound` |
+| `reference/` | Screenshots of the design reference |
+| `css/tokens.css` | Colours, type, spacing |
+| `js/` | Reusable effects: grain, dust, reveal, counter |
+| `assets/img` | Photos (WebP) |
+
+## Deploy
+
+GitHub → Settings → Pages → Deploy from a branch → `main` / root.
+Live at `https://<username>.github.io/yash-portfolio/`.

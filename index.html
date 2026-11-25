@@ -1,17 +1,49 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Yash Santwani</title>
-    <meta name="description" content="Personal hub — projects, writing, and contact." />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700;800;900&display=swap" rel="stylesheet" />
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Yash Santwani</title>
+  <meta name="description" content="Yash Santwani — founder, venture and AI product builder.">
+  <link rel="stylesheet" href="css/tokens.css">
+  <style>
+    /* Starter test page: proves tokens + effects work. Replace via the backlog. */
+    .intro { position: relative; height: 100vh; }
+    .intro canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+    .intro h1 { position: absolute; left: var(--s4); top: 30vh; margin: 0; font-size: clamp(40px, 6vw, 72px); font-weight: 600;
+      color: var(--ink-on-dark); text-shadow: 0 0 18px rgba(255,255,255,.45); }
+    .demo { padding: var(--s16) var(--s4); max-width: 900px; margin-left: auto; }
+    .numbers { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: var(--s6); }
+    .numbers p { margin: var(--s1) 0 0; font-size: var(--fs-small); color: var(--ink-soft); }
+    .light { background: var(--bg); color: var(--ink); }
+  </style>
+</head>
+<body class="is-dark">
+  <nav class="nav">
+    <a href="index.html" aria-current="page">Yash Santwani</a>
+    <span class="nav__links"><a href="#">Portfolio,</a><a href="about.html">About,</a><a href="#">Contacts</a></span>
+  </nav>
+
+  <section class="intro">
+    <canvas data-dust="dark" aria-hidden="true"></canvas>
+    <h1>Yash Santwani</h1>
+  </section>
+
+  <main class="light">
+    <section class="demo">
+      <h2 class="display" data-reveal>Making the complex clear</h2>
+      <div class="section-head" style="margin-top: var(--s12)"><span>Numbers</span><span>01</span></div>
+      <div class="numbers">
+        <div><span class="big-number" data-count="3" data-suffix="+">0</span><p>placeholder label</p></div>
+        <div><span class="big-number" data-count="10" data-suffix="+">0</span><p>placeholder label</p></div>
+        <div><span class="big-number" data-count="5">0</span><p>placeholder label</p></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/grain.js" defer></script>
+  <script src="js/dust.js" defer></script>
+  <script src="js/reveal.js" defer></script>
+  <script src="js/counter.js" defer></script>
+</body>
 </html>
